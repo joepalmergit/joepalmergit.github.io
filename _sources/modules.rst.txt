@@ -1,0 +1,45 @@
+Modules
+=======
+
+Definition
+----------
+
+A module in Python is a file that contains Python code — for example, functions — that you can reuse in other programs.
+
+Modules are useful in Python because they help to organise code into smaller, easier-to-manage sections. Using modules also makes a program cleaner, more organised and easier to read and understand.
+
+Example 1 - Importing and Using a Custom Module
+-----------------------------------------------
+
+If you create a file called ``functions.py`` containing:
+
+.. code-block:: python
+    :linenos:
+
+    def greet(firstName):
+        print(f"Greetings, {firstName}!")
+
+Then in another Python file (``main.py``) you can use:
+
+.. code-block:: python
+    :linenos:
+
+    import functions
+
+    functions.greet("John")
+
+.. important:: 
+
+    When you create your own modules, both files - the one that defines the functions and the one that imports them - must be saved in the same folder. This allows Python to find the module correctly when you use the ``import`` statement.
+
+.. dropdown:: Show Output
+
+    Greetings, John!
+
+    .. admonition:: Explanation
+
+        In the file called ``functions.py``, a function named ``greet`` is created. This function takes one parameter called ``firstName``. When the function runs, it displays a message on the screen that says “Greetings,” followed by the name that was given as the parameter.
+
+        In the file called ``main.py``, the code imports the ``functions.py`` file as a module using the ``import functions`` statement. This allows the program to use the ``greet`` function that was defined in the other file. The line ``functions.greet("John")`` calls the function and passes in the name “John” as the argument.
+
+        When the ``main.py`` file is run, Python looks inside ``functions.py`` to find the greet function and runs it.

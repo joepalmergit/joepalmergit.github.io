@@ -8,5 +8,7 @@ Created for my students to help them. A spiritual successor to Easy Python Docs 
 .. toctree::
    :hidden:
    
+   output
    functions
    modules
+   error_handling

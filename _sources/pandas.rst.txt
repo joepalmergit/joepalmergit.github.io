@@ -1,0 +1,154 @@
+Pandas
+======
+
+*This section is currently unfinished and will be updated further!*
+
+Pandas is a Python library that makes it easier to work with data.
+
+It helps programmers to store, clean, sort and analyse data - especially data that looks like a table (rows and columns), similar to a spreadsheet in Excel.
+
+Example 1 - Reading a CSV File
+------------------------------
+
+Suppose there is a file named ``products_complete.csv`` that contains the following data:
+
+.. code-block::
+    :linenos:
+
+    ProductID,ProductName,Category,Price,Stock
+    1,Laptop,Electronics,750,10
+    2,Mouse,Accessories,25,50
+    3,Keyboard,Accessories,40,25
+    4,Monitor,Electronics,150,15
+    5,Printer,Electronics,120,20
+
+We can use Pandas to load this file and display its contents using the following code:
+
+.. code-block:: python
+    :linenos:
+
+    import pandas as pd
+
+    data = pd.read_csv("products_complete.csv")
+
+    print(data)
+
+.. dropdown:: Show Output
+
+    .. code-block::
+
+           ProductID ProductName     Category  Price  Stock
+        0          1      Laptop  Electronics    750     10
+        1          2       Mouse  Accessories     25     50
+        2          3    Keyboard  Accessories     40     25
+        3          4     Monitor  Electronics    150     15
+        4          5     Printer  Electronics    120     20
+
+    .. admonition:: Explanation
+
+        The first line imports the Pandas library and gives it a shorter name, ``pd``. This makes it easier to use later in the program without typing the full word "pandas" each time.
+
+        The third line tells Pandas to read a file called ``products_complete.csv``. The information from this file is stored in a special data structure called a DataFrame, which works like a table with rows and columns. The variable named ``data`` now holds all of this information.
+
+        The final line shows the contents of the DataFrame on the screen. When this code is run, it will show the data from the CSV file in a table format, similar to how it would appear in a spreadsheet such as Excel.
+
+Example 2 - Calculating the Average Price
+-----------------------------------------
+
+.. code-block:: python
+    :linenos:
+
+    import pandas as pd
+
+    data = pd.read_csv("products_complete.csv")
+
+    averagePrice = data["Price"].mean()
+
+    print(averagePrice)
+
+.. dropdown:: Show Output
+    
+    217.0
+
+    .. admonition:: Explanation
+
+        The fifth line looks at the Price column in the DataFrame and uses the ``.mean()`` function to calculate the average (mean) price of all the products. The result is then stored in a variable called ``averagePrice``.
+
+        The final line displays the average price on the screen.
+
+Example 3 - Finding the Highest Price
+-------------------------------------
+
+.. code-block:: python
+    :linenos:
+
+    import pandas as pd
+
+    data = pd.read_csv("products_complete.csv")
+
+    maxPrice = data["Price"].max()
+
+    print(maxPrice)
+
+.. dropdown:: Show Output
+
+    750
+
+    .. admonition:: Explanation
+
+        The fifth line looks at the Price column and finds the maximum value - in other words, the highest price among all the products in the dataset. The result is stored in a variable called ``maxPrice``.
+
+        The final line displays that highest price on the screen.
+
+Example 4 - Finding the Lowest Price
+------------------------------------
+
+.. code-block:: python
+    :linenos:
+
+    import pandas as pd
+
+    data = pd.read_csv("products_complete.csv")
+
+    minPrice = data["Price"].min()
+
+    print(minPrice)
+
+.. dropdown:: Show Output
+
+    25
+    
+    .. admonition:: Explanation
+
+        The fifth line looks at the Price column and finds the minimum value - in other words, the lowest price among all the products in the dataset. The result is stored in a variable called ``minPrice``.
+
+        The final line displays that lowest price on the screen.
+
+Example 5 - Finding the Most and Least Expensive Products
+---------------------------------------------------------
+
+.. code-block:: python
+    :linenos:
+
+    import pandas as pd
+
+    data = pd.read_csv("products_complete.csv")
+
+    mostExpensive = data.loc[data["Price"].idxmax(), "ProductName"]
+    leastExpensive = data.loc[data["Price"].idxmin(), "ProductName"]
+
+    print(f"Most Expensive Product: {mostExpensive}")
+    print(f"Least Expensive Product: {leastExpensive}")
+
+.. dropdown:: Show Output
+
+    | Most Expensive Product: Laptop
+    | Least Expensive Product: Mouse
+
+    .. admonition:: Explanation
+
+        The fifth line finds the name of the product with the highest price. The ``idxmax()`` function identifies the row number where the price is the highest and ``.loc[ , "ProductName"]`` looks up the product name in that same row.
+
+        The sixth line does the same thing but finds the name of the product with the lowest price instead. The ``idxmin()`` function identifies the row where the price is the smallest.
+
+        The final two lines use f-strings to display both results in a clear format.

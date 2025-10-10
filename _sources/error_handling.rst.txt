@@ -1,9 +1,6 @@
 Error Handling
 ==============
 
-Definition
-----------
-
 Error handling is a way of dealing with problems that happen when a program runs.
 
 Sometimes, programs crash because of mistakes like typing the wrong input. Instead of stopping the program completely, error handling lets the program catch these problems and respond safely.

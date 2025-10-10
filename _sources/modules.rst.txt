@@ -1,9 +1,6 @@
 Modules
 =======
 
-Definition
-----------
-
 A module in Python is a file that contains Python code — for example, functions — that you can reuse in other programs.
 
 Modules are useful in Python because they help to organise code into smaller, easier-to-manage sections. Using modules also makes a program cleaner, more organised and easier to read and understand.

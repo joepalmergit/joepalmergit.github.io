@@ -1,9 +1,6 @@
 Functions
 =========
 
-Definition
-----------
-
 A function in Python is a block of code that performs a specific task. You can “call” the function whenever you need to use that task, instead of writing the same code again and again​.
 
 It’s like a mini-program inside your main program - it keeps your code organised, reusable and easier to understand​.

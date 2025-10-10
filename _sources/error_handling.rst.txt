@@ -1,0 +1,71 @@
+Error Handling
+==============
+
+Error handling is a way of dealing with problems that happen when a program runs.
+
+Sometimes, programs crash because of mistakes like typing the wrong input. Instead of stopping the program completely, error handling lets the program catch these problems and respond safely.
+
+Example 1 - Handling Errors When Adding Numbers
+-----------------------------------------------
+
+.. code-block:: python
+    :linenos:
+
+    try:
+        numberOne = float(input("Enter a number: "))
+        numberTwo = float(input("Enter another number: "))
+
+        result = numberOne + numberTwo
+
+        print(f"Result: {result}")
+
+    except ValueError:
+        print("You must enter numbers only.")
+
+.. dropdown:: Show Output
+
+    | Enter a number: 5
+    | Enter another number: ten
+    | You must enter numbers only.
+
+    .. admonition:: Explanation
+
+        This program asks the user to type in two numbers. It then adds the two numbers together and shows the result on the screen.
+
+        The ``try`` block contains the code that might cause an error - in this case, when the user enters something that isn’t a number. If that happens, Python will stop running the try block and jump to the ``except`` block instead.
+
+        The ``except ValueError:`` block then displays the message "You must enter numbers only." This prevents the program from crashing and gives the user clear feedback about what went wrong.
+
+Example 2 - Using a While Loop to Validate User Input
+-----------------------------------------------------
+
+.. code-block:: python
+    :linenos:
+
+    numberInvalid = True
+
+    while numberInvalid == True:
+        try:
+            number = int(input("Enter a number: "))
+            numberInvalid = False
+
+        except ValueError:
+            print("Please enter a number.")
+
+.. dropdown:: Show Output
+
+    | Enter a number: ten
+    | Please enter a number.
+    | Enter a number: 1a
+    | Please enter a number.
+    | Enter a number: 10
+
+    .. admonition:: Explanation
+
+        At the start of the program, the variable ``numberInvalid`` is set to ``True``. This means that the program assumes the user has not yet entered a valid number.
+
+        The ``while`` loop will continue running as long as ``numberInvalid`` is ``True``. Inside the loop, the program tries to run the code inside the ``try`` block. It asks the user to enter a value using the ``input()`` function and then attempts to convert that input into an integer using ``int()``.
+
+        If the user enters something that can be converted into a number, such as ``5`` or ``12``, the conversion will succeed. The program then sets ``numberInvalid`` to ``False``, which causes the loop to stop.
+
+        However, if the user enters something that cannot be turned into a number, such as ``cat`` or ``hello``, the program will produce a ``ValueError``. When this happens, the ``except`` block runs and displays the message ``"Please enter a number."`` on the screen. The loop then starts again, asking the user to try again.

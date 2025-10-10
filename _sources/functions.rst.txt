@@ -1,0 +1,116 @@
+Functions
+=========
+
+A function in Python is a block of code that performs a specific task. You can “call” the function whenever you need to use that task, instead of writing the same code again and again​.
+
+It’s like a mini-program inside your main program - it keeps your code organised, reusable and easier to understand​.
+
+Example 1 - Creating a Function with a Single Parameter
+-------------------------------------------------------
+.. code-block:: python
+    :linenos:
+
+    def greet(firstName):
+        print(f"Greetings, {firstname}!")
+
+    greet("John")
+
+.. dropdown:: Show Output
+
+    Greetings, John!
+
+    .. admonition:: Explanation
+
+        This code defines a function called ``greet`` that takes one parameter named ``firstName``. Inside the function, the ``print`` statement uses an f-string to combine the word “Greetings,” with the value stored in ``firstName``. When the function is called using ``greet("John")``, the word "John" is passed into the function as the value of ``firstName``.
+
+Example 2 - Creating a Function with Multiple Parameters
+--------------------------------------------------------
+
+.. code-block:: python
+    :linenos:
+
+    def greet(firstName, lastName):
+        print(f"Greetings, {firstName} {lastName}!")
+
+    greet("John", "Doe")
+
+.. dropdown:: Show Output
+    
+    Greetings, John Doe!
+
+    .. admonition:: Explanation
+
+        This code defines a function called ``greet`` that takes two parameters, ``firstName`` and ``lastName``. Inside the function, the ``print`` statement uses an f-string to combine the word “Greetings,” with both the first and last names. When the function is called using ``greet("John", "Doe")``, the values “John” and “Doe” are passed into the function and replace the parameters.
+
+Example 3 - Creating a Function with a Default Parameter
+--------------------------------------------------------
+
+.. code-block:: python
+    :linenos:
+
+    def sayGoodbye(firstName="Unknown"):
+        print(f"Goodbye, {firstName}!")
+        print("It was nice to see you.")
+
+    sayGoodbye()
+    sayGoodbye("Bob")
+
+.. dropdown:: Show Output
+
+    | Goodbye, Unknown!
+    | It was nice to see you.
+    | Goodbye, Bob!
+    | It was nice to see you.
+
+    .. admonition:: Explanation
+
+        This code defines a function called ``sayGoodbye`` that takes one parameter named ``firstName``. The parameter has a default value of ``"Unknown"``, which means if no name is given when the function is called, it will automatically use the word “Unknown.” Inside the function, there are two ``print`` statements. The first one uses an f-string to display a message saying goodbye to the person, and the second one prints an extra message saying “It was nice to see you.”
+
+Example 4 - Creating a Function That Performs a Calculation
+-----------------------------------------------------------
+
+.. code-block:: python
+    :linenos:
+
+    def add(number1, number2):
+        result = number1 + number2
+
+        print(f"{number1} + {number2} = {result}")
+
+    add(10, 5)
+
+.. dropdown:: Show Output
+
+    10 + 5 = 15
+
+    .. admonition:: Explanation
+
+        This code defines a function called ``add`` that takes two parameters, ``number1`` and ``number2``. Inside the function, a new variable called ``result`` is created to store the sum of the two numbers. The ``print`` statement then uses an f-string to display the full calculation and its result in a clear format. When the function is called using ``add(10, 5)``, the values ``10`` and ``5`` are passed into the function, so ``result`` becomes ``15``.
+
+Return Values
+-------------
+
+When a function in Python finishes running, it can send a result back to the part of the program that called it. This is called returning a value​.
+
+You can think of it like the function doing some work, then handing the answer back to you so you can use it somewhere else in your program​.
+
+Example 5 - Creating a Function That Returns a Value
+----------------------------------------------------
+
+.. code-block:: python
+    :linenos:
+
+    def add(a, b):
+        return a + b
+
+    result = add(10, 5)
+
+    print(result)
+
+.. dropdown:: Show Output
+
+    15
+
+    .. admonition:: Explanation
+        
+        This code defines a function called ``add`` that takes two parameters, ``a`` and ``b``. Inside the function, the ``return`` statement is used to send back the sum of the two numbers. When the function is called with ``add(10, 5)``, it calculates ``10 + 5`` and returns the value ``15``. This result is then stored in a variable called ``result``.

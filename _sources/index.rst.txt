@@ -1,0 +1,15 @@
+Friendly Python
+===============
+
+
+Created for my students to help them. A spiritual successor to Easy Python Docs (RIP).
+
+
+.. toctree::
+   :hidden:
+   
+   output
+   input
+   functions
+   modules
+   error_handling

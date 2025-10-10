@@ -1,0 +1,230 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" data-content_root="./">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Functions &mdash; Friendly Python  documentation</title>
+      <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=b86133f3" />
+      <link rel="stylesheet" type="text/css" href="_static/css/theme.css?v=e59714d7" />
+      <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
+
+  
+      <script src="_static/jquery.js?v=5d32c60e"></script>
+      <script src="_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+      <script src="_static/documentation_options.js?v=5929fcd5"></script>
+      <script src="_static/doctools.js?v=9bcbadda"></script>
+      <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+      <script src="_static/design-tabs.js?v=f930bc37"></script>
+    <script src="_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Modules" href="modules.html" />
+    <link rel="prev" title="Input" href="input.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="index.html" class="icon icon-home">
+            Friendly Python
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="output.html">Output</a></li>
+<li class="toctree-l1"><a class="reference internal" href="input.html">Input</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Functions</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#example-1-creating-a-function-with-a-single-parameter">Example 1 - Creating a Function with a Single Parameter</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#example-2-creating-a-function-with-multiple-parameters">Example 2 - Creating a Function with Multiple Parameters</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#example-3-creating-a-function-with-a-default-parameter">Example 3 - Creating a Function with a Default Parameter</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#example-4-creating-a-function-that-performs-a-calculation">Example 4 - Creating a Function That Performs a Calculation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#return-values">Return Values</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#example-5-creating-a-function-that-returns-a-value">Example 5 - Creating a Function That Returns a Value</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="modules.html">Modules</a></li>
+<li class="toctree-l1"><a class="reference internal" href="error_handling.html">Error Handling</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">Friendly Python</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="index.html" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">Functions</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="_sources/functions.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="functions">
+<h1>Functions<a class="headerlink" href="#functions" title="Link to this heading"></a></h1>
+<p>A function in Python is a block of code that performs a specific task. You can “call” the function whenever you need to use that task, instead of writing the same code again and again​.</p>
+<p>It’s like a mini-program inside your main program - it keeps your code organised, reusable and easier to understand​.</p>
+<section id="example-1-creating-a-function-with-a-single-parameter">
+<h2>Example 1 - Creating a Function with a Single Parameter<a class="headerlink" href="#example-1-creating-a-function-with-a-single-parameter" title="Link to this heading"></a></h2>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos">1</span><span class="k">def</span><span class="w"> </span><span class="nf">greet</span><span class="p">(</span><span class="n">firstName</span><span class="p">):</span>
+<span class="linenos">2</span>    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;Greetings, </span><span class="si">{</span><span class="n">firstname</span><span class="si">}</span><span class="s2">!&quot;</span><span class="p">)</span>
+<span class="linenos">3</span>
+<span class="linenos">4</span><span class="n">greet</span><span class="p">(</span><span class="s2">&quot;John&quot;</span><span class="p">)</span>
+</pre></div>
+</div>
+<details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">
+<summary class="sd-summary-title sd-card-header">
+<span class="sd-summary-text">Show Output</span><span class="sd-summary-state-marker sd-summary-chevron-right"><svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-right" viewBox="0 0 24 24" aria-hidden="true"><path d="M8.72 18.78a.75.75 0 0 1 0-1.06L14.44 12 8.72 6.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span></summary><div class="sd-summary-content sd-card-body docutils">
+<p class="sd-card-text">Greetings, John!</p>
+<div class="admonition-explanation admonition">
+<p class="admonition-title">Explanation</p>
+<p class="sd-card-text">This code defines a function called <code class="docutils literal notranslate"><span class="pre">greet</span></code> that takes one parameter named <code class="docutils literal notranslate"><span class="pre">firstName</span></code>. Inside the function, the <code class="docutils literal notranslate"><span class="pre">print</span></code> statement uses an f-string to combine the word “Greetings,” with the value stored in <code class="docutils literal notranslate"><span class="pre">firstName</span></code>. When the function is called using <code class="docutils literal notranslate"><span class="pre">greet(&quot;John&quot;)</span></code>, the word “John” is passed into the function as the value of <code class="docutils literal notranslate"><span class="pre">firstName</span></code>.</p>
+</div>
+</div>
+</details></section>
+<section id="example-2-creating-a-function-with-multiple-parameters">
+<h2>Example 2 - Creating a Function with Multiple Parameters<a class="headerlink" href="#example-2-creating-a-function-with-multiple-parameters" title="Link to this heading"></a></h2>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos">1</span><span class="k">def</span><span class="w"> </span><span class="nf">greet</span><span class="p">(</span><span class="n">firstName</span><span class="p">,</span> <span class="n">lastName</span><span class="p">):</span>
+<span class="linenos">2</span>    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;Greetings, </span><span class="si">{</span><span class="n">firstName</span><span class="si">}</span><span class="s2"> </span><span class="si">{</span><span class="n">lastName</span><span class="si">}</span><span class="s2">!&quot;</span><span class="p">)</span>
+<span class="linenos">3</span>
+<span class="linenos">4</span><span class="n">greet</span><span class="p">(</span><span class="s2">&quot;John&quot;</span><span class="p">,</span> <span class="s2">&quot;Doe&quot;</span><span class="p">)</span>
+</pre></div>
+</div>
+<details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">
+<summary class="sd-summary-title sd-card-header">
+<span class="sd-summary-text">Show Output</span><span class="sd-summary-state-marker sd-summary-chevron-right"><svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-right" viewBox="0 0 24 24" aria-hidden="true"><path d="M8.72 18.78a.75.75 0 0 1 0-1.06L14.44 12 8.72 6.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span></summary><div class="sd-summary-content sd-card-body docutils">
+<p class="sd-card-text">Greetings, John Doe!</p>
+<div class="admonition-explanation admonition">
+<p class="admonition-title">Explanation</p>
+<p class="sd-card-text">This code defines a function called <code class="docutils literal notranslate"><span class="pre">greet</span></code> that takes two parameters, <code class="docutils literal notranslate"><span class="pre">firstName</span></code> and <code class="docutils literal notranslate"><span class="pre">lastName</span></code>. Inside the function, the <code class="docutils literal notranslate"><span class="pre">print</span></code> statement uses an f-string to combine the word “Greetings,” with both the first and last names. When the function is called using <code class="docutils literal notranslate"><span class="pre">greet(&quot;John&quot;,</span> <span class="pre">&quot;Doe&quot;)</span></code>, the values “John” and “Doe” are passed into the function and replace the parameters.</p>
+</div>
+</div>
+</details></section>
+<section id="example-3-creating-a-function-with-a-default-parameter">
+<h2>Example 3 - Creating a Function with a Default Parameter<a class="headerlink" href="#example-3-creating-a-function-with-a-default-parameter" title="Link to this heading"></a></h2>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos">1</span><span class="k">def</span><span class="w"> </span><span class="nf">sayGoodbye</span><span class="p">(</span><span class="n">firstName</span><span class="o">=</span><span class="s2">&quot;Unknown&quot;</span><span class="p">):</span>
+<span class="linenos">2</span>    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;Goodbye, </span><span class="si">{</span><span class="n">firstName</span><span class="si">}</span><span class="s2">!&quot;</span><span class="p">)</span>
+<span class="linenos">3</span>    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;It was nice to see you.&quot;</span><span class="p">)</span>
+<span class="linenos">4</span>
+<span class="linenos">5</span><span class="n">sayGoodbye</span><span class="p">()</span>
+<span class="linenos">6</span><span class="n">sayGoodbye</span><span class="p">(</span><span class="s2">&quot;Bob&quot;</span><span class="p">)</span>
+</pre></div>
+</div>
+<details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">
+<summary class="sd-summary-title sd-card-header">
+<span class="sd-summary-text">Show Output</span><span class="sd-summary-state-marker sd-summary-chevron-right"><svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-right" viewBox="0 0 24 24" aria-hidden="true"><path d="M8.72 18.78a.75.75 0 0 1 0-1.06L14.44 12 8.72 6.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span></summary><div class="sd-summary-content sd-card-body docutils">
+<div class="line-block">
+<div class="line">Goodbye, Unknown!</div>
+<div class="line">It was nice to see you.</div>
+<div class="line">Goodbye, Bob!</div>
+<div class="line">It was nice to see you.</div>
+</div>
+<div class="admonition-explanation admonition">
+<p class="admonition-title">Explanation</p>
+<p class="sd-card-text">This code defines a function called <code class="docutils literal notranslate"><span class="pre">sayGoodbye</span></code> that takes one parameter named <code class="docutils literal notranslate"><span class="pre">firstName</span></code>. The parameter has a default value of <code class="docutils literal notranslate"><span class="pre">&quot;Unknown&quot;</span></code>, which means if no name is given when the function is called, it will automatically use the word “Unknown.” Inside the function, there are two <code class="docutils literal notranslate"><span class="pre">print</span></code> statements. The first one uses an f-string to display a message saying goodbye to the person, and the second one prints an extra message saying “It was nice to see you.”</p>
+</div>
+</div>
+</details></section>
+<section id="example-4-creating-a-function-that-performs-a-calculation">
+<h2>Example 4 - Creating a Function That Performs a Calculation<a class="headerlink" href="#example-4-creating-a-function-that-performs-a-calculation" title="Link to this heading"></a></h2>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos">1</span><span class="k">def</span><span class="w"> </span><span class="nf">add</span><span class="p">(</span><span class="n">number1</span><span class="p">,</span> <span class="n">number2</span><span class="p">):</span>
+<span class="linenos">2</span>    <span class="n">result</span> <span class="o">=</span> <span class="n">number1</span> <span class="o">+</span> <span class="n">number2</span>
+<span class="linenos">3</span>
+<span class="linenos">4</span>    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;</span><span class="si">{</span><span class="n">number1</span><span class="si">}</span><span class="s2"> + </span><span class="si">{</span><span class="n">number2</span><span class="si">}</span><span class="s2"> = </span><span class="si">{</span><span class="n">result</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">)</span>
+<span class="linenos">5</span>
+<span class="linenos">6</span><span class="n">add</span><span class="p">(</span><span class="mi">10</span><span class="p">,</span> <span class="mi">5</span><span class="p">)</span>
+</pre></div>
+</div>
+<details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">
+<summary class="sd-summary-title sd-card-header">
+<span class="sd-summary-text">Show Output</span><span class="sd-summary-state-marker sd-summary-chevron-right"><svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-right" viewBox="0 0 24 24" aria-hidden="true"><path d="M8.72 18.78a.75.75 0 0 1 0-1.06L14.44 12 8.72 6.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span></summary><div class="sd-summary-content sd-card-body docutils">
+<p class="sd-card-text">10 + 5 = 15</p>
+<div class="admonition-explanation admonition">
+<p class="admonition-title">Explanation</p>
+<p class="sd-card-text">This code defines a function called <code class="docutils literal notranslate"><span class="pre">add</span></code> that takes two parameters, <code class="docutils literal notranslate"><span class="pre">number1</span></code> and <code class="docutils literal notranslate"><span class="pre">number2</span></code>. Inside the function, a new variable called <code class="docutils literal notranslate"><span class="pre">result</span></code> is created to store the sum of the two numbers. The <code class="docutils literal notranslate"><span class="pre">print</span></code> statement then uses an f-string to display the full calculation and its result in a clear format. When the function is called using <code class="docutils literal notranslate"><span class="pre">add(10,</span> <span class="pre">5)</span></code>, the values <code class="docutils literal notranslate"><span class="pre">10</span></code> and <code class="docutils literal notranslate"><span class="pre">5</span></code> are passed into the function, so <code class="docutils literal notranslate"><span class="pre">result</span></code> becomes <code class="docutils literal notranslate"><span class="pre">15</span></code>.</p>
+</div>
+</div>
+</details></section>
+<section id="return-values">
+<h2>Return Values<a class="headerlink" href="#return-values" title="Link to this heading"></a></h2>
+<p>When a function in Python finishes running, it can send a result back to the part of the program that called it. This is called returning a value​.</p>
+<p>You can think of it like the function doing some work, then handing the answer back to you so you can use it somewhere else in your program​.</p>
+</section>
+<section id="example-5-creating-a-function-that-returns-a-value">
+<h2>Example 5 - Creating a Function That Returns a Value<a class="headerlink" href="#example-5-creating-a-function-that-returns-a-value" title="Link to this heading"></a></h2>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos">1</span><span class="k">def</span><span class="w"> </span><span class="nf">add</span><span class="p">(</span><span class="n">a</span><span class="p">,</span> <span class="n">b</span><span class="p">):</span>
+<span class="linenos">2</span>    <span class="k">return</span> <span class="n">a</span> <span class="o">+</span> <span class="n">b</span>
+<span class="linenos">3</span>
+<span class="linenos">4</span><span class="n">result</span> <span class="o">=</span> <span class="n">add</span><span class="p">(</span><span class="mi">10</span><span class="p">,</span> <span class="mi">5</span><span class="p">)</span>
+<span class="linenos">5</span>
+<span class="linenos">6</span><span class="nb">print</span><span class="p">(</span><span class="n">result</span><span class="p">)</span>
+</pre></div>
+</div>
+<details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">
+<summary class="sd-summary-title sd-card-header">
+<span class="sd-summary-text">Show Output</span><span class="sd-summary-state-marker sd-summary-chevron-right"><svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-right" viewBox="0 0 24 24" aria-hidden="true"><path d="M8.72 18.78a.75.75 0 0 1 0-1.06L14.44 12 8.72 6.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span></summary><div class="sd-summary-content sd-card-body docutils">
+<p class="sd-card-text">15</p>
+<div class="admonition-explanation admonition">
+<p class="admonition-title">Explanation</p>
+<p class="sd-card-text">This code defines a function called <code class="docutils literal notranslate"><span class="pre">add</span></code> that takes two parameters, <code class="docutils literal notranslate"><span class="pre">a</span></code> and <code class="docutils literal notranslate"><span class="pre">b</span></code>. Inside the function, the <code class="docutils literal notranslate"><span class="pre">return</span></code> statement is used to send back the sum of the two numbers. When the function is called with <code class="docutils literal notranslate"><span class="pre">add(10,</span> <span class="pre">5)</span></code>, it calculates <code class="docutils literal notranslate"><span class="pre">10</span> <span class="pre">+</span> <span class="pre">5</span></code> and returns the value <code class="docutils literal notranslate"><span class="pre">15</span></code>. This result is then stored in a variable called <code class="docutils literal notranslate"><span class="pre">result</span></code>.</p>
+</div>
+</div>
+</details></section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="input.html" class="btn btn-neutral float-left" title="Input" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="modules.html" class="btn btn-neutral float-right" title="Modules" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2025, Joe Palmer.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

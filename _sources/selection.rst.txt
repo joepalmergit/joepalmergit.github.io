@@ -1,0 +1,61 @@
+Selection
+=========
+
+Selection means making a decision in your program - the code chooses what to do based on a condition.
+
+In other words, selection allows a program to run certain lines of code only if something is true. This helps the program behave differently depending on user input or data.
+
+Comparison Operators
+--------------------
+
+A comparison operator in Python is a symbol used to compare two values.
+
+Use the following table to see how different comparison operators work and what they mean.
+
++----------+--------------------------+-------------+-----------+
+| Operator |         Meaning          |   Example   |  Result   |
++==========+==========================+=============+===========+
+|  ``==``  |         Equal to         | ``5 == 5``  | ``True``  |
++----------+--------------------------+-------------+-----------+
+|  ``!=``  |       Not equal to       | ``5 != 3``  | ``True``  |
++----------+--------------------------+-------------+-----------+
+|  ``>``   |       Greater than       |  ``7 > 2``  | ``True``  |
++----------+--------------------------+-------------+-----------+
+|  ``<``   |        Less than         |  ``8 < 3``  | ``False`` |
++----------+--------------------------+-------------+-----------+
+|  ``>=``  | Greater than or equal to | ``6 >= 10`` | ``False`` |
++----------+--------------------------+-------------+-----------+
+|  ``<=``  |  Less than or equal to   | ``9 <= 5``  | ``False`` |
++----------+--------------------------+-------------+-----------+
+
+Example 1 - Using an If Statement to Check Age
+----------------------------------------------
+
+.. code-block:: python
+    :linenos:
+
+    age = int(input("How old are you? "))
+
+    if age >= 18:
+        print("You are an adult.")
+
+    else:
+        print("You are not an adult.")
+
+.. dropdown:: Show Output
+
+    .. code-block::
+        
+        How old are you? 22
+        You are an adult.
+
+    .. code-block::
+        
+        How old are you? 16
+        You are not an adult.
+
+    .. admonition:: Explanation
+
+        This Python program asks the user to enter their age. The ``input()`` function collects the user’s answer as text, and the ``int()`` function converts it into an integer so it can be compared with numbers.
+
+        The ``if`` statement then checks whether the user’s age is greater than or equal to 18. If this condition is true, the program prints the message “You are an adult.” If the condition is false, the ``else`` part runs, and the program prints “You are not an adult.”

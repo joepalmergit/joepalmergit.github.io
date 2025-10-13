@@ -22,7 +22,7 @@
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="Modules" href="modules.html" />
-    <link rel="prev" title="Input" href="input.html" /> 
+    <link rel="prev" title="Selection" href="selection.html" /> 
 </head>
 
 <body class="wy-body-for-nav"> 
@@ -47,13 +47,15 @@
               <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="output.html">Output</a></li>
 <li class="toctree-l1"><a class="reference internal" href="input.html">Input</a></li>
+<li class="toctree-l1"><a class="reference internal" href="selection.html">Selection</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Functions</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="#example-1-creating-a-function-with-a-single-parameter">Example 1 - Creating a Function with a Single Parameter</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#example-2-creating-a-function-with-multiple-parameters">Example 2 - Creating a Function with Multiple Parameters</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#example-3-creating-a-function-with-a-default-parameter">Example 3 - Creating a Function with a Default Parameter</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#example-4-creating-a-function-that-performs-a-calculation">Example 4 - Creating a Function That Performs a Calculation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#example-1-creating-a-function">Example 1 - Creating a Function</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#example-2-creating-a-function-with-a-single-parameter">Example 2 - Creating a Function with a Single Parameter</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#example-3-creating-a-function-with-multiple-parameters">Example 3 - Creating a Function with Multiple Parameters</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#example-4-creating-a-function-with-a-default-parameter">Example 4 - Creating a Function with a Default Parameter</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#example-5-creating-a-function-that-performs-a-calculation">Example 5 - Creating a Function That Performs a Calculation</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#return-values">Return Values</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#example-5-creating-a-function-that-returns-a-value">Example 5 - Creating a Function That Returns a Value</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#example-6-creating-a-function-that-returns-a-value">Example 6 - Creating a Function That Returns a Value</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="modules.html">Modules</a></li>
@@ -89,8 +91,37 @@
 <h1>Functions<a class="headerlink" href="#functions" title="Link to this heading"></a></h1>
 <p>A function in Python is a block of code that performs a specific task. You can “call” the function whenever you need to use that task, instead of writing the same code again and again​.</p>
 <p>It’s like a mini-program inside your main program - it keeps your code organised, reusable and easier to understand​.</p>
-<section id="example-1-creating-a-function-with-a-single-parameter">
-<h2>Example 1 - Creating a Function with a Single Parameter<a class="headerlink" href="#example-1-creating-a-function-with-a-single-parameter" title="Link to this heading"></a></h2>
+<section id="example-1-creating-a-function">
+<h2>Example 1 - Creating a Function<a class="headerlink" href="#example-1-creating-a-function" title="Link to this heading"></a></h2>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos">1</span><span class="k">def</span><span class="w"> </span><span class="nf">sayHello</span><span class="p">():</span>
+<span class="linenos">2</span>    <span class="n">firstName</span> <span class="o">=</span> <span class="nb">input</span><span class="p">(</span><span class="s2">&quot;What is your first name? &quot;</span><span class="p">)</span>
+<span class="linenos">3</span>
+<span class="linenos">4</span>    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;Hello, </span><span class="si">{</span><span class="n">firstName</span><span class="si">}</span><span class="s2">!&quot;</span><span class="p">)</span>
+<span class="linenos">5</span>    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;How are you today?&quot;</span><span class="p">)</span>
+<span class="linenos">6</span>
+<span class="linenos">7</span><span class="n">sayHello</span><span class="p">()</span>
+</pre></div>
+</div>
+<details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">
+<summary class="sd-summary-title sd-card-header">
+<span class="sd-summary-text">Show Output</span><span class="sd-summary-state-marker sd-summary-chevron-right"><svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-right" viewBox="0 0 24 24" aria-hidden="true"><path d="M8.72 18.78a.75.75 0 0 1 0-1.06L14.44 12 8.72 6.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span></summary><div class="sd-summary-content sd-card-body docutils">
+<div class="line-block">
+<div class="line">What is your first name? John</div>
+<div class="line">Hello, John!</div>
+<div class="line">How are you today?</div>
+</div>
+<div class="admonition-explanation admonition">
+<p class="admonition-title">Explanation</p>
+<p class="sd-card-text">The first line defines a function called <code class="docutils literal notranslate"><span class="pre">sayHello</span></code>.</p>
+<p class="sd-card-text">The second line asks the user to type in their first name. Whatever the user enters is stored in a variable called <code class="docutils literal notranslate"><span class="pre">firstName</span></code>.</p>
+<p class="sd-card-text">The fourth line displays a message that includes the user’s name. The f-string lets the variable <code class="docutils literal notranslate"><span class="pre">firstName</span></code> appear inside the message.</p>
+<p class="sd-card-text">The fifth line displays another friendly message on the screen.</p>
+<p class="sd-card-text">The final line calls the function which means Python runs all the code inside it.</p>
+</div>
+</div>
+</details></section>
+<section id="example-2-creating-a-function-with-a-single-parameter">
+<h2>Example 2 - Creating a Function with a Single Parameter<a class="headerlink" href="#example-2-creating-a-function-with-a-single-parameter" title="Link to this heading"></a></h2>
 <div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos">1</span><span class="k">def</span><span class="w"> </span><span class="nf">greet</span><span class="p">(</span><span class="n">firstName</span><span class="p">):</span>
 <span class="linenos">2</span>    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;Greetings, </span><span class="si">{</span><span class="n">firstname</span><span class="si">}</span><span class="s2">!&quot;</span><span class="p">)</span>
 <span class="linenos">3</span>
@@ -107,8 +138,8 @@
 </div>
 </div>
 </details></section>
-<section id="example-2-creating-a-function-with-multiple-parameters">
-<h2>Example 2 - Creating a Function with Multiple Parameters<a class="headerlink" href="#example-2-creating-a-function-with-multiple-parameters" title="Link to this heading"></a></h2>
+<section id="example-3-creating-a-function-with-multiple-parameters">
+<h2>Example 3 - Creating a Function with Multiple Parameters<a class="headerlink" href="#example-3-creating-a-function-with-multiple-parameters" title="Link to this heading"></a></h2>
 <div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos">1</span><span class="k">def</span><span class="w"> </span><span class="nf">greet</span><span class="p">(</span><span class="n">firstName</span><span class="p">,</span> <span class="n">lastName</span><span class="p">):</span>
 <span class="linenos">2</span>    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;Greetings, </span><span class="si">{</span><span class="n">firstName</span><span class="si">}</span><span class="s2"> </span><span class="si">{</span><span class="n">lastName</span><span class="si">}</span><span class="s2">!&quot;</span><span class="p">)</span>
 <span class="linenos">3</span>
@@ -125,8 +156,8 @@
 </div>
 </div>
 </details></section>
-<section id="example-3-creating-a-function-with-a-default-parameter">
-<h2>Example 3 - Creating a Function with a Default Parameter<a class="headerlink" href="#example-3-creating-a-function-with-a-default-parameter" title="Link to this heading"></a></h2>
+<section id="example-4-creating-a-function-with-a-default-parameter">
+<h2>Example 4 - Creating a Function with a Default Parameter<a class="headerlink" href="#example-4-creating-a-function-with-a-default-parameter" title="Link to this heading"></a></h2>
 <div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos">1</span><span class="k">def</span><span class="w"> </span><span class="nf">sayGoodbye</span><span class="p">(</span><span class="n">firstName</span><span class="o">=</span><span class="s2">&quot;Unknown&quot;</span><span class="p">):</span>
 <span class="linenos">2</span>    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;Goodbye, </span><span class="si">{</span><span class="n">firstName</span><span class="si">}</span><span class="s2">!&quot;</span><span class="p">)</span>
 <span class="linenos">3</span>    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;It was nice to see you.&quot;</span><span class="p">)</span>
@@ -150,8 +181,8 @@
 </div>
 </div>
 </details></section>
-<section id="example-4-creating-a-function-that-performs-a-calculation">
-<h2>Example 4 - Creating a Function That Performs a Calculation<a class="headerlink" href="#example-4-creating-a-function-that-performs-a-calculation" title="Link to this heading"></a></h2>
+<section id="example-5-creating-a-function-that-performs-a-calculation">
+<h2>Example 5 - Creating a Function That Performs a Calculation<a class="headerlink" href="#example-5-creating-a-function-that-performs-a-calculation" title="Link to this heading"></a></h2>
 <div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos">1</span><span class="k">def</span><span class="w"> </span><span class="nf">add</span><span class="p">(</span><span class="n">number1</span><span class="p">,</span> <span class="n">number2</span><span class="p">):</span>
 <span class="linenos">2</span>    <span class="n">result</span> <span class="o">=</span> <span class="n">number1</span> <span class="o">+</span> <span class="n">number2</span>
 <span class="linenos">3</span>
@@ -175,8 +206,8 @@
 <p>When a function in Python finishes running, it can send a result back to the part of the program that called it. This is called returning a value​.</p>
 <p>You can think of it like the function doing some work, then handing the answer back to you so you can use it somewhere else in your program​.</p>
 </section>
-<section id="example-5-creating-a-function-that-returns-a-value">
-<h2>Example 5 - Creating a Function That Returns a Value<a class="headerlink" href="#example-5-creating-a-function-that-returns-a-value" title="Link to this heading"></a></h2>
+<section id="example-6-creating-a-function-that-returns-a-value">
+<h2>Example 6 - Creating a Function That Returns a Value<a class="headerlink" href="#example-6-creating-a-function-that-returns-a-value" title="Link to this heading"></a></h2>
 <div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="linenos">1</span><span class="k">def</span><span class="w"> </span><span class="nf">add</span><span class="p">(</span><span class="n">a</span><span class="p">,</span> <span class="n">b</span><span class="p">):</span>
 <span class="linenos">2</span>    <span class="k">return</span> <span class="n">a</span> <span class="o">+</span> <span class="n">b</span>
 <span class="linenos">3</span>
@@ -201,7 +232,7 @@
            </div>
           </div>
           <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
-        <a href="input.html" class="btn btn-neutral float-left" title="Input" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="selection.html" class="btn btn-neutral float-left" title="Selection" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
         <a href="modules.html" class="btn btn-neutral float-right" title="Modules" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
     </div>
 

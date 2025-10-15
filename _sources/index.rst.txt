@@ -14,3 +14,4 @@ Created for my students to help them. A spiritual successor to Easy Python Docs 
    modules
    error_handling
    pandas
+   datetime

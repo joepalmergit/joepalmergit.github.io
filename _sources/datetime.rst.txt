@@ -1,0 +1,68 @@
+datetime
+========
+
+``datetime`` provides tools for managing and manipulating dates and times. It saves you time because you don’t have to write all that code yourself.
+
+Example 1 - Displaying the Current Date and Time
+------------------------------------------------
+
+.. code-block:: python
+    :linenos:
+
+    import datetime
+
+    currentTime = datetime.datetime.now()
+
+    print(currentTime)
+
+.. dropdown:: Show Output
+
+    2025-10-14 18:43:53.778399
+
+    .. admonition:: Explanation
+
+        The second line gets the current date and time from your computer’s clock.
+        
+        ``datetime.datetime`` refers to a class inside the ``datetime`` module. ``.now()`` is a method that returns the current local date and time. 
+        
+        The result is stored in a variable called ``currentTime``.
+
+Example 2 - Formatting the Current Date and Time
+------------------------------------------------
+
+.. code-block:: python
+    :linenos:
+
+    import datetime
+
+    currentTime = datetime.datetime.now()
+
+    formattedTime = currentTime.strftime("%d/%m/%Y %H:%M")
+
+    print(formattedTime)
+
+.. dropdown:: Show Output
+
+    14/10/2025 19:00
+
+    .. admonition:: Explanation
+
+        The fifth line formats the date and time to make it easier to read. 
+        
+        ``.strftime()`` changes the format into a string.
+
+        The symbols inside the brackets tell Python how to display the date and time:
+
+        +--------+-----------------------+
+        |  Code  |        Meaning        |
+        +========+=======================+
+        | ``%d`` |   Day (two digits)    |
+        +--------+-----------------------+
+        | ``%m`` |  Month (two digits)   |
+        +--------+-----------------------+
+        | ``%Y`` |  Year (four digits)   |
+        +--------+-----------------------+
+        | ``%H`` | Hour (24-hour format) |
+        +--------+-----------------------+
+        | ``%M`` |        Minute         |
+        +--------+-----------------------+

@@ -15,3 +15,4 @@ Created for my students to help them. A spiritual successor to Easy Python Docs 
    error_handling
    pandas
    datetime
+   cryptography

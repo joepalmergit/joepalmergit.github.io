@@ -1,0 +1,75 @@
+Cryptography
+============
+
+*This section is currently unfinished and will be updated further!*
+
+Example 1 - Generating a Random Salt Value
+------------------------------------------
+
+.. code-block:: python
+    :linenos:
+
+    import os
+
+    def generate_salt():
+        salt_value = os.urandom(16).hex()
+
+        return salt_value
+
+    salt = generate_salt()
+
+    print(f"Generated Salt: {salt}")
+
+
+.. dropdown:: Show Output
+    
+    .. code-block::
+        
+        Generated Salt: 5d35492ceb244ab8225ebeb5846eb9e0
+
+    .. admonition:: Explanation
+        
+        The first line imports Python’s built-in **os** module, which provides access to operating system features such as file handling and random number generation. In this case, the ``os.urandom()`` function will be used to generate cryptographically secure random data.
+
+        The third line defines a function called ``generate_salt`` that does not take any parameters.
+
+        On the fourth line, ``os.urandom(16)`` creates 16 random bytes using the operating system’s secure random number generator. ``.hex()`` converts those bytes into a hexadecimal string, which is a readable text format often used to represent binary data. The result is stored in the variable ``salt_value``.
+
+        The sixth line sends the generated hexadecimal string back to the code that called the function. The returned value can then be stored or used elsewhere in the program.
+
+        The eighth line calls the ``generate_salt()`` function. The returned hexadecimal string (the salt) is stored in the variable ``salt``.
+
+        The tenth and final line displays the generated salt on the screen. Each time the program is run, a different random string will be printed.
+
+Example 2 - Hashing a Password Using SHA-256
+--------------------------------------------
+
+.. code-block:: python
+    :linenos:
+
+    import hashlib
+
+    def hash_password(password):
+        password_hash = hashlib.sha256(password.encode()).hexdigest()
+        
+        return password_hash
+
+    hashed_password = hash_password("qwerty")
+
+    print(f"Password Hash: {hashed_password}")
+
+.. dropdown:: Show Output
+
+    .. code-block::
+
+        Password Hash: 65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5
+
+    .. admonition:: Explanation
+
+        The first line imports Python’s hashlib module. The ``hashlib`` module allows you to use different hashing algorithms, such as SHA-256, to convert data (like a password) into a fixed-length string of characters.
+
+        The third line defines a function called ``hash_password`` that takes one parameter, ``password``. The function’s job is to take the user’s password and convert it into a secure hashed version.
+
+        On the fourth line, ``password.encode()`` converts the password (which is a string) into bytes, because hashing algorithms work with bytes, not plain text. ``hashlib.sha256()`` applies the SHA-256 hashing algorithm to the password bytes. ``.hexdigest()`` converts the hash result into a readable hexadecimal string (a long sequence of numbers and letters).
+
+        The sixth line sends the generated hash value back to wherever the function was called. It means you can use the hashed password in the rest of your program.

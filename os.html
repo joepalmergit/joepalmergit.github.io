@@ -1,0 +1,24 @@
+<style>
+    h1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+</style>
+
+<h1 id="message"></h1>
+
+<script>
+    const today = new Date();
+
+    const targetDate = new Date(2026, 2, 9);
+
+    const difference = targetDate - today;
+
+    const daysUntil = Math.ceil(difference / (1000 * 60 * 60 * 24));
+
+    const message = `There are ${daysUntil} days until Occupational Specialism Task 1!`;
+
+    document.getElementById("message").innerText = message;
+</script>

@@ -1,0 +1,82 @@
+easy
+====
+
+*This section is currently unfinished and will be updated further!*
+
+The ``easy`` module is a collection of simple tools to help you with common programming tasks:
+   
+    * ``test()`` - Check if your functions are working correctly
+    * ``SQL`` - Work with databases easily
+
+Installation
+------------
+
+Save the ``easy.py`` file in the same folder as your Python programs. `Click here to download it. <https://raw.githubusercontent.com/joepalmergit/easy/refs/heads/main/easy.py>`_
+
+If the file opens in your browser instead of downloading, right-click the link and choose "Save Link As".
+
+Importing
+---------
+
+At the top of your Python file, import what you need:
+
+.. code-block:: python
+    :linenos:
+
+    from easy import test          # Just for testing
+    from easy import SQL           # Just for databases
+    from easy import test, SQL     # For both
+
+``test()``
+----------
+
+Basic Usage
+^^^^^^^^^^^
+
+.. code-block:: python
+    :linenos:
+
+    from easy import test
+
+    def add(a, b):
+        return a + b
+
+    test(add(2, 3), 5, "Adding 2 and 3")
+    test(add(10, 15), 26, "Adding 10 and 15")
+
+.. dropdown:: Show Output
+
+    ::
+
+        ✓ PASS: Adding 2 and 3
+        ✗ FAIL: Adding 10 and 15
+        Expected: 26
+        Got:      25
+        
+What You Need
+^^^^^^^^^^^^^
+
+1. **Your function call** - call your function with the inputs you want to test
+2. **Expected output** - what you think the function should return
+3. **Test name (optional)** - a description to help you know which test failed
+4. **Tolerance (optional)** - for decimal numbers, how close is close enough (default is 0.0001)
+
+Testing Decimal Numbers
+^^^^^^^^^^^^^^^^^^^^^^^
+
+When testing functions that return decimal numbers (floats), the ``test()`` function automatically handles small differences caused by how computers store decimals:
+
+.. code-block:: python
+    :linenos:
+
+    def add(a, b):
+        return a + b
+
+    # This works even though 0.1 + 0.2 doesn't exactly equal 0.3 in Python!
+    test(add(0.1, 0.2), 0.3, "Adding decimals")
+
+.. dropdown:: Show Output
+
+    ::
+
+        ✓ PASS: Adding decimals

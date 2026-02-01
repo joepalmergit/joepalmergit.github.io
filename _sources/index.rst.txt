@@ -16,3 +16,4 @@ Created for my students to help them. A spiritual successor to Easy Python Docs 
    pandas
    datetime
    cryptography
+   easy

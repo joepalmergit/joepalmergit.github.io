@@ -1,0 +1,11 @@
+StudentID,Name,Age,Gender,Class,Score,Attendance,City
+101,Alice Johnson,18,F,A,78,92,Stevenage
+102,Ben Carter,17,M,A,85,88,Hitchin
+103,Chloe Adams,18,F,B,90,96,Letchworth
+104,Daniel Patel,17,M,A,67,81,Baldock
+105,Emma Wright,19,F,B,72,89,Stevenage
+106,Finn Thompson,18,M,A,84,93,Luton
+107,Grace Lewis,17,F,B,91,97,Hitchin
+108,Harry Mitchell,18,M,A,76,90,Letchworth
+109,Isla Robinson,19,F,B,88,94,Baldock
+110,Jack Evans,18,M,A,82,85,Stevenage

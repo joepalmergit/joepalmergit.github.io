@@ -1,0 +1,289 @@
+month,fixture_category,ticket_category,tickets_available,tickets_sold,revenue_gbp
+2024-01,League,Standard,800,617,13574
+2024-01,League,Premium,1600,1187,47480
+2024-01,League,Family,2400,1930,30880
+2024-01,League,Accessible seating,1600,1237,22266
+2024-01,Cup,Standard,800,671,14762
+2024-01,Cup,Premium,2400,1986,79440
+2024-01,Cup,Family,4000,3754,60064
+2024-01,Cup,Accessible seating,800,800,14400
+2024-01,Friendly,Standard,1600,752,16544
+2024-01,Friendly,Premium,2400,1049,41960
+2024-01,Friendly,Family,2400,1387,22192
+2024-01,Friendly,Accessible seating,2400,1065,19170
+2024-02,League,Standard,1600,1410,31020
+2024-02,League,Premium,800,543,21720
+2024-02,League,Family,1600,1319,21104
+2024-02,League,Accessible seating,800,610,10980
+2024-02,Cup,Standard,1600,1436,31592
+2024-02,Cup,Premium,1600,1363,54520
+2024-02,Cup,Family,1600,1436,22976
+2024-02,Cup,Accessible seating,1600,1446,26028
+2024-02,Friendly,Standard,4000,1826,40172
+2024-02,Friendly,Premium,4000,1763,70520
+2024-02,Friendly,Family,800,475,7600
+2024-02,Friendly,Accessible seating,800,456,8208
+2024-03,League,Standard,800,615,13530
+2024-03,League,Premium,1600,1144,45760
+2024-03,League,Family,2400,2129,34064
+2024-03,League,Accessible seating,1600,1161,20898
+2024-03,Cup,Standard,800,719,15818
+2024-03,Cup,Premium,2400,2119,84760
+2024-03,Cup,Family,800,695,11120
+2024-03,Cup,Accessible seating,2400,2088,37584
+2024-03,Friendly,Standard,800,368,8096
+2024-03,Friendly,Premium,4000,1822,72880
+2024-03,Friendly,Family,4000,2268,36288
+2024-03,Friendly,Accessible seating,2400,1100,19800
+2024-04,League,Standard,2400,1876,41272
+2024-04,League,Premium,800,630,25200
+2024-04,League,Family,2400,2001,32016
+2024-04,League,Accessible seating,4000,3238,58284
+2024-04,Cup,Standard,1600,1311,28842
+2024-04,Cup,Premium,1600,1519,60760
+2024-04,Cup,Family,2400,2250,36000
+2024-04,Cup,Accessible seating,2400,2054,36972
+2024-04,Friendly,Standard,2400,1253,27566
+2024-04,Friendly,Premium,800,378,15120
+2024-04,Friendly,Family,2400,1283,20528
+2024-04,Friendly,Accessible seating,4000,1945,35010
+2024-05,League,Standard,2400,1759,38698
+2024-05,League,Premium,4000,2661,106440
+2024-05,League,Family,800,702,11232
+2024-05,League,Accessible seating,2400,1867,33606
+2024-05,Cup,Standard,800,704,15488
+2024-05,Cup,Premium,2400,2011,80440
+2024-05,Cup,Family,1600,1526,24416
+2024-05,Cup,Accessible seating,2400,2207,39726
+2024-05,Friendly,Standard,800,365,8030
+2024-05,Friendly,Premium,1600,686,27440
+2024-05,Friendly,Family,800,424,6784
+2024-05,Friendly,Accessible seating,4000,1964,35352
+2024-06,League,Standard,4000,3058,67276
+2024-06,League,Premium,800,568,22720
+2024-06,League,Family,1600,1284,20544
+2024-06,League,Accessible seating,1600,1269,22842
+2024-06,Cup,Standard,1600,1439,31658
+2024-06,Cup,Premium,800,733,29320
+2024-06,Cup,Family,1600,1386,22176
+2024-06,Cup,Accessible seating,800,762,13716
+2024-06,Friendly,Standard,800,415,9130
+2024-06,Friendly,Premium,2400,1048,41920
+2024-06,Friendly,Family,800,422,6752
+2024-06,Friendly,Accessible seating,800,392,7056
+2024-07,League,Standard,4000,3404,74888
+2024-07,League,Premium,800,552,22080
+2024-07,League,Family,2400,1900,30400
+2024-07,League,Accessible seating,800,626,11268
+2024-07,Cup,Standard,800,656,14432
+2024-07,Cup,Premium,800,663,26520
+2024-07,Cup,Family,2400,2397,38352
+2024-07,Cup,Accessible seating,1600,1474,26532
+2024-07,Friendly,Standard,1600,855,18810
+2024-07,Friendly,Premium,800,392,15680
+2024-07,Friendly,Family,800,385,6160
+2024-07,Friendly,Accessible seating,2400,1219,21942
+2024-08,League,Standard,2400,1751,38522
+2024-08,League,Premium,2400,1698,67920
+2024-08,League,Family,1600,1125,18000
+2024-08,League,Accessible seating,1600,1351,24318
+2024-08,Cup,Standard,1600,1474,32428
+2024-08,Cup,Premium,1600,1333,53320
+2024-08,Cup,Family,2400,2400,38400
+2024-08,Cup,Accessible seating,800,635,11430
+2024-08,Friendly,Standard,800,389,8558
+2024-08,Friendly,Premium,4000,1542,61680
+2024-08,Friendly,Family,4000,2343,37488
+2024-08,Friendly,Accessible seating,4000,2108,37944
+2024-09,League,Standard,4000,2945,64790
+2024-09,League,Premium,800,580,23200
+2024-09,League,Family,1600,1321,21136
+2024-09,League,Accessible seating,2400,1765,31770
+2024-09,Cup,Standard,800,754,16588
+2024-09,Cup,Premium,4000,3740,149600
+2024-09,Cup,Family,2400,2326,37216
+2024-09,Cup,Accessible seating,2400,2123,38214
+2024-09,Friendly,Standard,2400,1357,29854
+2024-09,Friendly,Premium,4000,1897,75880
+2024-09,Friendly,Family,4000,1998,31968
+2024-09,Friendly,Accessible seating,2400,1254,22572
+2024-10,League,Standard,2400,2053,45166
+2024-10,League,Premium,800,569,22760
+2024-10,League,Family,2400,2161,34576
+2024-10,League,Accessible seating,800,604,10872
+2024-10,Cup,Standard,1600,1375,30250
+2024-10,Cup,Premium,2400,2131,85240
+2024-10,Cup,Family,800,702,11232
+2024-10,Cup,Accessible seating,4000,3580,64440
+2024-10,Friendly,Standard,1600,749,16478
+2024-10,Friendly,Premium,800,326,13040
+2024-10,Friendly,Family,2400,1330,21280
+2024-10,Friendly,Accessible seating,800,413,7434
+2024-11,League,Standard,4000,2589,56958
+2024-11,League,Premium,2400,1707,68280
+2024-11,League,Family,800,675,10800
+2024-11,League,Accessible seating,1600,1120,20160
+2024-11,Cup,Standard,800,661,14542
+2024-11,Cup,Premium,800,684,27360
+2024-11,Cup,Family,800,796,12736
+2024-11,Cup,Accessible seating,1600,1501,27018
+2024-11,Friendly,Standard,800,392,8624
+2024-11,Friendly,Premium,2400,984,39360
+2024-11,Friendly,Family,800,450,7200
+2024-11,Friendly,Accessible seating,2400,1071,19278
+2024-12,League,Standard,4000,3495,76890
+2024-12,League,Premium,1600,1128,45120
+2024-12,League,Family,2400,2163,34608
+2024-12,League,Accessible seating,800,609,10962
+2024-12,Cup,Standard,2400,2329,51238
+2024-12,Cup,Premium,2400,2094,83760
+2024-12,Cup,Family,4000,3846,61536
+2024-12,Cup,Accessible seating,4000,3396,61128
+2024-12,Friendly,Standard,2400,1082,23804
+2024-12,Friendly,Premium,2400,1037,41480
+2024-12,Friendly,Family,800,416,6656
+2024-12,Friendly,Accessible seating,2400,1242,22356
+2025-01,League,Standard,2400,1780,39160
+2025-01,League,Premium,1600,1047,41880
+2025-01,League,Family,1600,1485,23760
+2025-01,League,Accessible seating,2400,1815,32670
+2025-01,Cup,Standard,2400,2080,45760
+2025-01,Cup,Premium,4000,3265,130600
+2025-01,Cup,Family,2400,2153,34448
+2025-01,Cup,Accessible seating,2400,2070,37260
+2025-01,Friendly,Standard,1600,740,16280
+2025-01,Friendly,Premium,2400,1042,41680
+2025-01,Friendly,Family,2400,1298,20768
+2025-01,Friendly,Accessible seating,800,366,6588
+2025-02,League,Standard,1600,1225,26950
+2025-02,League,Premium,1600,1165,46600
+2025-02,League,Family,4000,3266,52256
+2025-02,League,Accessible seating,2400,1823,32814
+2025-02,Cup,Standard,1600,1398,30756
+2025-02,Cup,Premium,1600,1243,49720
+2025-02,Cup,Family,4000,3703,59248
+2025-02,Cup,Accessible seating,4000,3551,63918
+2025-02,Friendly,Standard,4000,1925,42350
+2025-02,Friendly,Premium,1600,772,30880
+2025-02,Friendly,Family,2400,1230,19680
+2025-02,Friendly,Accessible seating,4000,1989,35802
+2025-03,League,Standard,2400,1752,38544
+2025-03,League,Premium,1600,1207,48280
+2025-03,League,Family,4000,2862,45792
+2025-03,League,Accessible seating,2400,1933,34794
+2025-03,Cup,Standard,800,800,17600
+2025-03,Cup,Premium,4000,3133,125320
+2025-03,Cup,Family,2400,2255,36080
+2025-03,Cup,Accessible seating,1600,1467,26406
+2025-03,Friendly,Standard,1600,819,18018
+2025-03,Friendly,Premium,1600,696,27840
+2025-03,Friendly,Family,4000,2083,33328
+2025-03,Friendly,Accessible seating,2400,1124,20232
+2025-04,League,Standard,2400,1902,41844
+2025-04,League,Premium,2400,1796,71840
+2025-04,League,Family,2400,1828,29248
+2025-04,League,Accessible seating,800,651,11718
+2025-04,Cup,Standard,4000,3767,82874
+2025-04,Cup,Premium,4000,3613,144520
+2025-04,Cup,Family,1600,1424,22784
+2025-04,Cup,Accessible seating,800,665,11970
+2025-04,Friendly,Standard,2400,1049,23078
+2025-04,Friendly,Premium,800,363,14520
+2025-04,Friendly,Family,800,418,6688
+2025-04,Friendly,Accessible seating,1600,899,16182
+2025-05,League,Standard,1600,1333,29326
+2025-05,League,Premium,1600,1118,44720
+2025-05,League,Family,2400,1944,31104
+2025-05,League,Accessible seating,4000,2980,53640
+2025-05,Cup,Standard,2400,1987,43714
+2025-05,Cup,Premium,1600,1391,55640
+2025-05,Cup,Family,800,761,12176
+2025-05,Cup,Accessible seating,2400,2063,37134
+2025-05,Friendly,Standard,800,381,8382
+2025-05,Friendly,Premium,1600,704,28160
+2025-05,Friendly,Family,800,433,6928
+2025-05,Friendly,Accessible seating,1600,829,14922
+2025-06,League,Standard,4000,3173,69806
+2025-06,League,Premium,4000,2846,113840
+2025-06,League,Family,4000,3212,51392
+2025-06,League,Accessible seating,1600,1217,21906
+2025-06,Cup,Standard,1600,1491,32802
+2025-06,Cup,Premium,1600,1168,46720
+2025-06,Cup,Family,1600,1600,25600
+2025-06,Cup,Accessible seating,4000,3391,61038
+2025-06,Friendly,Standard,2400,1105,24310
+2025-06,Friendly,Premium,800,324,12960
+2025-06,Friendly,Family,1600,851,13616
+2025-06,Friendly,Accessible seating,2400,1069,19242
+2025-07,League,Standard,1600,1331,29282
+2025-07,League,Premium,4000,3015,120600
+2025-07,League,Family,2400,1922,30752
+2025-07,League,Accessible seating,800,644,11592
+2025-07,Cup,Standard,1600,1509,33198
+2025-07,Cup,Premium,4000,3330,133200
+2025-07,Cup,Family,4000,3827,61232
+2025-07,Cup,Accessible seating,1600,1496,26928
+2025-07,Friendly,Standard,1600,810,17820
+2025-07,Friendly,Premium,800,370,14800
+2025-07,Friendly,Family,800,467,7472
+2025-07,Friendly,Accessible seating,2400,1119,20142
+2025-08,League,Standard,2400,1823,40106
+2025-08,League,Premium,1600,1261,50440
+2025-08,League,Family,1600,1048,16768
+2025-08,League,Accessible seating,800,583,10494
+2025-08,Cup,Standard,800,719,15818
+2025-08,Cup,Premium,800,673,26920
+2025-08,Cup,Family,2400,2400,38400
+2025-08,Cup,Accessible seating,2400,2217,39906
+2025-08,Friendly,Standard,1600,880,19360
+2025-08,Friendly,Premium,1600,758,30320
+2025-08,Friendly,Family,4000,1897,30352
+2025-08,Friendly,Accessible seating,4000,1961,35298
+2025-09,League,Standard,800,654,14388
+2025-09,League,Premium,4000,2837,113480
+2025-09,League,Family,4000,3532,56512
+2025-09,League,Accessible seating,1600,1327,23886
+2025-09,Cup,Standard,2400,2128,46816
+2025-09,Cup,Premium,2400,1929,77160
+2025-09,Cup,Family,800,728,11648
+2025-09,Cup,Accessible seating,4000,3167,57006
+2025-09,Friendly,Standard,2400,1315,28930
+2025-09,Friendly,Premium,4000,1839,73560
+2025-09,Friendly,Family,4000,2317,37072
+2025-09,Friendly,Accessible seating,4000,1943,34974
+2025-10,League,Standard,4000,3005,66110
+2025-10,League,Premium,1600,1179,47160
+2025-10,League,Family,4000,3874,61984
+2025-10,League,Accessible seating,800,682,12276
+2025-10,Cup,Standard,2400,1885,41470
+2025-10,Cup,Premium,4000,3267,130680
+2025-10,Cup,Family,4000,3767,60272
+2025-10,Cup,Accessible seating,2400,1986,35748
+2025-10,Friendly,Standard,800,424,9328
+2025-10,Friendly,Premium,4000,1789,71560
+2025-10,Friendly,Family,2400,1262,20192
+2025-10,Friendly,Accessible seating,800,397,7146
+2025-11,League,Standard,4000,3038,66836
+2025-11,League,Premium,4000,3285,131400
+2025-11,League,Family,1600,1398,22368
+2025-11,League,Accessible seating,1600,1390,25020
+2025-11,Cup,Standard,4000,3796,83512
+2025-11,Cup,Premium,1600,1342,53680
+2025-11,Cup,Family,1600,1585,25360
+2025-11,Cup,Accessible seating,2400,2267,40806
+2025-11,Friendly,Standard,4000,2012,44264
+2025-11,Friendly,Premium,4000,1785,71400
+2025-11,Friendly,Family,1600,915,14640
+2025-11,Friendly,Accessible seating,2400,1089,19602
+2025-12,League,Standard,4000,3017,66374
+2025-12,League,Premium,2400,1790,71600
+2025-12,League,Family,800,666,10656
+2025-12,League,Accessible seating,2400,1861,33498
+2025-12,Cup,Standard,1600,1432,31504
+2025-12,Cup,Premium,1600,1435,57400
+2025-12,Cup,Family,1600,1570,25120
+2025-12,Cup,Accessible seating,4000,3438,61884
+2025-12,Friendly,Standard,800,368,8096
+2025-12,Friendly,Premium,2400,1108,44320
+2025-12,Friendly,Family,2400,1455,23280
+2025-12,Friendly,Accessible seating,800,407,7326

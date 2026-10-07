@@ -1,0 +1,865 @@
+product,category,sales_channel,month,units_sold,revenue_gbp,returns
+Home shirt,Clothing,Online,2024-01,280,13440,23
+Home shirt,Clothing,Club shop,2024-01,199,9552,3
+Home shirt,Clothing,Match-day stall,2024-01,234,11232,11
+Away shirt,Clothing,Online,2024-01,316,15168,30
+Away shirt,Clothing,Club shop,2024-01,121,5808,2
+Away shirt,Clothing,Match-day stall,2024-01,182,8736,5
+Training top,Clothing,Online,2024-01,192,6144,18
+Training top,Clothing,Club shop,2024-01,342,10944,11
+Training top,Clothing,Match-day stall,2024-01,287,9184,6
+Scarf,Accessories,Online,2024-01,425,5950,11
+Scarf,Accessories,Club shop,2024-01,425,5950,12
+Scarf,Accessories,Match-day stall,2024-01,371,5194,10
+Cap,Accessories,Online,2024-01,289,4624,9
+Cap,Accessories,Club shop,2024-01,406,6496,8
+Cap,Accessories,Match-day stall,2024-01,314,5024,7
+Mug,Homeware,Online,2024-01,369,3321,11
+Mug,Homeware,Club shop,2024-01,375,3375,7
+Mug,Homeware,Match-day stall,2024-01,519,4671,11
+Bottle,Homeware,Online,2024-01,323,3876,4
+Bottle,Homeware,Club shop,2024-01,245,2940,7
+Bottle,Homeware,Match-day stall,2024-01,467,5604,6
+Keyring,Accessories,Online,2024-01,398,1990,13
+Keyring,Accessories,Club shop,2024-01,318,1590,12
+Keyring,Accessories,Match-day stall,2024-01,423,2115,10
+Poster,Souvenirs,Online,2024-01,322,2254,10
+Poster,Souvenirs,Club shop,2024-01,468,3276,11
+Poster,Souvenirs,Match-day stall,2024-01,482,3374,10
+Programme,Souvenirs,Online,2024-01,459,1836,14
+Programme,Souvenirs,Club shop,2024-01,412,1648,12
+Programme,Souvenirs,Match-day stall,2024-01,437,1748,14
+Hoodie,Clothing,Online,2024-01,253,10626,25
+Hoodie,Clothing,Club shop,2024-01,197,8274,4
+Hoodie,Clothing,Match-day stall,2024-01,283,11886,12
+Pennant,Souvenirs,Online,2024-01,430,4300,11
+Pennant,Souvenirs,Club shop,2024-01,300,3000,7
+Pennant,Souvenirs,Match-day stall,2024-01,343,3430,13
+Home shirt,Clothing,Online,2024-02,177,8496,23
+Home shirt,Clothing,Club shop,2024-02,220,10560,5
+Home shirt,Clothing,Match-day stall,2024-02,216,10368,6
+Away shirt,Clothing,Online,2024-02,253,12144,26
+Away shirt,Clothing,Club shop,2024-02,176,8448,6
+Away shirt,Clothing,Match-day stall,2024-02,262,12576,4
+Training top,Clothing,Online,2024-02,261,8352,19
+Training top,Clothing,Club shop,2024-02,267,8544,4
+Training top,Clothing,Match-day stall,2024-02,213,6816,11
+Scarf,Accessories,Online,2024-02,436,6104,8
+Scarf,Accessories,Club shop,2024-02,354,4956,4
+Scarf,Accessories,Match-day stall,2024-02,520,7280,20
+Cap,Accessories,Online,2024-02,535,8560,11
+Cap,Accessories,Club shop,2024-02,452,7232,11
+Cap,Accessories,Match-day stall,2024-02,383,6128,10
+Mug,Homeware,Online,2024-02,401,3609,13
+Mug,Homeware,Club shop,2024-02,422,3798,11
+Mug,Homeware,Match-day stall,2024-02,397,3573,11
+Bottle,Homeware,Online,2024-02,336,4032,8
+Bottle,Homeware,Club shop,2024-02,392,4704,15
+Bottle,Homeware,Match-day stall,2024-02,326,3912,5
+Keyring,Accessories,Online,2024-02,466,2330,13
+Keyring,Accessories,Club shop,2024-02,493,2465,15
+Keyring,Accessories,Match-day stall,2024-02,494,2470,12
+Poster,Souvenirs,Online,2024-02,395,2765,6
+Poster,Souvenirs,Club shop,2024-02,411,2877,6
+Poster,Souvenirs,Match-day stall,2024-02,345,2415,10
+Programme,Souvenirs,Online,2024-02,426,1704,9
+Programme,Souvenirs,Club shop,2024-02,551,2204,8
+Programme,Souvenirs,Match-day stall,2024-02,361,1444,9
+Hoodie,Clothing,Online,2024-02,294,12348,29
+Hoodie,Clothing,Club shop,2024-02,249,10458,2
+Hoodie,Clothing,Match-day stall,2024-02,331,13902,5
+Pennant,Souvenirs,Online,2024-02,458,4580,13
+Pennant,Souvenirs,Club shop,2024-02,387,3870,12
+Pennant,Souvenirs,Match-day stall,2024-02,507,5070,23
+Home shirt,Clothing,Online,2024-03,159,7632,20
+Home shirt,Clothing,Club shop,2024-03,268,12864,9
+Home shirt,Clothing,Match-day stall,2024-03,260,12480,10
+Away shirt,Clothing,Online,2024-03,199,9552,13
+Away shirt,Clothing,Club shop,2024-03,215,10320,5
+Away shirt,Clothing,Match-day stall,2024-03,160,7680,2
+Training top,Clothing,Online,2024-03,232,7424,23
+Training top,Clothing,Club shop,2024-03,275,8800,4
+Training top,Clothing,Match-day stall,2024-03,200,6400,6
+Scarf,Accessories,Online,2024-03,441,6174,9
+Scarf,Accessories,Club shop,2024-03,292,4088,4
+Scarf,Accessories,Match-day stall,2024-03,250,3500,5
+Cap,Accessories,Online,2024-03,501,8016,15
+Cap,Accessories,Club shop,2024-03,472,7552,17
+Cap,Accessories,Match-day stall,2024-03,425,6800,5
+Mug,Homeware,Online,2024-03,540,4860,13
+Mug,Homeware,Club shop,2024-03,434,3906,14
+Mug,Homeware,Match-day stall,2024-03,316,2844,6
+Bottle,Homeware,Online,2024-03,570,6840,15
+Bottle,Homeware,Club shop,2024-03,409,4908,18
+Bottle,Homeware,Match-day stall,2024-03,444,5328,12
+Keyring,Accessories,Online,2024-03,360,1800,10
+Keyring,Accessories,Club shop,2024-03,434,2170,9
+Keyring,Accessories,Match-day stall,2024-03,465,2325,11
+Poster,Souvenirs,Online,2024-03,403,2821,3
+Poster,Souvenirs,Club shop,2024-03,391,2737,9
+Poster,Souvenirs,Match-day stall,2024-03,419,2933,9
+Programme,Souvenirs,Online,2024-03,391,1564,7
+Programme,Souvenirs,Club shop,2024-03,428,1712,12
+Programme,Souvenirs,Match-day stall,2024-03,314,1256,6
+Hoodie,Clothing,Online,2024-03,275,11550,27
+Hoodie,Clothing,Club shop,2024-03,277,11634,6
+Hoodie,Clothing,Match-day stall,2024-03,267,11214,6
+Pennant,Souvenirs,Online,2024-03,363,3630,10
+Pennant,Souvenirs,Club shop,2024-03,372,3720,6
+Pennant,Souvenirs,Match-day stall,2024-03,310,3100,7
+Home shirt,Clothing,Online,2024-04,208,9984,16
+Home shirt,Clothing,Club shop,2024-04,268,12864,5
+Home shirt,Clothing,Match-day stall,2024-04,265,12720,8
+Away shirt,Clothing,Online,2024-04,322,15456,25
+Away shirt,Clothing,Club shop,2024-04,231,11088,8
+Away shirt,Clothing,Match-day stall,2024-04,295,14160,10
+Training top,Clothing,Online,2024-04,270,8640,24
+Training top,Clothing,Club shop,2024-04,248,7936,8
+Training top,Clothing,Match-day stall,2024-04,216,6912,3
+Scarf,Accessories,Online,2024-04,411,5754,17
+Scarf,Accessories,Club shop,2024-04,458,6412,12
+Scarf,Accessories,Match-day stall,2024-04,307,4298,5
+Cap,Accessories,Online,2024-04,335,5360,5
+Cap,Accessories,Club shop,2024-04,535,8560,13
+Cap,Accessories,Match-day stall,2024-04,408,6528,10
+Mug,Homeware,Online,2024-04,438,3942,10
+Mug,Homeware,Club shop,2024-04,344,3096,1
+Mug,Homeware,Match-day stall,2024-04,640,5760,15
+Bottle,Homeware,Online,2024-04,313,3756,9
+Bottle,Homeware,Club shop,2024-04,362,4344,8
+Bottle,Homeware,Match-day stall,2024-04,408,4896,11
+Keyring,Accessories,Online,2024-04,400,2000,14
+Keyring,Accessories,Club shop,2024-04,421,2105,12
+Keyring,Accessories,Match-day stall,2024-04,411,2055,10
+Poster,Souvenirs,Online,2024-04,281,1967,3
+Poster,Souvenirs,Club shop,2024-04,421,2947,7
+Poster,Souvenirs,Match-day stall,2024-04,374,2618,12
+Programme,Souvenirs,Online,2024-04,381,1524,5
+Programme,Souvenirs,Club shop,2024-04,365,1460,11
+Programme,Souvenirs,Match-day stall,2024-04,504,2016,15
+Hoodie,Clothing,Online,2024-04,234,9828,22
+Hoodie,Clothing,Club shop,2024-04,299,12558,6
+Hoodie,Clothing,Match-day stall,2024-04,183,7686,7
+Pennant,Souvenirs,Online,2024-04,414,4140,14
+Pennant,Souvenirs,Club shop,2024-04,449,4490,5
+Pennant,Souvenirs,Match-day stall,2024-04,403,4030,13
+Home shirt,Clothing,Online,2024-05,296,14208,32
+Home shirt,Clothing,Club shop,2024-05,165,7920,3
+Home shirt,Clothing,Match-day stall,2024-05,233,11184,8
+Away shirt,Clothing,Online,2024-05,225,10800,27
+Away shirt,Clothing,Club shop,2024-05,222,10656,3
+Away shirt,Clothing,Match-day stall,2024-05,249,11952,9
+Training top,Clothing,Online,2024-05,265,8480,24
+Training top,Clothing,Club shop,2024-05,220,7040,4
+Training top,Clothing,Match-day stall,2024-05,357,11424,4
+Scarf,Accessories,Online,2024-05,443,6202,19
+Scarf,Accessories,Club shop,2024-05,454,6356,9
+Scarf,Accessories,Match-day stall,2024-05,338,4732,7
+Cap,Accessories,Online,2024-05,276,4416,11
+Cap,Accessories,Club shop,2024-05,491,7856,13
+Cap,Accessories,Match-day stall,2024-05,404,6464,8
+Mug,Homeware,Online,2024-05,406,3654,8
+Mug,Homeware,Club shop,2024-05,444,3996,13
+Mug,Homeware,Match-day stall,2024-05,432,3888,13
+Bottle,Homeware,Online,2024-05,405,4860,10
+Bottle,Homeware,Club shop,2024-05,375,4500,10
+Bottle,Homeware,Match-day stall,2024-05,407,4884,6
+Keyring,Accessories,Online,2024-05,506,2530,7
+Keyring,Accessories,Club shop,2024-05,514,2570,17
+Keyring,Accessories,Match-day stall,2024-05,458,2290,14
+Poster,Souvenirs,Online,2024-05,410,2870,10
+Poster,Souvenirs,Club shop,2024-05,426,2982,9
+Poster,Souvenirs,Match-day stall,2024-05,226,1582,2
+Programme,Souvenirs,Online,2024-05,366,1464,10
+Programme,Souvenirs,Club shop,2024-05,380,1520,13
+Programme,Souvenirs,Match-day stall,2024-05,487,1948,8
+Hoodie,Clothing,Online,2024-05,309,12978,36
+Hoodie,Clothing,Club shop,2024-05,158,6636,5
+Hoodie,Clothing,Match-day stall,2024-05,311,13062,11
+Pennant,Souvenirs,Online,2024-05,416,4160,17
+Pennant,Souvenirs,Club shop,2024-05,460,4600,11
+Pennant,Souvenirs,Match-day stall,2024-05,406,4060,6
+Home shirt,Clothing,Online,2024-06,338,16224,38
+Home shirt,Clothing,Club shop,2024-06,346,16608,7
+Home shirt,Clothing,Match-day stall,2024-06,155,7440,3
+Away shirt,Clothing,Online,2024-06,226,10848,30
+Away shirt,Clothing,Club shop,2024-06,298,14304,4
+Away shirt,Clothing,Match-day stall,2024-06,440,21120,13
+Training top,Clothing,Online,2024-06,169,5408,19
+Training top,Clothing,Club shop,2024-06,287,9184,9
+Training top,Clothing,Match-day stall,2024-06,270,8640,7
+Scarf,Accessories,Online,2024-06,386,5404,10
+Scarf,Accessories,Club shop,2024-06,459,6426,17
+Scarf,Accessories,Match-day stall,2024-06,426,5964,9
+Cap,Accessories,Online,2024-06,476,7616,9
+Cap,Accessories,Club shop,2024-06,518,8288,13
+Cap,Accessories,Match-day stall,2024-06,425,6800,8
+Mug,Homeware,Online,2024-06,267,2403,6
+Mug,Homeware,Club shop,2024-06,453,4077,10
+Mug,Homeware,Match-day stall,2024-06,327,2943,4
+Bottle,Homeware,Online,2024-06,295,3540,5
+Bottle,Homeware,Club shop,2024-06,455,5460,10
+Bottle,Homeware,Match-day stall,2024-06,395,4740,4
+Keyring,Accessories,Online,2024-06,453,2265,14
+Keyring,Accessories,Club shop,2024-06,542,2710,14
+Keyring,Accessories,Match-day stall,2024-06,524,2620,15
+Poster,Souvenirs,Online,2024-06,435,3045,14
+Poster,Souvenirs,Club shop,2024-06,344,2408,7
+Poster,Souvenirs,Match-day stall,2024-06,499,3493,13
+Programme,Souvenirs,Online,2024-06,352,1408,8
+Programme,Souvenirs,Club shop,2024-06,388,1552,7
+Programme,Souvenirs,Match-day stall,2024-06,242,968,7
+Hoodie,Clothing,Online,2024-06,215,9030,20
+Hoodie,Clothing,Club shop,2024-06,264,11088,9
+Hoodie,Clothing,Match-day stall,2024-06,249,10458,10
+Pennant,Souvenirs,Online,2024-06,479,4790,10
+Pennant,Souvenirs,Club shop,2024-06,554,5540,10
+Pennant,Souvenirs,Match-day stall,2024-06,480,4800,13
+Home shirt,Clothing,Online,2024-07,182,8736,23
+Home shirt,Clothing,Club shop,2024-07,274,13152,8
+Home shirt,Clothing,Match-day stall,2024-07,211,10128,6
+Away shirt,Clothing,Online,2024-07,273,13104,24
+Away shirt,Clothing,Club shop,2024-07,334,16032,10
+Away shirt,Clothing,Match-day stall,2024-07,181,8688,7
+Training top,Clothing,Online,2024-07,213,6816,28
+Training top,Clothing,Club shop,2024-07,199,6368,7
+Training top,Clothing,Match-day stall,2024-07,258,8256,9
+Scarf,Accessories,Online,2024-07,285,3990,5
+Scarf,Accessories,Club shop,2024-07,438,6132,13
+Scarf,Accessories,Match-day stall,2024-07,501,7014,14
+Cap,Accessories,Online,2024-07,540,8640,12
+Cap,Accessories,Club shop,2024-07,410,6560,13
+Cap,Accessories,Match-day stall,2024-07,449,7184,10
+Mug,Homeware,Online,2024-07,321,2889,6
+Mug,Homeware,Club shop,2024-07,430,3870,7
+Mug,Homeware,Match-day stall,2024-07,448,4032,10
+Bottle,Homeware,Online,2024-07,447,5364,12
+Bottle,Homeware,Club shop,2024-07,307,3684,4
+Bottle,Homeware,Match-day stall,2024-07,379,4548,10
+Keyring,Accessories,Online,2024-07,475,2375,7
+Keyring,Accessories,Club shop,2024-07,384,1920,11
+Keyring,Accessories,Match-day stall,2024-07,490,2450,10
+Poster,Souvenirs,Online,2024-07,364,2548,10
+Poster,Souvenirs,Club shop,2024-07,369,2583,14
+Poster,Souvenirs,Match-day stall,2024-07,376,2632,12
+Programme,Souvenirs,Online,2024-07,381,1524,7
+Programme,Souvenirs,Club shop,2024-07,335,1340,8
+Programme,Souvenirs,Match-day stall,2024-07,472,1888,13
+Hoodie,Clothing,Online,2024-07,165,6930,12
+Hoodie,Clothing,Club shop,2024-07,285,11970,2
+Hoodie,Clothing,Match-day stall,2024-07,231,9702,2
+Pennant,Souvenirs,Online,2024-07,458,4580,4
+Pennant,Souvenirs,Club shop,2024-07,300,3000,9
+Pennant,Souvenirs,Match-day stall,2024-07,398,3980,14
+Home shirt,Clothing,Online,2024-08,460,22080,49
+Home shirt,Clothing,Club shop,2024-08,429,20592,7
+Home shirt,Clothing,Match-day stall,2024-08,500,24000,14
+Away shirt,Clothing,Online,2024-08,499,23952,45
+Away shirt,Clothing,Club shop,2024-08,406,19488,7
+Away shirt,Clothing,Match-day stall,2024-08,368,17664,12
+Training top,Clothing,Online,2024-08,349,11168,32
+Training top,Clothing,Club shop,2024-08,427,13664,12
+Training top,Clothing,Match-day stall,2024-08,366,11712,10
+Scarf,Accessories,Online,2024-08,718,10052,26
+Scarf,Accessories,Club shop,2024-08,648,9072,21
+Scarf,Accessories,Match-day stall,2024-08,634,8876,12
+Cap,Accessories,Online,2024-08,431,6896,16
+Cap,Accessories,Club shop,2024-08,1035,16560,23
+Cap,Accessories,Match-day stall,2024-08,808,12928,14
+Mug,Homeware,Online,2024-08,550,4950,17
+Mug,Homeware,Club shop,2024-08,756,6804,20
+Mug,Homeware,Match-day stall,2024-08,393,3537,8
+Bottle,Homeware,Online,2024-08,801,9612,23
+Bottle,Homeware,Club shop,2024-08,695,8340,23
+Bottle,Homeware,Match-day stall,2024-08,602,7224,18
+Keyring,Accessories,Online,2024-08,741,3705,21
+Keyring,Accessories,Club shop,2024-08,796,3980,22
+Keyring,Accessories,Match-day stall,2024-08,647,3235,21
+Poster,Souvenirs,Online,2024-08,726,5082,16
+Poster,Souvenirs,Club shop,2024-08,745,5215,20
+Poster,Souvenirs,Match-day stall,2024-08,680,4760,17
+Programme,Souvenirs,Online,2024-08,505,2020,12
+Programme,Souvenirs,Club shop,2024-08,617,2468,14
+Programme,Souvenirs,Match-day stall,2024-08,428,1712,6
+Hoodie,Clothing,Online,2024-08,381,16002,35
+Hoodie,Clothing,Club shop,2024-08,369,15498,10
+Hoodie,Clothing,Match-day stall,2024-08,483,20286,12
+Pennant,Souvenirs,Online,2024-08,398,3980,9
+Pennant,Souvenirs,Club shop,2024-08,398,3980,9
+Pennant,Souvenirs,Match-day stall,2024-08,565,5650,15
+Home shirt,Clothing,Online,2024-09,286,13728,15
+Home shirt,Clothing,Club shop,2024-09,262,12576,13
+Home shirt,Clothing,Match-day stall,2024-09,263,12624,7
+Away shirt,Clothing,Online,2024-09,235,11280,23
+Away shirt,Clothing,Club shop,2024-09,365,17520,9
+Away shirt,Clothing,Match-day stall,2024-09,214,10272,7
+Training top,Clothing,Online,2024-09,290,9280,24
+Training top,Clothing,Club shop,2024-09,237,7584,6
+Training top,Clothing,Match-day stall,2024-09,197,6304,7
+Scarf,Accessories,Online,2024-09,520,7280,11
+Scarf,Accessories,Club shop,2024-09,367,5138,10
+Scarf,Accessories,Match-day stall,2024-09,434,6076,5
+Cap,Accessories,Online,2024-09,466,7456,5
+Cap,Accessories,Club shop,2024-09,423,6768,12
+Cap,Accessories,Match-day stall,2024-09,341,5456,9
+Mug,Homeware,Online,2024-09,390,3510,10
+Mug,Homeware,Club shop,2024-09,305,2745,10
+Mug,Homeware,Match-day stall,2024-09,313,2817,6
+Bottle,Homeware,Online,2024-09,531,6372,18
+Bottle,Homeware,Club shop,2024-09,487,5844,15
+Bottle,Homeware,Match-day stall,2024-09,455,5460,14
+Keyring,Accessories,Online,2024-09,279,1395,6
+Keyring,Accessories,Club shop,2024-09,491,2455,10
+Keyring,Accessories,Match-day stall,2024-09,434,2170,11
+Poster,Souvenirs,Online,2024-09,454,3178,8
+Poster,Souvenirs,Club shop,2024-09,306,2142,9
+Poster,Souvenirs,Match-day stall,2024-09,349,2443,3
+Programme,Souvenirs,Online,2024-09,436,1744,4
+Programme,Souvenirs,Club shop,2024-09,284,1136,9
+Programme,Souvenirs,Match-day stall,2024-09,517,2068,7
+Hoodie,Clothing,Online,2024-09,251,10542,28
+Hoodie,Clothing,Club shop,2024-09,166,6972,9
+Hoodie,Clothing,Match-day stall,2024-09,254,10668,4
+Pennant,Souvenirs,Online,2024-09,446,4460,15
+Pennant,Souvenirs,Club shop,2024-09,376,3760,10
+Pennant,Souvenirs,Match-day stall,2024-09,373,3730,15
+Home shirt,Clothing,Online,2024-10,247,11856,24
+Home shirt,Clothing,Club shop,2024-10,239,11472,1
+Home shirt,Clothing,Match-day stall,2024-10,322,15456,6
+Away shirt,Clothing,Online,2024-10,202,9696,22
+Away shirt,Clothing,Club shop,2024-10,258,12384,8
+Away shirt,Clothing,Match-day stall,2024-10,181,8688,5
+Training top,Clothing,Online,2024-10,341,10912,29
+Training top,Clothing,Club shop,2024-10,217,6944,5
+Training top,Clothing,Match-day stall,2024-10,206,6592,8
+Scarf,Accessories,Online,2024-10,502,7028,10
+Scarf,Accessories,Club shop,2024-10,382,5348,12
+Scarf,Accessories,Match-day stall,2024-10,408,5712,14
+Cap,Accessories,Online,2024-10,529,8464,16
+Cap,Accessories,Club shop,2024-10,523,8368,9
+Cap,Accessories,Match-day stall,2024-10,370,5920,10
+Mug,Homeware,Online,2024-10,394,3546,10
+Mug,Homeware,Club shop,2024-10,426,3834,5
+Mug,Homeware,Match-day stall,2024-10,432,3888,12
+Bottle,Homeware,Online,2024-10,493,5916,10
+Bottle,Homeware,Club shop,2024-10,525,6300,8
+Bottle,Homeware,Match-day stall,2024-10,552,6624,21
+Keyring,Accessories,Online,2024-10,505,2525,19
+Keyring,Accessories,Club shop,2024-10,314,1570,3
+Keyring,Accessories,Match-day stall,2024-10,639,3195,17
+Poster,Souvenirs,Online,2024-10,413,2891,10
+Poster,Souvenirs,Club shop,2024-10,328,2296,14
+Poster,Souvenirs,Match-day stall,2024-10,432,3024,15
+Programme,Souvenirs,Online,2024-10,371,1484,9
+Programme,Souvenirs,Club shop,2024-10,473,1892,12
+Programme,Souvenirs,Match-day stall,2024-10,377,1508,10
+Hoodie,Clothing,Online,2024-10,251,10542,26
+Hoodie,Clothing,Club shop,2024-10,175,7350,1
+Hoodie,Clothing,Match-day stall,2024-10,238,9996,8
+Pennant,Souvenirs,Online,2024-10,422,4220,16
+Pennant,Souvenirs,Club shop,2024-10,415,4150,8
+Pennant,Souvenirs,Match-day stall,2024-10,385,3850,7
+Home shirt,Clothing,Online,2024-11,179,8592,12
+Home shirt,Clothing,Club shop,2024-11,233,11184,3
+Home shirt,Clothing,Match-day stall,2024-11,248,11904,6
+Away shirt,Clothing,Online,2024-11,216,10368,19
+Away shirt,Clothing,Club shop,2024-11,175,8400,4
+Away shirt,Clothing,Match-day stall,2024-11,252,12096,7
+Training top,Clothing,Online,2024-11,234,7488,25
+Training top,Clothing,Club shop,2024-11,254,8128,10
+Training top,Clothing,Match-day stall,2024-11,261,8352,4
+Scarf,Accessories,Online,2024-11,396,5544,14
+Scarf,Accessories,Club shop,2024-11,507,7098,9
+Scarf,Accessories,Match-day stall,2024-11,446,6244,12
+Cap,Accessories,Online,2024-11,374,5984,5
+Cap,Accessories,Club shop,2024-11,449,7184,12
+Cap,Accessories,Match-day stall,2024-11,283,4528,8
+Mug,Homeware,Online,2024-11,324,2916,11
+Mug,Homeware,Club shop,2024-11,556,5004,18
+Mug,Homeware,Match-day stall,2024-11,398,3582,8
+Bottle,Homeware,Online,2024-11,342,4104,8
+Bottle,Homeware,Club shop,2024-11,448,5376,13
+Bottle,Homeware,Match-day stall,2024-11,525,6300,14
+Keyring,Accessories,Online,2024-11,393,1965,8
+Keyring,Accessories,Club shop,2024-11,434,2170,11
+Keyring,Accessories,Match-day stall,2024-11,358,1790,12
+Poster,Souvenirs,Online,2024-11,339,2373,8
+Poster,Souvenirs,Club shop,2024-11,264,1848,8
+Poster,Souvenirs,Match-day stall,2024-11,494,3458,17
+Programme,Souvenirs,Online,2024-11,421,1684,14
+Programme,Souvenirs,Club shop,2024-11,488,1952,15
+Programme,Souvenirs,Match-day stall,2024-11,287,1148,5
+Hoodie,Clothing,Online,2024-11,289,12138,28
+Hoodie,Clothing,Club shop,2024-11,181,7602,3
+Hoodie,Clothing,Match-day stall,2024-11,193,8106,2
+Pennant,Souvenirs,Online,2024-11,307,3070,7
+Pennant,Souvenirs,Club shop,2024-11,350,3500,6
+Pennant,Souvenirs,Match-day stall,2024-11,402,4020,7
+Home shirt,Clothing,Online,2024-12,470,22560,43
+Home shirt,Clothing,Club shop,2024-12,525,25200,9
+Home shirt,Clothing,Match-day stall,2024-12,483,23184,12
+Away shirt,Clothing,Online,2024-12,416,19968,44
+Away shirt,Clothing,Club shop,2024-12,322,15456,9
+Away shirt,Clothing,Match-day stall,2024-12,406,19488,9
+Training top,Clothing,Online,2024-12,318,10176,20
+Training top,Clothing,Club shop,2024-12,417,13344,12
+Training top,Clothing,Match-day stall,2024-12,462,14784,6
+Scarf,Accessories,Online,2024-12,684,9576,10
+Scarf,Accessories,Club shop,2024-12,724,10136,19
+Scarf,Accessories,Match-day stall,2024-12,542,7588,16
+Cap,Accessories,Online,2024-12,609,9744,15
+Cap,Accessories,Club shop,2024-12,459,7344,14
+Cap,Accessories,Match-day stall,2024-12,507,8112,14
+Mug,Homeware,Online,2024-12,606,5454,18
+Mug,Homeware,Club shop,2024-12,854,7686,17
+Mug,Homeware,Match-day stall,2024-12,786,7074,17
+Bottle,Homeware,Online,2024-12,748,8976,17
+Bottle,Homeware,Club shop,2024-12,662,7944,13
+Bottle,Homeware,Match-day stall,2024-12,885,10620,16
+Keyring,Accessories,Online,2024-12,667,3335,14
+Keyring,Accessories,Club shop,2024-12,692,3460,16
+Keyring,Accessories,Match-day stall,2024-12,705,3525,16
+Poster,Souvenirs,Online,2024-12,576,4032,15
+Poster,Souvenirs,Club shop,2024-12,506,3542,15
+Poster,Souvenirs,Match-day stall,2024-12,481,3367,13
+Programme,Souvenirs,Online,2024-12,631,2524,12
+Programme,Souvenirs,Club shop,2024-12,697,2788,21
+Programme,Souvenirs,Match-day stall,2024-12,783,3132,21
+Hoodie,Clothing,Online,2024-12,492,20664,61
+Hoodie,Clothing,Club shop,2024-12,349,14658,13
+Hoodie,Clothing,Match-day stall,2024-12,346,14532,4
+Pennant,Souvenirs,Online,2024-12,500,5000,13
+Pennant,Souvenirs,Club shop,2024-12,597,5970,20
+Pennant,Souvenirs,Match-day stall,2024-12,616,6160,23
+Home shirt,Clothing,Online,2025-01,278,13344,40
+Home shirt,Clothing,Club shop,2025-01,208,9984,7
+Home shirt,Clothing,Match-day stall,2025-01,224,10752,6
+Away shirt,Clothing,Online,2025-01,329,15792,28
+Away shirt,Clothing,Club shop,2025-01,331,15888,7
+Away shirt,Clothing,Match-day stall,2025-01,209,10032,7
+Training top,Clothing,Online,2025-01,368,11776,30
+Training top,Clothing,Club shop,2025-01,226,7232,6
+Training top,Clothing,Match-day stall,2025-01,221,7072,8
+Scarf,Accessories,Online,2025-01,478,6692,11
+Scarf,Accessories,Club shop,2025-01,365,5110,7
+Scarf,Accessories,Match-day stall,2025-01,518,7252,17
+Cap,Accessories,Online,2025-01,489,7824,9
+Cap,Accessories,Club shop,2025-01,455,7280,17
+Cap,Accessories,Match-day stall,2025-01,360,5760,4
+Mug,Homeware,Online,2025-01,392,3528,13
+Mug,Homeware,Club shop,2025-01,366,3294,12
+Mug,Homeware,Match-day stall,2025-01,410,3690,8
+Bottle,Homeware,Online,2025-01,317,3804,9
+Bottle,Homeware,Club shop,2025-01,396,4752,9
+Bottle,Homeware,Match-day stall,2025-01,427,5124,16
+Keyring,Accessories,Online,2025-01,289,1445,8
+Keyring,Accessories,Club shop,2025-01,433,2165,7
+Keyring,Accessories,Match-day stall,2025-01,494,2470,7
+Poster,Souvenirs,Online,2025-01,380,2660,16
+Poster,Souvenirs,Club shop,2025-01,388,2716,7
+Poster,Souvenirs,Match-day stall,2025-01,369,2583,11
+Programme,Souvenirs,Online,2025-01,548,2192,9
+Programme,Souvenirs,Club shop,2025-01,431,1724,6
+Programme,Souvenirs,Match-day stall,2025-01,469,1876,11
+Hoodie,Clothing,Online,2025-01,272,11424,19
+Hoodie,Clothing,Club shop,2025-01,229,9618,10
+Hoodie,Clothing,Match-day stall,2025-01,246,10332,8
+Pennant,Souvenirs,Online,2025-01,557,5570,17
+Pennant,Souvenirs,Club shop,2025-01,520,5200,11
+Pennant,Souvenirs,Match-day stall,2025-01,475,4750,14
+Home shirt,Clothing,Online,2025-02,277,13296,26
+Home shirt,Clothing,Club shop,2025-02,305,14640,7
+Home shirt,Clothing,Match-day stall,2025-02,263,12624,8
+Away shirt,Clothing,Online,2025-02,233,11184,17
+Away shirt,Clothing,Club shop,2025-02,210,10080,8
+Away shirt,Clothing,Match-day stall,2025-02,227,10896,8
+Training top,Clothing,Online,2025-02,184,5888,14
+Training top,Clothing,Club shop,2025-02,181,5792,4
+Training top,Clothing,Match-day stall,2025-02,237,7584,3
+Scarf,Accessories,Online,2025-02,377,5278,9
+Scarf,Accessories,Club shop,2025-02,331,4634,7
+Scarf,Accessories,Match-day stall,2025-02,369,5166,9
+Cap,Accessories,Online,2025-02,447,7152,10
+Cap,Accessories,Club shop,2025-02,486,7776,11
+Cap,Accessories,Match-day stall,2025-02,354,5664,9
+Mug,Homeware,Online,2025-02,440,3960,15
+Mug,Homeware,Club shop,2025-02,315,2835,9
+Mug,Homeware,Match-day stall,2025-02,348,3132,14
+Bottle,Homeware,Online,2025-02,183,2196,4
+Bottle,Homeware,Club shop,2025-02,459,5508,18
+Bottle,Homeware,Match-day stall,2025-02,342,4104,8
+Keyring,Accessories,Online,2025-02,269,1345,8
+Keyring,Accessories,Club shop,2025-02,555,2775,11
+Keyring,Accessories,Match-day stall,2025-02,313,1565,7
+Poster,Souvenirs,Online,2025-02,408,2856,11
+Poster,Souvenirs,Club shop,2025-02,473,3311,9
+Poster,Souvenirs,Match-day stall,2025-02,402,2814,11
+Programme,Souvenirs,Online,2025-02,327,1308,8
+Programme,Souvenirs,Club shop,2025-02,448,1792,10
+Programme,Souvenirs,Match-day stall,2025-02,430,1720,10
+Hoodie,Clothing,Online,2025-02,318,13356,33
+Hoodie,Clothing,Club shop,2025-02,165,6930,6
+Hoodie,Clothing,Match-day stall,2025-02,184,7728,3
+Pennant,Souvenirs,Online,2025-02,450,4500,14
+Pennant,Souvenirs,Club shop,2025-02,384,3840,11
+Pennant,Souvenirs,Match-day stall,2025-02,433,4330,10
+Home shirt,Clothing,Online,2025-03,337,16176,37
+Home shirt,Clothing,Club shop,2025-03,215,10320,9
+Home shirt,Clothing,Match-day stall,2025-03,164,7872,6
+Away shirt,Clothing,Online,2025-03,293,14064,32
+Away shirt,Clothing,Club shop,2025-03,190,9120,5
+Away shirt,Clothing,Match-day stall,2025-03,290,13920,6
+Training top,Clothing,Online,2025-03,272,8704,26
+Training top,Clothing,Club shop,2025-03,302,9664,12
+Training top,Clothing,Match-day stall,2025-03,249,7968,3
+Scarf,Accessories,Online,2025-03,435,6090,13
+Scarf,Accessories,Club shop,2025-03,344,4816,8
+Scarf,Accessories,Match-day stall,2025-03,327,4578,8
+Cap,Accessories,Online,2025-03,309,4944,12
+Cap,Accessories,Club shop,2025-03,398,6368,13
+Cap,Accessories,Match-day stall,2025-03,526,8416,11
+Mug,Homeware,Online,2025-03,405,3645,16
+Mug,Homeware,Club shop,2025-03,449,4041,8
+Mug,Homeware,Match-day stall,2025-03,456,4104,8
+Bottle,Homeware,Online,2025-03,335,4020,4
+Bottle,Homeware,Club shop,2025-03,287,3444,9
+Bottle,Homeware,Match-day stall,2025-03,405,4860,9
+Keyring,Accessories,Online,2025-03,472,2360,9
+Keyring,Accessories,Club shop,2025-03,453,2265,16
+Keyring,Accessories,Match-day stall,2025-03,483,2415,15
+Poster,Souvenirs,Online,2025-03,380,2660,9
+Poster,Souvenirs,Club shop,2025-03,410,2870,10
+Poster,Souvenirs,Match-day stall,2025-03,393,2751,7
+Programme,Souvenirs,Online,2025-03,348,1392,12
+Programme,Souvenirs,Club shop,2025-03,328,1312,11
+Programme,Souvenirs,Match-day stall,2025-03,391,1564,5
+Hoodie,Clothing,Online,2025-03,215,9030,28
+Hoodie,Clothing,Club shop,2025-03,289,12138,7
+Hoodie,Clothing,Match-day stall,2025-03,308,12936,5
+Pennant,Souvenirs,Online,2025-03,476,4760,14
+Pennant,Souvenirs,Club shop,2025-03,544,5440,11
+Pennant,Souvenirs,Match-day stall,2025-03,389,3890,4
+Home shirt,Clothing,Online,2025-04,269,12912,23
+Home shirt,Clothing,Club shop,2025-04,280,13440,7
+Home shirt,Clothing,Match-day stall,2025-04,303,14544,8
+Away shirt,Clothing,Online,2025-04,235,11280,31
+Away shirt,Clothing,Club shop,2025-04,231,11088,11
+Away shirt,Clothing,Match-day stall,2025-04,240,11520,3
+Training top,Clothing,Online,2025-04,268,8576,27
+Training top,Clothing,Club shop,2025-04,274,8768,6
+Training top,Clothing,Match-day stall,2025-04,324,10368,10
+Scarf,Accessories,Online,2025-04,323,4522,9
+Scarf,Accessories,Club shop,2025-04,396,5544,8
+Scarf,Accessories,Match-day stall,2025-04,395,5530,14
+Cap,Accessories,Online,2025-04,550,8800,13
+Cap,Accessories,Club shop,2025-04,507,8112,15
+Cap,Accessories,Match-day stall,2025-04,390,6240,11
+Mug,Homeware,Online,2025-04,347,3123,8
+Mug,Homeware,Club shop,2025-04,476,4284,11
+Mug,Homeware,Match-day stall,2025-04,403,3627,8
+Bottle,Homeware,Online,2025-04,402,4824,12
+Bottle,Homeware,Club shop,2025-04,536,6432,16
+Bottle,Homeware,Match-day stall,2025-04,433,5196,11
+Keyring,Accessories,Online,2025-04,501,2505,10
+Keyring,Accessories,Club shop,2025-04,378,1890,8
+Keyring,Accessories,Match-day stall,2025-04,432,2160,6
+Poster,Souvenirs,Online,2025-04,265,1855,4
+Poster,Souvenirs,Club shop,2025-04,441,3087,13
+Poster,Souvenirs,Match-day stall,2025-04,427,2989,7
+Programme,Souvenirs,Online,2025-04,464,1856,11
+Programme,Souvenirs,Club shop,2025-04,420,1680,11
+Programme,Souvenirs,Match-day stall,2025-04,410,1640,11
+Hoodie,Clothing,Online,2025-04,239,10038,26
+Hoodie,Clothing,Club shop,2025-04,276,11592,13
+Hoodie,Clothing,Match-day stall,2025-04,214,8988,9
+Pennant,Souvenirs,Online,2025-04,334,3340,10
+Pennant,Souvenirs,Club shop,2025-04,393,3930,9
+Pennant,Souvenirs,Match-day stall,2025-04,326,3260,9
+Home shirt,Clothing,Online,2025-05,266,12768,25
+Home shirt,Clothing,Club shop,2025-05,256,12288,7
+Home shirt,Clothing,Match-day stall,2025-05,237,11376,8
+Away shirt,Clothing,Online,2025-05,233,11184,26
+Away shirt,Clothing,Club shop,2025-05,185,8880,5
+Away shirt,Clothing,Match-day stall,2025-05,325,15600,2
+Training top,Clothing,Online,2025-05,273,8736,38
+Training top,Clothing,Club shop,2025-05,230,7360,2
+Training top,Clothing,Match-day stall,2025-05,211,6752,7
+Scarf,Accessories,Online,2025-05,420,5880,17
+Scarf,Accessories,Club shop,2025-05,452,6328,15
+Scarf,Accessories,Match-day stall,2025-05,409,5726,9
+Cap,Accessories,Online,2025-05,491,7856,21
+Cap,Accessories,Club shop,2025-05,399,6384,8
+Cap,Accessories,Match-day stall,2025-05,289,4624,7
+Mug,Homeware,Online,2025-05,505,4545,10
+Mug,Homeware,Club shop,2025-05,453,4077,13
+Mug,Homeware,Match-day stall,2025-05,369,3321,10
+Bottle,Homeware,Online,2025-05,472,5664,12
+Bottle,Homeware,Club shop,2025-05,222,2664,7
+Bottle,Homeware,Match-day stall,2025-05,421,5052,7
+Keyring,Accessories,Online,2025-05,335,1675,12
+Keyring,Accessories,Club shop,2025-05,405,2025,11
+Keyring,Accessories,Match-day stall,2025-05,438,2190,13
+Poster,Souvenirs,Online,2025-05,426,2982,4
+Poster,Souvenirs,Club shop,2025-05,393,2751,10
+Poster,Souvenirs,Match-day stall,2025-05,383,2681,14
+Programme,Souvenirs,Online,2025-05,462,1848,8
+Programme,Souvenirs,Club shop,2025-05,485,1940,17
+Programme,Souvenirs,Match-day stall,2025-05,353,1412,10
+Hoodie,Clothing,Online,2025-05,255,10710,20
+Hoodie,Clothing,Club shop,2025-05,296,12432,4
+Hoodie,Clothing,Match-day stall,2025-05,254,10668,7
+Pennant,Souvenirs,Online,2025-05,348,3480,4
+Pennant,Souvenirs,Club shop,2025-05,424,4240,8
+Pennant,Souvenirs,Match-day stall,2025-05,372,3720,8
+Home shirt,Clothing,Online,2025-06,100,4800,14
+Home shirt,Clothing,Club shop,2025-06,217,10416,8
+Home shirt,Clothing,Match-day stall,2025-06,203,9744,3
+Away shirt,Clothing,Online,2025-06,212,10176,25
+Away shirt,Clothing,Club shop,2025-06,270,12960,5
+Away shirt,Clothing,Match-day stall,2025-06,280,13440,6
+Training top,Clothing,Online,2025-06,238,7616,20
+Training top,Clothing,Club shop,2025-06,321,10272,9
+Training top,Clothing,Match-day stall,2025-06,271,8672,10
+Scarf,Accessories,Online,2025-06,260,3640,2
+Scarf,Accessories,Club shop,2025-06,469,6566,14
+Scarf,Accessories,Match-day stall,2025-06,460,6440,13
+Cap,Accessories,Online,2025-06,357,5712,9
+Cap,Accessories,Club shop,2025-06,395,6320,15
+Cap,Accessories,Match-day stall,2025-06,496,7936,8
+Mug,Homeware,Online,2025-06,409,3681,9
+Mug,Homeware,Club shop,2025-06,491,4419,10
+Mug,Homeware,Match-day stall,2025-06,410,3690,7
+Bottle,Homeware,Online,2025-06,400,4800,15
+Bottle,Homeware,Club shop,2025-06,376,4512,12
+Bottle,Homeware,Match-day stall,2025-06,297,3564,5
+Keyring,Accessories,Online,2025-06,282,1410,4
+Keyring,Accessories,Club shop,2025-06,380,1900,7
+Keyring,Accessories,Match-day stall,2025-06,343,1715,7
+Poster,Souvenirs,Online,2025-06,532,3724,14
+Poster,Souvenirs,Club shop,2025-06,324,2268,8
+Poster,Souvenirs,Match-day stall,2025-06,548,3836,12
+Programme,Souvenirs,Online,2025-06,462,1848,10
+Programme,Souvenirs,Club shop,2025-06,469,1876,10
+Programme,Souvenirs,Match-day stall,2025-06,529,2116,12
+Hoodie,Clothing,Online,2025-06,253,10626,28
+Hoodie,Clothing,Club shop,2025-06,320,13440,7
+Hoodie,Clothing,Match-day stall,2025-06,266,11172,6
+Pennant,Souvenirs,Online,2025-06,435,4350,9
+Pennant,Souvenirs,Club shop,2025-06,455,4550,5
+Pennant,Souvenirs,Match-day stall,2025-06,438,4380,9
+Home shirt,Clothing,Online,2025-07,189,9072,17
+Home shirt,Clothing,Club shop,2025-07,265,12720,3
+Home shirt,Clothing,Match-day stall,2025-07,249,11952,7
+Away shirt,Clothing,Online,2025-07,209,10032,13
+Away shirt,Clothing,Club shop,2025-07,270,12960,9
+Away shirt,Clothing,Match-day stall,2025-07,253,12144,7
+Training top,Clothing,Online,2025-07,208,6656,23
+Training top,Clothing,Club shop,2025-07,263,8416,9
+Training top,Clothing,Match-day stall,2025-07,258,8256,8
+Scarf,Accessories,Online,2025-07,374,5236,14
+Scarf,Accessories,Club shop,2025-07,427,5978,9
+Scarf,Accessories,Match-day stall,2025-07,295,4130,3
+Cap,Accessories,Online,2025-07,362,5792,11
+Cap,Accessories,Club shop,2025-07,467,7472,15
+Cap,Accessories,Match-day stall,2025-07,392,6272,15
+Mug,Homeware,Online,2025-07,406,3654,6
+Mug,Homeware,Club shop,2025-07,320,2880,10
+Mug,Homeware,Match-day stall,2025-07,360,3240,6
+Bottle,Homeware,Online,2025-07,390,4680,12
+Bottle,Homeware,Club shop,2025-07,253,3036,5
+Bottle,Homeware,Match-day stall,2025-07,573,6876,18
+Keyring,Accessories,Online,2025-07,350,1750,7
+Keyring,Accessories,Club shop,2025-07,624,3120,14
+Keyring,Accessories,Match-day stall,2025-07,287,1435,6
+Poster,Souvenirs,Online,2025-07,422,2954,7
+Poster,Souvenirs,Club shop,2025-07,307,2149,5
+Poster,Souvenirs,Match-day stall,2025-07,405,2835,10
+Programme,Souvenirs,Online,2025-07,395,1580,15
+Programme,Souvenirs,Club shop,2025-07,266,1064,4
+Programme,Souvenirs,Match-day stall,2025-07,492,1968,6
+Hoodie,Clothing,Online,2025-07,266,11172,26
+Hoodie,Clothing,Club shop,2025-07,262,11004,10
+Hoodie,Clothing,Match-day stall,2025-07,332,13944,9
+Pennant,Souvenirs,Online,2025-07,326,3260,14
+Pennant,Souvenirs,Club shop,2025-07,431,4310,8
+Pennant,Souvenirs,Match-day stall,2025-07,274,2740,5
+Home shirt,Clothing,Online,2025-08,356,17088,32
+Home shirt,Clothing,Club shop,2025-08,530,25440,10
+Home shirt,Clothing,Match-day stall,2025-08,439,21072,5
+Away shirt,Clothing,Online,2025-08,255,12240,25
+Away shirt,Clothing,Club shop,2025-08,471,22608,15
+Away shirt,Clothing,Match-day stall,2025-08,459,22032,7
+Training top,Clothing,Online,2025-08,443,14176,36
+Training top,Clothing,Club shop,2025-08,575,18400,13
+Training top,Clothing,Match-day stall,2025-08,441,14112,13
+Scarf,Accessories,Online,2025-08,669,9366,22
+Scarf,Accessories,Club shop,2025-08,548,7672,15
+Scarf,Accessories,Match-day stall,2025-08,652,9128,13
+Cap,Accessories,Online,2025-08,469,7504,14
+Cap,Accessories,Club shop,2025-08,541,8656,10
+Cap,Accessories,Match-day stall,2025-08,538,8608,10
+Mug,Homeware,Online,2025-08,476,4284,11
+Mug,Homeware,Club shop,2025-08,491,4419,12
+Mug,Homeware,Match-day stall,2025-08,656,5904,15
+Bottle,Homeware,Online,2025-08,776,9312,24
+Bottle,Homeware,Club shop,2025-08,625,7500,18
+Bottle,Homeware,Match-day stall,2025-08,857,10284,20
+Keyring,Accessories,Online,2025-08,389,1945,9
+Keyring,Accessories,Club shop,2025-08,794,3970,28
+Keyring,Accessories,Match-day stall,2025-08,543,2715,21
+Poster,Souvenirs,Online,2025-08,762,5334,15
+Poster,Souvenirs,Club shop,2025-08,631,4417,15
+Poster,Souvenirs,Match-day stall,2025-08,588,4116,19
+Programme,Souvenirs,Online,2025-08,892,3568,17
+Programme,Souvenirs,Club shop,2025-08,695,2780,8
+Programme,Souvenirs,Match-day stall,2025-08,835,3340,16
+Hoodie,Clothing,Online,2025-08,378,15876,35
+Hoodie,Clothing,Club shop,2025-08,482,20244,13
+Hoodie,Clothing,Match-day stall,2025-08,444,18648,11
+Pennant,Souvenirs,Online,2025-08,457,4570,9
+Pennant,Souvenirs,Club shop,2025-08,590,5900,17
+Pennant,Souvenirs,Match-day stall,2025-08,472,4720,11
+Home shirt,Clothing,Online,2025-09,282,13536,25
+Home shirt,Clothing,Club shop,2025-09,250,12000,10
+Home shirt,Clothing,Match-day stall,2025-09,255,12240,9
+Away shirt,Clothing,Online,2025-09,246,11808,19
+Away shirt,Clothing,Club shop,2025-09,242,11616,4
+Away shirt,Clothing,Match-day stall,2025-09,240,11520,6
+Training top,Clothing,Online,2025-09,267,8544,32
+Training top,Clothing,Club shop,2025-09,202,6464,6
+Training top,Clothing,Match-day stall,2025-09,175,5600,6
+Scarf,Accessories,Online,2025-09,326,4564,11
+Scarf,Accessories,Club shop,2025-09,504,7056,12
+Scarf,Accessories,Match-day stall,2025-09,603,8442,15
+Cap,Accessories,Online,2025-09,451,7216,4
+Cap,Accessories,Club shop,2025-09,293,4688,7
+Cap,Accessories,Match-day stall,2025-09,331,5296,11
+Mug,Homeware,Online,2025-09,388,3492,15
+Mug,Homeware,Club shop,2025-09,331,2979,7
+Mug,Homeware,Match-day stall,2025-09,415,3735,10
+Bottle,Homeware,Online,2025-09,422,5064,15
+Bottle,Homeware,Club shop,2025-09,477,5724,12
+Bottle,Homeware,Match-day stall,2025-09,321,3852,10
+Keyring,Accessories,Online,2025-09,532,2660,13
+Keyring,Accessories,Club shop,2025-09,403,2015,8
+Keyring,Accessories,Match-day stall,2025-09,368,1840,11
+Poster,Souvenirs,Online,2025-09,369,2583,9
+Poster,Souvenirs,Club shop,2025-09,520,3640,18
+Poster,Souvenirs,Match-day stall,2025-09,358,2506,10
+Programme,Souvenirs,Online,2025-09,400,1600,11
+Programme,Souvenirs,Club shop,2025-09,452,1808,9
+Programme,Souvenirs,Match-day stall,2025-09,359,1436,6
+Hoodie,Clothing,Online,2025-09,251,10542,34
+Hoodie,Clothing,Club shop,2025-09,198,8316,7
+Hoodie,Clothing,Match-day stall,2025-09,262,11004,4
+Pennant,Souvenirs,Online,2025-09,405,4050,5
+Pennant,Souvenirs,Club shop,2025-09,342,3420,16
+Pennant,Souvenirs,Match-day stall,2025-09,430,4300,10
+Home shirt,Clothing,Online,2025-10,298,14304,18
+Home shirt,Clothing,Club shop,2025-10,192,9216,7
+Home shirt,Clothing,Match-day stall,2025-10,360,17280,9
+Away shirt,Clothing,Online,2025-10,278,13344,27
+Away shirt,Clothing,Club shop,2025-10,162,7776,2
+Away shirt,Clothing,Match-day stall,2025-10,347,16656,9
+Training top,Clothing,Online,2025-10,197,6304,27
+Training top,Clothing,Club shop,2025-10,249,7968,8
+Training top,Clothing,Match-day stall,2025-10,289,9248,3
+Scarf,Accessories,Online,2025-10,384,5376,10
+Scarf,Accessories,Club shop,2025-10,306,4284,5
+Scarf,Accessories,Match-day stall,2025-10,344,4816,13
+Cap,Accessories,Online,2025-10,293,4688,7
+Cap,Accessories,Club shop,2025-10,342,5472,11
+Cap,Accessories,Match-day stall,2025-10,290,4640,8
+Mug,Homeware,Online,2025-10,353,3177,9
+Mug,Homeware,Club shop,2025-10,382,3438,12
+Mug,Homeware,Match-day stall,2025-10,325,2925,6
+Bottle,Homeware,Online,2025-10,214,2568,6
+Bottle,Homeware,Club shop,2025-10,336,4032,10
+Bottle,Homeware,Match-day stall,2025-10,300,3600,7
+Keyring,Accessories,Online,2025-10,387,1935,7
+Keyring,Accessories,Club shop,2025-10,505,2525,6
+Keyring,Accessories,Match-day stall,2025-10,451,2255,5
+Poster,Souvenirs,Online,2025-10,222,1554,7
+Poster,Souvenirs,Club shop,2025-10,360,2520,11
+Poster,Souvenirs,Match-day stall,2025-10,427,2989,9
+Programme,Souvenirs,Online,2025-10,518,2072,9
+Programme,Souvenirs,Club shop,2025-10,397,1588,8
+Programme,Souvenirs,Match-day stall,2025-10,281,1124,7
+Hoodie,Clothing,Online,2025-10,229,9618,21
+Hoodie,Clothing,Club shop,2025-10,224,9408,10
+Hoodie,Clothing,Match-day stall,2025-10,259,10878,4
+Pennant,Souvenirs,Online,2025-10,477,4770,11
+Pennant,Souvenirs,Club shop,2025-10,384,3840,6
+Pennant,Souvenirs,Match-day stall,2025-10,352,3520,12
+Home shirt,Clothing,Online,2025-11,240,11520,22
+Home shirt,Clothing,Club shop,2025-11,262,12576,9
+Home shirt,Clothing,Match-day stall,2025-11,359,17232,11
+Away shirt,Clothing,Online,2025-11,283,13584,24
+Away shirt,Clothing,Club shop,2025-11,283,13584,7
+Away shirt,Clothing,Match-day stall,2025-11,247,11856,5
+Training top,Clothing,Online,2025-11,291,9312,29
+Training top,Clothing,Club shop,2025-11,260,8320,7
+Training top,Clothing,Match-day stall,2025-11,268,8576,6
+Scarf,Accessories,Online,2025-11,449,6286,14
+Scarf,Accessories,Club shop,2025-11,490,6860,13
+Scarf,Accessories,Match-day stall,2025-11,339,4746,9
+Cap,Accessories,Online,2025-11,504,8064,16
+Cap,Accessories,Club shop,2025-11,360,5760,9
+Cap,Accessories,Match-day stall,2025-11,590,9440,11
+Mug,Homeware,Online,2025-11,378,3402,13
+Mug,Homeware,Club shop,2025-11,331,2979,6
+Mug,Homeware,Match-day stall,2025-11,442,3978,17
+Bottle,Homeware,Online,2025-11,398,4776,5
+Bottle,Homeware,Club shop,2025-11,339,4068,8
+Bottle,Homeware,Match-day stall,2025-11,362,4344,5
+Keyring,Accessories,Online,2025-11,287,1435,10
+Keyring,Accessories,Club shop,2025-11,368,1840,7
+Keyring,Accessories,Match-day stall,2025-11,490,2450,14
+Poster,Souvenirs,Online,2025-11,294,2058,7
+Poster,Souvenirs,Club shop,2025-11,363,2541,6
+Poster,Souvenirs,Match-day stall,2025-11,489,3423,11
+Programme,Souvenirs,Online,2025-11,340,1360,6
+Programme,Souvenirs,Club shop,2025-11,438,1752,8
+Programme,Souvenirs,Match-day stall,2025-11,340,1360,6
+Hoodie,Clothing,Online,2025-11,313,13146,25
+Hoodie,Clothing,Club shop,2025-11,272,11424,8
+Hoodie,Clothing,Match-day stall,2025-11,389,16338,5
+Pennant,Souvenirs,Online,2025-11,368,3680,16
+Pennant,Souvenirs,Club shop,2025-11,541,5410,16
+Pennant,Souvenirs,Match-day stall,2025-11,386,3860,12
+Home shirt,Clothing,Online,2025-12,402,19296,53
+Home shirt,Clothing,Club shop,2025-12,482,23136,13
+Home shirt,Clothing,Match-day stall,2025-12,437,20976,5
+Away shirt,Clothing,Online,2025-12,409,19632,47
+Away shirt,Clothing,Club shop,2025-12,454,21792,12
+Away shirt,Clothing,Match-day stall,2025-12,500,24000,21
+Training top,Clothing,Online,2025-12,377,12064,36
+Training top,Clothing,Club shop,2025-12,186,5952,4
+Training top,Clothing,Match-day stall,2025-12,388,12416,14
+Scarf,Accessories,Online,2025-12,353,4942,6
+Scarf,Accessories,Club shop,2025-12,651,9114,14
+Scarf,Accessories,Match-day stall,2025-12,613,8582,16
+Cap,Accessories,Online,2025-12,557,8912,12
+Cap,Accessories,Club shop,2025-12,751,12016,17
+Cap,Accessories,Match-day stall,2025-12,768,12288,17
+Mug,Homeware,Online,2025-12,598,5382,19
+Mug,Homeware,Club shop,2025-12,602,5418,15
+Mug,Homeware,Match-day stall,2025-12,718,6462,17
+Bottle,Homeware,Online,2025-12,812,9744,22
+Bottle,Homeware,Club shop,2025-12,450,5400,12
+Bottle,Homeware,Match-day stall,2025-12,518,6216,6
+Keyring,Accessories,Online,2025-12,780,3900,23
+Keyring,Accessories,Club shop,2025-12,575,2875,18
+Keyring,Accessories,Match-day stall,2025-12,656,3280,20
+Poster,Souvenirs,Online,2025-12,372,2604,6
+Poster,Souvenirs,Club shop,2025-12,733,5131,14
+Poster,Souvenirs,Match-day stall,2025-12,663,4641,12
+Programme,Souvenirs,Online,2025-12,400,1600,10
+Programme,Souvenirs,Club shop,2025-12,699,2796,22
+Programme,Souvenirs,Match-day stall,2025-12,776,3104,20
+Hoodie,Clothing,Online,2025-12,388,16296,30
+Hoodie,Clothing,Club shop,2025-12,335,14070,12
+Hoodie,Clothing,Match-day stall,2025-12,556,23352,20
+Pennant,Souvenirs,Online,2025-12,634,6340,10
+Pennant,Souvenirs,Club shop,2025-12,604,6040,16
+Pennant,Souvenirs,Match-day stall,2025-12,533,5330,21

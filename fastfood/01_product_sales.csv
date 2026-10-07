@@ -1,0 +1,385 @@
+product,category,month,units_sold,revenue_gbp
+Classic Burger,Burgers,2024-01,806,4191.20
+Double Burger,Burgers,2024-01,495,3663.00
+Bean Burger,Burgers,2024-01,404,2343.20
+Chicken Wrap,Wraps,2024-01,690,4278.00
+Falafel Wrap,Wraps,2024-01,354,2017.80
+Small Fries,Sides,2024-01,1568,3136.00
+Large Fries,Sides,2024-01,1146,3438.00
+Side Salad,Sides,2024-01,354,991.20
+Cola,Drinks,2024-01,1030,1957.00
+Lemonade,Drinks,2024-01,668,1402.80
+Milkshake,Drinks,2024-01,458,1740.40
+Ice Cream,Desserts,2024-01,472,1227.20
+Cookie,Desserts,2024-01,561,953.70
+Fruit Pot,Desserts,2024-01,226,565.00
+Chicken Bites,Sides,2024-01,763,3204.60
+Breakfast Roll,Breakfast,2024-01,678,2779.80
+Classic Burger,Burgers,2024-02,913,4747.60
+Double Burger,Burgers,2024-02,577,4269.80
+Bean Burger,Burgers,2024-02,433,2511.40
+Chicken Wrap,Wraps,2024-02,801,4966.20
+Falafel Wrap,Wraps,2024-02,442,2519.40
+Small Fries,Sides,2024-02,1358,2716.00
+Large Fries,Sides,2024-02,1190,3570.00
+Side Salad,Sides,2024-02,412,1153.60
+Cola,Drinks,2024-02,1480,2812.00
+Lemonade,Drinks,2024-02,724,1520.40
+Milkshake,Drinks,2024-02,575,2185.00
+Ice Cream,Desserts,2024-02,600,1560.00
+Cookie,Desserts,2024-02,598,1016.60
+Fruit Pot,Desserts,2024-02,240,600.00
+Chicken Bites,Sides,2024-02,724,3040.80
+Breakfast Roll,Breakfast,2024-02,790,3239.00
+Classic Burger,Burgers,2024-03,932,4846.40
+Double Burger,Burgers,2024-03,658,4869.20
+Bean Burger,Burgers,2024-03,407,2360.60
+Chicken Wrap,Wraps,2024-03,770,4774.00
+Falafel Wrap,Wraps,2024-03,455,2593.50
+Small Fries,Sides,2024-03,1551,3102.00
+Large Fries,Sides,2024-03,989,2967.00
+Side Salad,Sides,2024-03,379,1061.20
+Cola,Drinks,2024-03,1235,2346.50
+Lemonade,Drinks,2024-03,990,2079.00
+Milkshake,Drinks,2024-03,756,2872.80
+Ice Cream,Desserts,2024-03,565,1469.00
+Cookie,Desserts,2024-03,784,1332.80
+Fruit Pot,Desserts,2024-03,377,942.50
+Chicken Bites,Sides,2024-03,642,2696.40
+Breakfast Roll,Breakfast,2024-03,712,2919.20
+Classic Burger,Burgers,2024-04,1120,5824.00
+Double Burger,Burgers,2024-04,708,5239.20
+Bean Burger,Burgers,2024-04,419,2430.20
+Chicken Wrap,Wraps,2024-04,801,4966.20
+Falafel Wrap,Wraps,2024-04,461,2627.70
+Small Fries,Sides,2024-04,1370,2740.00
+Large Fries,Sides,2024-04,1276,3828.00
+Side Salad,Sides,2024-04,361,1010.80
+Cola,Drinks,2024-04,1522,2891.80
+Lemonade,Drinks,2024-04,1117,2345.70
+Milkshake,Drinks,2024-04,713,2709.40
+Ice Cream,Desserts,2024-04,594,1544.40
+Cookie,Desserts,2024-04,986,1676.20
+Fruit Pot,Desserts,2024-04,362,905.00
+Chicken Bites,Sides,2024-04,664,2788.80
+Breakfast Roll,Breakfast,2024-04,639,2619.90
+Classic Burger,Burgers,2024-05,1064,5532.80
+Double Burger,Burgers,2024-05,694,5135.60
+Bean Burger,Burgers,2024-05,433,2511.40
+Chicken Wrap,Wraps,2024-05,729,4519.80
+Falafel Wrap,Wraps,2024-05,430,2451.00
+Small Fries,Sides,2024-05,1884,3768.00
+Large Fries,Sides,2024-05,1519,4557.00
+Side Salad,Sides,2024-05,416,1164.80
+Cola,Drinks,2024-05,1946,3697.40
+Lemonade,Drinks,2024-05,1100,2310.00
+Milkshake,Drinks,2024-05,913,3469.40
+Ice Cream,Desserts,2024-05,825,2145.00
+Cookie,Desserts,2024-05,1069,1817.30
+Fruit Pot,Desserts,2024-05,405,1012.50
+Chicken Bites,Sides,2024-05,994,4174.80
+Breakfast Roll,Breakfast,2024-05,782,3206.20
+Classic Burger,Burgers,2024-06,949,4934.80
+Double Burger,Burgers,2024-06,862,6378.80
+Bean Burger,Burgers,2024-06,509,2952.20
+Chicken Wrap,Wraps,2024-06,736,4563.20
+Falafel Wrap,Wraps,2024-06,451,2570.70
+Small Fries,Sides,2024-06,1991,3982.00
+Large Fries,Sides,2024-06,1248,3744.00
+Side Salad,Sides,2024-06,393,1100.40
+Cola,Drinks,2024-06,1754,3332.60
+Lemonade,Drinks,2024-06,1245,2614.50
+Milkshake,Drinks,2024-06,890,3382.00
+Ice Cream,Desserts,2024-06,914,2376.40
+Cookie,Desserts,2024-06,1193,2028.10
+Fruit Pot,Desserts,2024-06,502,1255.00
+Chicken Bites,Sides,2024-06,813,3414.60
+Breakfast Roll,Breakfast,2024-06,975,3997.50
+Classic Burger,Burgers,2024-07,1031,5361.20
+Double Burger,Burgers,2024-07,716,5298.40
+Bean Burger,Burgers,2024-07,456,2644.80
+Chicken Wrap,Wraps,2024-07,827,5127.40
+Falafel Wrap,Wraps,2024-07,485,2764.50
+Small Fries,Sides,2024-07,1887,3774.00
+Large Fries,Sides,2024-07,1169,3507.00
+Side Salad,Sides,2024-07,410,1148.00
+Cola,Drinks,2024-07,1214,2306.60
+Lemonade,Drinks,2024-07,1256,2637.60
+Milkshake,Drinks,2024-07,883,3355.40
+Ice Cream,Desserts,2024-07,801,2082.60
+Cookie,Desserts,2024-07,1050,1785.00
+Fruit Pot,Desserts,2024-07,504,1260.00
+Chicken Bites,Sides,2024-07,995,4179.00
+Breakfast Roll,Breakfast,2024-07,700,2870.00
+Classic Burger,Burgers,2024-08,836,4347.20
+Double Burger,Burgers,2024-08,671,4965.40
+Bean Burger,Burgers,2024-08,485,2813.00
+Chicken Wrap,Wraps,2024-08,809,5015.80
+Falafel Wrap,Wraps,2024-08,449,2559.30
+Small Fries,Sides,2024-08,1931,3862.00
+Large Fries,Sides,2024-08,1212,3636.00
+Side Salad,Sides,2024-08,374,1047.20
+Cola,Drinks,2024-08,1438,2732.20
+Lemonade,Drinks,2024-08,1048,2200.80
+Milkshake,Drinks,2024-08,745,2831.00
+Ice Cream,Desserts,2024-08,669,1739.40
+Cookie,Desserts,2024-08,1006,1710.20
+Fruit Pot,Desserts,2024-08,414,1035.00
+Chicken Bites,Sides,2024-08,862,3620.40
+Breakfast Roll,Breakfast,2024-08,803,3292.30
+Classic Burger,Burgers,2024-09,1109,5766.80
+Double Burger,Burgers,2024-09,591,4373.40
+Bean Burger,Burgers,2024-09,467,2708.60
+Chicken Wrap,Wraps,2024-09,756,4687.20
+Falafel Wrap,Wraps,2024-09,397,2262.90
+Small Fries,Sides,2024-09,1578,3156.00
+Large Fries,Sides,2024-09,1206,3618.00
+Side Salad,Sides,2024-09,343,960.40
+Cola,Drinks,2024-09,1495,2840.50
+Lemonade,Drinks,2024-09,940,1974.00
+Milkshake,Drinks,2024-09,604,2295.20
+Ice Cream,Desserts,2024-09,585,1521.00
+Cookie,Desserts,2024-09,839,1426.30
+Fruit Pot,Desserts,2024-09,383,957.50
+Chicken Bites,Sides,2024-09,860,3612.00
+Breakfast Roll,Breakfast,2024-09,784,3214.40
+Classic Burger,Burgers,2024-10,871,4529.20
+Double Burger,Burgers,2024-10,645,4773.00
+Bean Burger,Burgers,2024-10,348,2018.40
+Chicken Wrap,Wraps,2024-10,671,4160.20
+Falafel Wrap,Wraps,2024-10,402,2291.40
+Small Fries,Sides,2024-10,1365,2730.00
+Large Fries,Sides,2024-10,1068,3204.00
+Side Salad,Sides,2024-10,381,1066.80
+Cola,Drinks,2024-10,1143,2171.70
+Lemonade,Drinks,2024-10,869,1824.90
+Milkshake,Drinks,2024-10,596,2264.80
+Ice Cream,Desserts,2024-10,479,1245.40
+Cookie,Desserts,2024-10,623,1059.10
+Fruit Pot,Desserts,2024-10,281,702.50
+Chicken Bites,Sides,2024-10,626,2629.20
+Breakfast Roll,Breakfast,2024-10,576,2361.60
+Classic Burger,Burgers,2024-11,732,3806.40
+Double Burger,Burgers,2024-11,508,3759.20
+Bean Burger,Burgers,2024-11,380,2204.00
+Chicken Wrap,Wraps,2024-11,734,4550.80
+Falafel Wrap,Wraps,2024-11,427,2433.90
+Small Fries,Sides,2024-11,1476,2952.00
+Large Fries,Sides,2024-11,916,2748.00
+Side Salad,Sides,2024-11,388,1086.40
+Cola,Drinks,2024-11,1112,2112.80
+Lemonade,Drinks,2024-11,596,1251.60
+Milkshake,Drinks,2024-11,450,1710.00
+Ice Cream,Desserts,2024-11,395,1027.00
+Cookie,Desserts,2024-11,619,1052.30
+Fruit Pot,Desserts,2024-11,261,652.50
+Chicken Bites,Sides,2024-11,641,2692.20
+Breakfast Roll,Breakfast,2024-11,698,2861.80
+Classic Burger,Burgers,2024-12,795,4134.00
+Double Burger,Burgers,2024-12,524,3877.60
+Bean Burger,Burgers,2024-12,423,2453.40
+Chicken Wrap,Wraps,2024-12,714,4426.80
+Falafel Wrap,Wraps,2024-12,404,2302.80
+Small Fries,Sides,2024-12,1567,3134.00
+Large Fries,Sides,2024-12,1036,3108.00
+Side Salad,Sides,2024-12,331,926.80
+Cola,Drinks,2024-12,857,1628.30
+Lemonade,Drinks,2024-12,565,1186.50
+Milkshake,Drinks,2024-12,439,1668.20
+Ice Cream,Desserts,2024-12,420,1092.00
+Cookie,Desserts,2024-12,542,921.40
+Fruit Pot,Desserts,2024-12,206,515.00
+Chicken Bites,Sides,2024-12,720,3024.00
+Breakfast Roll,Breakfast,2024-12,674,2763.40
+Classic Burger,Burgers,2025-01,764,3972.80
+Double Burger,Burgers,2025-01,592,4380.80
+Bean Burger,Burgers,2025-01,442,2563.60
+Chicken Wrap,Wraps,2025-01,606,3757.20
+Falafel Wrap,Wraps,2025-01,538,3066.60
+Small Fries,Sides,2025-01,1525,3050.00
+Large Fries,Sides,2025-01,903,2709.00
+Side Salad,Sides,2025-01,304,851.20
+Cola,Drinks,2025-01,1141,2167.90
+Lemonade,Drinks,2025-01,672,1411.20
+Milkshake,Drinks,2025-01,501,1903.80
+Ice Cream,Desserts,2025-01,461,1198.60
+Cookie,Desserts,2025-01,503,855.10
+Fruit Pot,Desserts,2025-01,278,695.00
+Chicken Bites,Sides,2025-01,592,2486.40
+Breakfast Roll,Breakfast,2025-01,713,2923.30
+Classic Burger,Burgers,2025-02,993,5163.60
+Double Burger,Burgers,2025-02,599,4432.60
+Bean Burger,Burgers,2025-02,492,2853.60
+Chicken Wrap,Wraps,2025-02,731,4532.20
+Falafel Wrap,Wraps,2025-02,477,2718.90
+Small Fries,Sides,2025-02,1611,3222.00
+Large Fries,Sides,2025-02,1013,3039.00
+Side Salad,Sides,2025-02,317,887.60
+Cola,Drinks,2025-02,1097,2084.30
+Lemonade,Drinks,2025-02,773,1623.30
+Milkshake,Drinks,2025-02,528,2006.40
+Ice Cream,Desserts,2025-02,400,1040.00
+Cookie,Desserts,2025-02,743,1263.10
+Fruit Pot,Desserts,2025-02,333,832.50
+Chicken Bites,Sides,2025-02,729,3061.80
+Breakfast Roll,Breakfast,2025-02,646,2648.60
+Classic Burger,Burgers,2025-03,1003,5215.60
+Double Burger,Burgers,2025-03,659,4876.60
+Bean Burger,Burgers,2025-03,483,2801.40
+Chicken Wrap,Wraps,2025-03,747,4631.40
+Falafel Wrap,Wraps,2025-03,547,3117.90
+Small Fries,Sides,2025-03,1483,2966.00
+Large Fries,Sides,2025-03,1141,3423.00
+Side Salad,Sides,2025-03,450,1260.00
+Cola,Drinks,2025-03,1308,2485.20
+Lemonade,Drinks,2025-03,875,1837.50
+Milkshake,Drinks,2025-03,603,2291.40
+Ice Cream,Desserts,2025-03,709,1843.40
+Cookie,Desserts,2025-03,756,1285.20
+Fruit Pot,Desserts,2025-03,387,967.50
+Chicken Bites,Sides,2025-03,964,4048.80
+Breakfast Roll,Breakfast,2025-03,625,2562.50
+Classic Burger,Burgers,2025-04,1142,5938.40
+Double Burger,Burgers,2025-04,568,4203.20
+Bean Burger,Burgers,2025-04,512,2969.60
+Chicken Wrap,Wraps,2025-04,769,4767.80
+Falafel Wrap,Wraps,2025-04,620,3534.00
+Small Fries,Sides,2025-04,1872,3744.00
+Large Fries,Sides,2025-04,1177,3531.00
+Side Salad,Sides,2025-04,432,1209.60
+Cola,Drinks,2025-04,1572,2986.80
+Lemonade,Drinks,2025-04,1071,2249.10
+Milkshake,Drinks,2025-04,899,3416.20
+Ice Cream,Desserts,2025-04,734,1908.40
+Cookie,Desserts,2025-04,1122,1907.40
+Fruit Pot,Desserts,2025-04,356,890.00
+Chicken Bites,Sides,2025-04,822,3452.40
+Breakfast Roll,Breakfast,2025-04,806,3304.60
+Classic Burger,Burgers,2025-05,1091,5673.20
+Double Burger,Burgers,2025-05,708,5239.20
+Bean Burger,Burgers,2025-05,526,3050.80
+Chicken Wrap,Wraps,2025-05,816,5059.20
+Falafel Wrap,Wraps,2025-05,590,3363.00
+Small Fries,Sides,2025-05,2019,4038.00
+Large Fries,Sides,2025-05,1342,4026.00
+Side Salad,Sides,2025-05,484,1355.20
+Cola,Drinks,2025-05,2120,4028.00
+Lemonade,Drinks,2025-05,1105,2320.50
+Milkshake,Drinks,2025-05,891,3385.80
+Ice Cream,Desserts,2025-05,839,2181.40
+Cookie,Desserts,2025-05,1166,1982.20
+Fruit Pot,Desserts,2025-05,455,1137.50
+Chicken Bites,Sides,2025-05,955,4011.00
+Breakfast Roll,Breakfast,2025-05,734,3009.40
+Classic Burger,Burgers,2025-06,1158,6021.60
+Double Burger,Burgers,2025-06,855,6327.00
+Bean Burger,Burgers,2025-06,559,3242.20
+Chicken Wrap,Wraps,2025-06,667,4135.40
+Falafel Wrap,Wraps,2025-06,569,3243.30
+Small Fries,Sides,2025-06,1898,3796.00
+Large Fries,Sides,2025-06,1357,4071.00
+Side Salad,Sides,2025-06,486,1360.80
+Cola,Drinks,2025-06,1959,3722.10
+Lemonade,Drinks,2025-06,1102,2314.20
+Milkshake,Drinks,2025-06,890,3382.00
+Ice Cream,Desserts,2025-06,702,1825.20
+Cookie,Desserts,2025-06,1029,1749.30
+Fruit Pot,Desserts,2025-06,559,1397.50
+Chicken Bites,Sides,2025-06,838,3519.60
+Breakfast Roll,Breakfast,2025-06,848,3476.80
+Classic Burger,Burgers,2025-07,1221,6349.20
+Double Burger,Burgers,2025-07,698,5165.20
+Bean Burger,Burgers,2025-07,619,3590.20
+Chicken Wrap,Wraps,2025-07,832,5158.40
+Falafel Wrap,Wraps,2025-07,610,3477.00
+Small Fries,Sides,2025-07,1960,3920.00
+Large Fries,Sides,2025-07,1302,3906.00
+Side Salad,Sides,2025-07,377,1055.60
+Cola,Drinks,2025-07,1803,3425.70
+Lemonade,Drinks,2025-07,1209,2538.90
+Milkshake,Drinks,2025-07,1059,4024.20
+Ice Cream,Desserts,2025-07,775,2015.00
+Cookie,Desserts,2025-07,1077,1830.90
+Fruit Pot,Desserts,2025-07,533,1332.50
+Chicken Bites,Sides,2025-07,915,3843.00
+Breakfast Roll,Breakfast,2025-07,769,3152.90
+Classic Burger,Burgers,2025-08,956,4971.20
+Double Burger,Burgers,2025-08,716,5298.40
+Bean Burger,Burgers,2025-08,609,3532.20
+Chicken Wrap,Wraps,2025-08,817,5065.40
+Falafel Wrap,Wraps,2025-08,569,3243.30
+Small Fries,Sides,2025-08,1725,3450.00
+Large Fries,Sides,2025-08,1323,3969.00
+Side Salad,Sides,2025-08,372,1041.60
+Cola,Drinks,2025-08,1449,2753.10
+Lemonade,Drinks,2025-08,1142,2398.20
+Milkshake,Drinks,2025-08,877,3332.60
+Ice Cream,Desserts,2025-08,624,1622.40
+Cookie,Desserts,2025-08,914,1553.80
+Fruit Pot,Desserts,2025-08,453,1132.50
+Chicken Bites,Sides,2025-08,749,3145.80
+Breakfast Roll,Breakfast,2025-08,685,2808.50
+Classic Burger,Burgers,2025-09,909,4726.80
+Double Burger,Burgers,2025-09,714,5283.60
+Bean Burger,Burgers,2025-09,562,3259.60
+Chicken Wrap,Wraps,2025-09,750,4650.00
+Falafel Wrap,Wraps,2025-09,540,3078.00
+Small Fries,Sides,2025-09,1702,3404.00
+Large Fries,Sides,2025-09,1196,3588.00
+Side Salad,Sides,2025-09,438,1226.40
+Cola,Drinks,2025-09,1395,2650.50
+Lemonade,Drinks,2025-09,831,1745.10
+Milkshake,Drinks,2025-09,585,2223.00
+Ice Cream,Desserts,2025-09,588,1528.80
+Cookie,Desserts,2025-09,802,1363.40
+Fruit Pot,Desserts,2025-09,315,787.50
+Chicken Bites,Sides,2025-09,927,3893.40
+Breakfast Roll,Breakfast,2025-09,684,2804.40
+Classic Burger,Burgers,2025-10,1007,5236.40
+Double Burger,Burgers,2025-10,583,4314.20
+Bean Burger,Burgers,2025-10,555,3219.00
+Chicken Wrap,Wraps,2025-10,622,3856.40
+Falafel Wrap,Wraps,2025-10,425,2422.50
+Small Fries,Sides,2025-10,1838,3676.00
+Large Fries,Sides,2025-10,1094,3282.00
+Side Salad,Sides,2025-10,377,1055.60
+Cola,Drinks,2025-10,1184,2249.60
+Lemonade,Drinks,2025-10,868,1822.80
+Milkshake,Drinks,2025-10,663,2519.40
+Ice Cream,Desserts,2025-10,528,1372.80
+Cookie,Desserts,2025-10,700,1190.00
+Fruit Pot,Desserts,2025-10,299,747.50
+Chicken Bites,Sides,2025-10,631,2650.20
+Breakfast Roll,Breakfast,2025-10,634,2599.40
+Classic Burger,Burgers,2025-11,915,4758.00
+Double Burger,Burgers,2025-11,626,4632.40
+Bean Burger,Burgers,2025-11,452,2621.60
+Chicken Wrap,Wraps,2025-11,778,4823.60
+Falafel Wrap,Wraps,2025-11,448,2553.60
+Small Fries,Sides,2025-11,1561,3122.00
+Large Fries,Sides,2025-11,922,2766.00
+Side Salad,Sides,2025-11,415,1162.00
+Cola,Drinks,2025-11,973,1848.70
+Lemonade,Drinks,2025-11,803,1686.30
+Milkshake,Drinks,2025-11,507,1926.60
+Ice Cream,Desserts,2025-11,483,1255.80
+Cookie,Desserts,2025-11,567,963.90
+Fruit Pot,Desserts,2025-11,287,717.50
+Chicken Bites,Sides,2025-11,766,3217.20
+Breakfast Roll,Breakfast,2025-11,639,2619.90
+Classic Burger,Burgers,2025-12,808,4201.60
+Double Burger,Burgers,2025-12,695,5143.00
+Bean Burger,Burgers,2025-12,525,3045.00
+Chicken Wrap,Wraps,2025-12,626,3881.20
+Falafel Wrap,Wraps,2025-12,493,2810.10
+Small Fries,Sides,2025-12,1360,2720.00
+Large Fries,Sides,2025-12,1135,3405.00
+Side Salad,Sides,2025-12,311,870.80
+Cola,Drinks,2025-12,922,1751.80
+Lemonade,Drinks,2025-12,677,1421.70
+Milkshake,Drinks,2025-12,509,1934.20
+Ice Cream,Desserts,2025-12,433,1125.80
+Cookie,Desserts,2025-12,556,945.20
+Fruit Pot,Desserts,2025-12,257,642.50
+Chicken Bites,Sides,2025-12,767,3221.40
+Breakfast Roll,Breakfast,2025-12,649,2660.90

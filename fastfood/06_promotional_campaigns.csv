@@ -1,0 +1,121 @@
+campaign,promotion_type,channel,campaign_spend_gbp,orders_attributed,revenue_attributed_gbp
+Campaign 001,Meal deal,Social media,1516,634,5296.65
+Campaign 002,Limited edition,Search,2185,1035,10718.36
+Campaign 003,Meal deal,Search,1253,470,4020.93
+Campaign 004,Free side,Email,2415,1612,13325.17
+Campaign 005,Meal deal,Email,1643,1199,9757.18
+Campaign 006,Limited edition,Printed leaflet,2432,700,6192.59
+Campaign 007,Percentage discount,Social media,3339,1532,13595.34
+Campaign 008,Percentage discount,Social media,2979,946,8293.07
+Campaign 009,Free side,Social media,2970,1399,9695.00
+Campaign 010,Percentage discount,Social media,3087,1331,13000.19
+Campaign 011,Meal deal,Social media,395,187,1493.99
+Campaign 012,Limited edition,Email,1412,1414,14088.00
+Campaign 013,Meal deal,Search,333,147,1190.51
+Campaign 014,Limited edition,Social media,1449,558,5867.66
+Campaign 015,Percentage discount,Social media,2871,974,8524.15
+Campaign 016,Meal deal,Search,1490,373,2907.77
+Campaign 017,Percentage discount,Email,1275,1049,9318.20
+Campaign 018,Percentage discount,Search,797,239,1986.71
+Campaign 019,Percentage discount,Social media,3216,1033,8067.23
+Campaign 020,Free side,Search,1567,318,2628.05
+Campaign 021,Percentage discount,Printed leaflet,2627,444,3580.78
+Campaign 022,Percentage discount,Email,3017,2060,17344.94
+Campaign 023,Meal deal,Search,2273,578,4861.70
+Campaign 024,Meal deal,Printed leaflet,611,177,1466.88
+Campaign 025,Percentage discount,Social media,3295,1370,12577.31
+Campaign 026,Percentage discount,Email,2919,2100,18332.98
+Campaign 027,Meal deal,Printed leaflet,3126,801,6041.91
+Campaign 028,Free side,Social media,2876,1089,8725.08
+Campaign 029,Meal deal,Printed leaflet,2498,583,4564.89
+Campaign 030,Limited edition,Social media,2205,1057,10269.48
+Campaign 031,Limited edition,Search,2091,884,8773.30
+Campaign 032,Percentage discount,Social media,2395,1097,7792.25
+Campaign 033,Limited edition,Email,1610,1342,13185.56
+Campaign 034,Limited edition,Search,2715,863,8381.25
+Campaign 035,Limited edition,Email,2972,1811,15304.31
+Campaign 036,Free side,Search,1432,402,3437.70
+Campaign 037,Limited edition,Search,2688,935,9756.49
+Campaign 038,Percentage discount,Printed leaflet,1194,408,3011.64
+Campaign 039,Limited edition,Email,1846,1374,11281.71
+Campaign 040,Free side,Email,1284,951,7314.46
+Campaign 041,Limited edition,Printed leaflet,3462,607,5305.48
+Campaign 042,Percentage discount,Email,2698,1639,13416.07
+Campaign 043,Percentage discount,Social media,1629,591,4387.49
+Campaign 044,Meal deal,Email,741,548,4166.74
+Campaign 045,Percentage discount,Printed leaflet,889,221,1658.85
+Campaign 046,Meal deal,Printed leaflet,2373,599,4835.99
+Campaign 047,Free side,Search,944,302,2778.75
+Campaign 048,Free side,Email,2768,1872,14328.35
+Campaign 049,Free side,Social media,293,129,1116.31
+Campaign 050,Limited edition,Printed leaflet,1283,329,2515.06
+Campaign 051,Free side,Email,2820,1978,16272.44
+Campaign 052,Free side,Search,980,402,3551.85
+Campaign 053,Meal deal,Email,835,606,5192.57
+Campaign 054,Meal deal,Social media,1354,703,5853.83
+Campaign 055,Meal deal,Email,3260,1443,11101.02
+Campaign 056,Limited edition,Email,1661,1323,14583.47
+Campaign 057,Free side,Search,2839,764,6596.02
+Campaign 058,Percentage discount,Printed leaflet,667,205,1851.46
+Campaign 059,Limited edition,Search,2374,685,6722.00
+Campaign 060,Meal deal,Search,1763,682,5906.38
+Campaign 061,Percentage discount,Email,1815,998,8487.50
+Campaign 062,Percentage discount,Email,2353,2298,20480.49
+Campaign 063,Meal deal,Printed leaflet,1452,260,2299.05
+Campaign 064,Limited edition,Printed leaflet,3024,616,6144.67
+Campaign 065,Meal deal,Social media,1238,567,4555.80
+Campaign 066,Meal deal,Printed leaflet,1024,391,3508.43
+Campaign 067,Free side,Search,2237,799,6988.31
+Campaign 068,Percentage discount,Search,1647,565,4701.10
+Campaign 069,Limited edition,Printed leaflet,2786,571,6617.00
+Campaign 070,Limited edition,Social media,1265,638,6183.40
+Campaign 071,Limited edition,Social media,2106,696,6538.58
+Campaign 072,Limited edition,Search,2821,1385,12809.04
+Campaign 073,Percentage discount,Email,553,382,3106.33
+Campaign 074,Free side,Search,943,343,2445.27
+Campaign 075,Limited edition,Search,1100,303,2541.20
+Campaign 076,Meal deal,Email,1493,1098,7778.43
+Campaign 077,Limited edition,Search,2214,596,5812.21
+Campaign 078,Meal deal,Printed leaflet,1751,504,4093.15
+Campaign 079,Free side,Printed leaflet,2836,685,5442.11
+Campaign 080,Limited edition,Email,1878,962,9295.47
+Campaign 081,Free side,Email,1863,1599,12524.68
+Campaign 082,Limited edition,Printed leaflet,847,230,2051.19
+Campaign 083,Limited edition,Social media,1700,510,5375.34
+Campaign 084,Limited edition,Email,2660,1084,8529.08
+Campaign 085,Limited edition,Email,538,279,3082.26
+Campaign 086,Limited edition,Printed leaflet,2809,754,7743.88
+Campaign 087,Limited edition,Email,1081,623,6455.98
+Campaign 088,Free side,Email,2769,1976,17530.57
+Campaign 089,Limited edition,Printed leaflet,1007,268,2957.38
+Campaign 090,Limited edition,Printed leaflet,2766,913,8576.56
+Campaign 091,Percentage discount,Printed leaflet,2499,517,3757.79
+Campaign 092,Percentage discount,Email,760,260,2155.46
+Campaign 093,Limited edition,Email,1985,1654,17253.85
+Campaign 094,Limited edition,Search,3066,1275,12296.72
+Campaign 095,Limited edition,Email,3372,2982,26575.50
+Campaign 096,Free side,Search,1382,426,2954.24
+Campaign 097,Percentage discount,Printed leaflet,2755,684,5284.77
+Campaign 098,Meal deal,Search,3070,910,7734.66
+Campaign 099,Free side,Email,1945,1758,12700.85
+Campaign 100,Meal deal,Search,2152,410,2780.20
+Campaign 101,Meal deal,Email,3368,2490,21132.10
+Campaign 102,Free side,Social media,2299,670,5588.02
+Campaign 103,Limited edition,Social media,2423,1364,14369.76
+Campaign 104,Percentage discount,Printed leaflet,845,257,2184.20
+Campaign 105,Meal deal,Printed leaflet,2518,691,5134.69
+Campaign 106,Percentage discount,Social media,291,138,1133.47
+Campaign 107,Free side,Printed leaflet,2128,593,5003.87
+Campaign 108,Meal deal,Email,2570,2243,18692.02
+Campaign 109,Free side,Printed leaflet,1458,272,2369.84
+Campaign 110,Percentage discount,Search,2033,650,5773.75
+Campaign 111,Limited edition,Social media,2559,1055,11110.07
+Campaign 112,Limited edition,Printed leaflet,1087,406,4396.02
+Campaign 113,Meal deal,Email,1477,1375,11344.88
+Campaign 114,Meal deal,Printed leaflet,3427,1072,8816.12
+Campaign 115,Meal deal,Search,2240,476,3586.74
+Campaign 116,Percentage discount,Email,1700,890,6816.46
+Campaign 117,Percentage discount,Social media,2238,672,5218.21
+Campaign 118,Meal deal,Search,2585,692,5443.29
+Campaign 119,Meal deal,Printed leaflet,1077,312,2819.32
+Campaign 120,Percentage discount,Email,3184,1903,14198.80

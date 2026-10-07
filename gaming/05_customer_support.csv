@@ -1,0 +1,2401 @@
+ticket_id,game,issue_category,platform,response_hours,resolution_hours,satisfaction_rating
+S00001,Iron Arena,Crash,Console,2.60,51.40,3.80
+S00002,Block Expedition,Performance,Console,2.20,39.20,3.00
+S00003,Iron Arena,Performance,PC,6.00,36.30,3.40
+S00004,Forest Trails,Crash,PC,7.80,50.80,3.60
+S00005,Puzzle Grove,Crash,Console,4.30,20.30,3.40
+S00006,River Rescue,Gameplay question,Console,8.10,17.80,3.90
+S00007,Castle Forge,Performance,Console,7.20,43.50,3.50
+S00008,River Rescue,Gameplay question,Console,5.40,9.60,4.40
+S00009,Iron Arena,Crash,Handheld,1.20,51.20,2.70
+S00010,Star Tactics,Performance,Handheld,9.00,31.00,3.70
+S00011,Pixel Rally,Account access,Console,1.80,7.20,4.30
+S00012,Harbour Builder,Crash,Handheld,5.10,27.50,3.60
+S00013,Block Expedition,Payment query,Handheld,3.80,18.40,4.40
+S00014,Rune Roads,Performance,Console,9.30,20.50,3.80
+S00015,Puzzle Grove,Performance,PC,6.40,30.60,3.80
+S00016,Garden Worlds,Payment query,Handheld,7.10,24.00,4.70
+S00017,Puzzle Grove,Crash,PC,4.20,35.00,2.80
+S00018,Cloud City,Account access,PC,7.40,11.70,3.50
+S00019,Rune Roads,Crash,Console,0.60,55.50,2.60
+S00020,Puzzle Grove,Account access,Console,9.40,16.50,4.30
+S00021,Block Expedition,Crash,Console,6.20,27.70,4.00
+S00022,Harbour Builder,Crash,Console,3.60,19.60,4.30
+S00023,Ocean Architect,Gameplay question,PC,7.40,15.40,3.60
+S00024,Garden Worlds,Payment query,PC,2.20,18.20,4.60
+S00025,Neon Circuit,Gameplay question,Handheld,6.40,12.70,3.90
+S00026,Harbour Builder,Payment query,Console,1.50,15.40,4.60
+S00027,Orbit Quest,Crash,Console,5.20,48.60,2.10
+S00028,Cobalt Clash,Performance,Handheld,4.30,19.20,3.50
+S00029,Echo Quest,Crash,Handheld,9.90,39.80,4.20
+S00030,Pixel Rally,Payment query,Console,3.20,17.00,4.60
+S00031,Turbo Tracks,Payment query,PC,4.20,11.50,4.50
+S00032,Orbit Quest,Gameplay question,Console,7.70,13.50,4.50
+S00033,Deep Space,Gameplay question,Handheld,4.00,10.10,5.00
+S00034,River Rescue,Crash,Console,5.30,56.60,3.20
+S00035,Moon Valley,Account access,Handheld,6.10,14.70,3.40
+S00036,Echo Quest,Performance,Console,6.60,31.70,3.90
+S00037,Star Tactics,Account access,Handheld,9.00,18.50,3.80
+S00038,Block Expedition,Crash,PC,4.30,85.20,2.50
+S00039,Block Expedition,Payment query,Handheld,9.90,25.00,3.20
+S00040,Marble Maze,Payment query,PC,5.90,22.20,4.00
+S00041,Marble Maze,Crash,Handheld,3.10,42.90,3.90
+S00042,Cloud City,Payment query,Handheld,2.20,23.10,3.50
+S00043,Skybound,Performance,Console,2.90,31.20,4.10
+S00044,Puzzle Grove,Performance,PC,10.00,21.20,4.10
+S00045,Turbo Tracks,Payment query,PC,6.50,13.90,3.70
+S00046,Castle Forge,Payment query,Handheld,2.80,14.00,3.90
+S00047,Deep Space,Gameplay question,Console,1.60,8.30,4.70
+S00048,River Rescue,Crash,Handheld,7.90,23.90,3.80
+S00049,Rune Roads,Account access,PC,9.20,12.80,4.60
+S00050,Neon Circuit,Gameplay question,Console,3.70,12.70,4.40
+S00051,Rune Roads,Performance,PC,3.00,31.70,3.70
+S00052,Cloud City,Performance,PC,6.50,17.70,4.50
+S00053,Iron Arena,Crash,PC,6.10,58.50,3.40
+S00054,Turbo Tracks,Performance,PC,3.80,35.30,4.40
+S00055,Ocean Architect,Gameplay question,Handheld,4.70,9.00,3.40
+S00056,Skybound,Account access,PC,0.90,12.20,5.00
+S00057,River Rescue,Payment query,PC,1.10,15.30,4.20
+S00058,Sunset Sprint,Crash,PC,3.50,50.90,3.40
+S00059,Forest Trails,Account access,PC,8.30,15.00,4.60
+S00060,Orbit Quest,Performance,PC,0.90,42.50,3.40
+S00061,Skybound,Performance,Console,1.90,33.70,3.90
+S00062,Star Tactics,Crash,Console,7.30,39.20,4.30
+S00063,Neon Circuit,Payment query,Console,1.90,9.40,3.40
+S00064,Rune Roads,Crash,Handheld,7.40,35.10,3.60
+S00065,Marble Maze,Account access,Console,9.00,19.70,4.90
+S00066,Deep Space,Payment query,PC,5.80,19.90,4.10
+S00067,Rune Roads,Account access,Handheld,2.80,10.40,4.10
+S00068,Castle Forge,Account access,Handheld,6.30,16.50,3.90
+S00069,Ocean Architect,Crash,PC,2.60,37.00,4.20
+S00070,Crystal Run,Gameplay question,Handheld,4.70,10.90,4.80
+S00071,Star Tactics,Gameplay question,PC,8.70,14.10,4.30
+S00072,Pixel Rally,Payment query,Handheld,7.40,30.30,3.70
+S00073,Forest Trails,Account access,PC,7.20,10.40,4.20
+S00074,Iron Arena,Gameplay question,Handheld,7.20,15.10,4.10
+S00075,Echo Quest,Payment query,Handheld,4.20,19.70,3.80
+S00076,Sunset Sprint,Account access,PC,7.00,17.20,4.20
+S00077,Rune Roads,Crash,Console,5.10,74.30,3.20
+S00078,Deep Space,Performance,PC,1.20,33.10,4.40
+S00079,Sunset Sprint,Account access,PC,8.70,13.00,4.80
+S00080,Turbo Tracks,Payment query,Console,3.80,21.50,2.90
+S00081,Sunset Sprint,Crash,PC,4.30,33.80,3.90
+S00082,Pixel Rally,Gameplay question,PC,3.10,5.50,4.80
+S00083,Harbour Builder,Crash,PC,5.20,66.30,3.00
+S00084,Turbo Tracks,Account access,Handheld,4.70,12.20,4.30
+S00085,Harbour Builder,Crash,PC,0.80,45.80,3.30
+S00086,Echo Quest,Crash,Console,7.50,32.70,4.10
+S00087,Turbo Tracks,Performance,PC,8.10,30.10,3.20
+S00088,Cobalt Clash,Gameplay question,PC,6.00,10.50,3.50
+S00089,Marble Maze,Crash,Handheld,8.60,43.10,4.20
+S00090,River Rescue,Payment query,Console,5.60,16.60,3.30
+S00091,Pixel Rally,Performance,Console,6.60,17.80,3.00
+S00092,Crystal Run,Account access,Console,4.40,10.20,4.60
+S00093,Marble Maze,Performance,Handheld,8.10,34.00,3.40
+S00094,Orbit Quest,Account access,Console,9.10,18.00,4.20
+S00095,Iron Arena,Payment query,Console,3.60,19.30,3.80
+S00096,Block Expedition,Account access,Handheld,9.00,15.40,4.50
+S00097,River Rescue,Account access,PC,3.60,14.80,3.10
+S00098,Iron Arena,Gameplay question,Handheld,7.10,15.20,4.60
+S00099,Crystal Run,Crash,PC,6.30,76.00,1.60
+S00100,Crystal Run,Payment query,Handheld,2.50,14.10,3.50
+S00101,Iron Arena,Account access,Console,2.20,9.30,5.00
+S00102,Neon Circuit,Account access,Console,5.50,11.70,4.00
+S00103,Skybound,Performance,Console,8.70,26.40,3.90
+S00104,Rune Roads,Account access,Console,5.60,15.20,4.10
+S00105,River Rescue,Payment query,PC,1.00,17.20,4.20
+S00106,Castle Forge,Account access,PC,3.00,19.00,5.00
+S00107,Pixel Rally,Gameplay question,Console,7.90,10.90,5.00
+S00108,Garden Worlds,Account access,Handheld,3.10,6.60,3.40
+S00109,Castle Forge,Crash,Handheld,3.20,35.90,2.80
+S00110,Harbour Builder,Gameplay question,Console,3.20,8.70,4.90
+S00111,Harbour Builder,Account access,Handheld,6.50,17.20,4.80
+S00112,Deep Space,Account access,Console,8.50,15.20,4.90
+S00113,Harbour Builder,Performance,Console,4.80,36.60,3.70
+S00114,Harbour Builder,Crash,Handheld,5.40,52.00,3.30
+S00115,Turbo Tracks,Account access,Console,1.30,12.50,4.50
+S00116,Ocean Architect,Crash,PC,6.70,52.00,3.90
+S00117,Moon Valley,Account access,Console,9.30,24.00,3.40
+S00118,Pixel Rally,Payment query,Handheld,1.90,23.10,4.70
+S00119,Deep Space,Payment query,PC,8.40,22.70,3.30
+S00120,Pixel Rally,Payment query,PC,8.70,19.20,4.30
+S00121,Garden Worlds,Account access,Console,3.10,16.40,4.30
+S00122,Ocean Architect,Crash,PC,6.50,53.30,2.50
+S00123,Cloud City,Gameplay question,PC,2.50,9.10,4.20
+S00124,Iron Arena,Account access,PC,9.20,18.20,4.30
+S00125,Rune Roads,Payment query,PC,7.70,27.10,4.80
+S00126,Orbit Quest,Account access,PC,4.30,11.50,4.30
+S00127,Forest Trails,Account access,Console,4.50,16.80,4.50
+S00128,Pixel Rally,Gameplay question,PC,2.80,6.20,4.70
+S00129,Iron Arena,Gameplay question,Handheld,8.20,17.70,5.00
+S00130,River Rescue,Account access,PC,3.60,9.90,5.00
+S00131,Castle Forge,Performance,Handheld,8.30,41.50,3.00
+S00132,Sunset Sprint,Performance,Handheld,8.50,31.00,5.00
+S00133,Pixel Rally,Payment query,Console,0.90,18.20,4.00
+S00134,Skybound,Account access,Console,8.50,16.60,4.80
+S00135,River Rescue,Performance,PC,5.90,34.00,4.30
+S00136,Echo Quest,Account access,Handheld,3.30,11.50,4.00
+S00137,Rune Roads,Account access,Console,2.30,7.20,4.30
+S00138,Echo Quest,Account access,Handheld,1.40,7.10,4.30
+S00139,Rune Roads,Gameplay question,Console,6.20,9.30,4.80
+S00140,Echo Quest,Performance,PC,6.30,18.50,5.00
+S00141,Skybound,Payment query,Handheld,6.50,19.10,4.10
+S00142,Crystal Run,Performance,Console,1.80,49.90,2.80
+S00143,Rune Roads,Crash,PC,4.30,48.40,2.30
+S00144,Crystal Run,Performance,Console,5.10,38.80,3.20
+S00145,Skybound,Crash,PC,8.50,52.50,2.20
+S00146,Garden Worlds,Crash,Handheld,2.10,68.20,1.80
+S00147,Star Tactics,Payment query,Console,4.10,21.20,4.50
+S00148,Skybound,Gameplay question,Console,5.20,7.70,4.50
+S00149,Castle Forge,Gameplay question,Handheld,8.30,11.80,4.80
+S00150,Star Tactics,Performance,PC,8.40,20.70,3.80
+S00151,Turbo Tracks,Gameplay question,Handheld,7.60,12.50,4.20
+S00152,Skybound,Payment query,Console,8.90,31.90,4.20
+S00153,Star Tactics,Gameplay question,Handheld,3.00,7.90,3.70
+S00154,Puzzle Grove,Crash,Handheld,5.50,46.60,3.00
+S00155,Echo Quest,Gameplay question,Handheld,8.50,13.90,4.60
+S00156,Crystal Run,Crash,PC,8.00,55.30,3.30
+S00157,River Rescue,Gameplay question,Console,2.70,10.10,3.90
+S00158,Cloud City,Performance,PC,6.20,44.30,3.60
+S00159,Pixel Rally,Payment query,PC,7.90,19.10,5.00
+S00160,Rune Roads,Account access,Handheld,5.20,13.60,4.70
+S00161,River Rescue,Gameplay question,PC,8.50,17.40,3.40
+S00162,Forest Trails,Crash,Console,7.50,59.00,3.40
+S00163,River Rescue,Crash,Console,8.50,63.10,3.60
+S00164,Crystal Run,Gameplay question,Handheld,4.60,11.90,4.40
+S00165,Marble Maze,Account access,PC,3.80,12.50,4.70
+S00166,River Rescue,Gameplay question,Handheld,7.10,17.80,4.80
+S00167,Pixel Rally,Account access,PC,8.00,16.50,4.10
+S00168,Cobalt Clash,Gameplay question,PC,6.00,13.30,4.80
+S00169,Harbour Builder,Gameplay question,PC,2.50,6.10,5.00
+S00170,Castle Forge,Performance,Console,6.20,36.90,4.30
+S00171,Ocean Architect,Performance,Console,8.10,48.80,3.60
+S00172,Harbour Builder,Account access,Handheld,2.20,8.20,3.20
+S00173,Neon Circuit,Performance,Handheld,9.00,42.80,2.20
+S00174,Puzzle Grove,Crash,Console,4.80,55.10,3.10
+S00175,Neon Circuit,Crash,Handheld,2.20,53.90,3.40
+S00176,Moon Valley,Payment query,Handheld,9.60,21.90,3.70
+S00177,Ocean Architect,Performance,Console,8.40,44.10,2.60
+S00178,Crystal Run,Crash,Handheld,8.60,32.50,4.60
+S00179,Moon Valley,Payment query,Handheld,9.90,23.30,4.40
+S00180,Turbo Tracks,Performance,PC,7.70,38.40,2.90
+S00181,Star Tactics,Crash,Handheld,5.10,57.80,4.10
+S00182,Rune Roads,Performance,Console,2.30,25.80,3.30
+S00183,Block Expedition,Performance,Console,2.20,28.40,3.60
+S00184,Orbit Quest,Account access,Handheld,1.40,5.30,5.00
+S00185,Crystal Run,Account access,Handheld,1.60,18.00,4.80
+S00186,Sunset Sprint,Performance,Handheld,5.40,33.50,3.70
+S00187,Deep Space,Performance,PC,3.70,37.50,3.20
+S00188,Iron Arena,Performance,Console,2.60,36.60,3.00
+S00189,Block Expedition,Gameplay question,PC,8.90,11.30,4.30
+S00190,Turbo Tracks,Payment query,Console,9.00,14.60,5.00
+S00191,Echo Quest,Payment query,Handheld,8.40,32.20,3.10
+S00192,Harbour Builder,Account access,Handheld,1.50,7.20,5.00
+S00193,Harbour Builder,Payment query,Console,2.50,16.90,5.00
+S00194,Rune Roads,Crash,PC,8.90,63.20,3.00
+S00195,Orbit Quest,Payment query,Handheld,3.20,17.60,5.00
+S00196,Garden Worlds,Crash,PC,4.20,48.50,2.60
+S00197,Turbo Tracks,Performance,PC,2.60,13.80,4.20
+S00198,River Rescue,Gameplay question,Handheld,8.70,14.20,4.10
+S00199,Echo Quest,Payment query,Console,4.10,17.30,3.70
+S00200,Cloud City,Gameplay question,Console,2.10,5.90,5.00
+S00201,Deep Space,Crash,Handheld,4.90,53.80,3.30
+S00202,Crystal Run,Account access,Handheld,4.60,11.10,4.60
+S00203,Cloud City,Payment query,Handheld,6.10,26.30,3.90
+S00204,Pixel Rally,Payment query,Handheld,1.30,17.00,3.70
+S00205,Neon Circuit,Crash,Console,0.90,50.50,2.90
+S00206,Crystal Run,Payment query,Console,2.40,17.50,4.30
+S00207,Cobalt Clash,Payment query,PC,2.20,13.60,5.00
+S00208,Pixel Rally,Performance,Console,6.20,25.30,3.70
+S00209,Garden Worlds,Payment query,Console,7.50,17.00,3.50
+S00210,Star Tactics,Crash,Console,6.60,41.00,3.30
+S00211,River Rescue,Performance,Console,9.30,35.30,3.70
+S00212,Castle Forge,Gameplay question,Console,8.80,18.60,3.30
+S00213,Garden Worlds,Gameplay question,Console,7.20,16.80,5.00
+S00214,Castle Forge,Gameplay question,Handheld,7.60,16.20,4.40
+S00215,Star Tactics,Crash,Handheld,8.60,41.80,4.00
+S00216,Forest Trails,Performance,Console,3.50,33.30,3.00
+S00217,Puzzle Grove,Crash,Console,6.90,61.50,2.60
+S00218,Moon Valley,Crash,Handheld,3.90,19.90,4.80
+S00219,Deep Space,Crash,Console,8.20,43.80,2.70
+S00220,Cloud City,Account access,Console,3.80,7.00,4.20
+S00221,Turbo Tracks,Account access,PC,6.20,14.20,3.40
+S00222,Puzzle Grove,Account access,Console,2.20,6.40,4.70
+S00223,Block Expedition,Account access,PC,6.70,20.90,5.00
+S00224,Iron Arena,Gameplay question,Handheld,5.40,12.60,4.00
+S00225,Pixel Rally,Payment query,Console,1.70,11.00,3.70
+S00226,Cloud City,Crash,PC,8.20,24.20,4.20
+S00227,Cloud City,Crash,Handheld,7.20,78.00,2.40
+S00228,Moon Valley,Account access,PC,8.40,11.60,4.40
+S00229,Pixel Rally,Payment query,Console,6.60,14.30,2.80
+S00230,Crystal Run,Payment query,Console,4.30,19.80,4.10
+S00231,Castle Forge,Payment query,Handheld,5.00,13.30,4.10
+S00232,Iron Arena,Payment query,Console,2.30,14.90,4.30
+S00233,Ocean Architect,Crash,Console,6.80,35.30,3.70
+S00234,Moon Valley,Crash,Console,4.90,37.30,3.50
+S00235,Deep Space,Performance,Console,2.90,14.50,4.40
+S00236,Moon Valley,Performance,PC,3.90,27.20,3.80
+S00237,Garden Worlds,Crash,Console,3.30,27.10,3.80
+S00238,Neon Circuit,Crash,Handheld,9.50,25.50,3.50
+S00239,Iron Arena,Gameplay question,PC,5.90,11.70,3.80
+S00240,Skybound,Payment query,Handheld,8.20,15.70,4.10
+S00241,Orbit Quest,Account access,Handheld,7.10,16.90,3.60
+S00242,Moon Valley,Payment query,Console,2.50,19.20,3.40
+S00243,Sunset Sprint,Performance,Handheld,3.80,27.20,3.50
+S00244,Neon Circuit,Crash,Handheld,7.10,31.00,3.40
+S00245,Forest Trails,Account access,Console,3.40,12.30,5.00
+S00246,Marble Maze,Gameplay question,Console,5.70,12.90,4.70
+S00247,River Rescue,Performance,Console,2.90,23.50,4.80
+S00248,River Rescue,Payment query,Console,6.80,15.80,5.00
+S00249,Iron Arena,Gameplay question,Handheld,4.50,10.50,3.00
+S00250,Castle Forge,Crash,Console,2.80,59.70,2.60
+S00251,Castle Forge,Gameplay question,Handheld,2.50,8.90,4.90
+S00252,Ocean Architect,Crash,Console,0.70,47.30,3.20
+S00253,Cloud City,Performance,Console,9.70,44.30,3.20
+S00254,Orbit Quest,Performance,Console,0.60,17.60,5.00
+S00255,Cloud City,Payment query,Handheld,1.90,22.50,3.90
+S00256,Forest Trails,Performance,Handheld,1.30,18.80,4.80
+S00257,Pixel Rally,Gameplay question,Handheld,4.10,11.40,4.60
+S00258,Deep Space,Payment query,PC,7.50,20.20,3.50
+S00259,Cobalt Clash,Crash,Handheld,3.40,37.50,3.60
+S00260,Castle Forge,Account access,Console,6.20,12.70,4.10
+S00261,Deep Space,Performance,Handheld,4.20,47.10,3.70
+S00262,Ocean Architect,Gameplay question,PC,4.30,14.60,4.00
+S00263,Cloud City,Performance,PC,3.30,14.50,4.20
+S00264,Marble Maze,Gameplay question,PC,8.40,12.40,4.50
+S00265,Cobalt Clash,Performance,Handheld,5.30,43.10,3.10
+S00266,Cloud City,Performance,PC,1.90,41.60,2.80
+S00267,Iron Arena,Gameplay question,Console,8.30,14.60,4.10
+S00268,Castle Forge,Crash,Console,3.00,19.50,3.30
+S00269,Deep Space,Gameplay question,Handheld,4.30,9.30,4.40
+S00270,Harbour Builder,Gameplay question,PC,2.80,5.20,5.00
+S00271,Neon Circuit,Crash,Console,4.10,46.80,3.30
+S00272,Rune Roads,Payment query,Handheld,0.60,23.00,3.70
+S00273,Turbo Tracks,Gameplay question,PC,2.50,9.90,5.00
+S00274,Cloud City,Crash,Handheld,3.70,57.00,3.10
+S00275,River Rescue,Performance,Console,9.50,46.60,4.30
+S00276,Turbo Tracks,Account access,Console,7.20,18.20,5.00
+S00277,Moon Valley,Gameplay question,Console,2.90,7.20,4.90
+S00278,Crystal Run,Crash,Console,1.90,28.10,3.20
+S00279,Cloud City,Performance,Handheld,5.10,33.00,4.00
+S00280,Echo Quest,Performance,PC,6.60,34.10,2.90
+S00281,Garden Worlds,Account access,Console,8.20,22.90,3.80
+S00282,Harbour Builder,Account access,PC,3.60,11.90,4.10
+S00283,Orbit Quest,Performance,Console,8.00,46.50,2.20
+S00284,Moon Valley,Account access,PC,4.60,8.80,4.30
+S00285,Harbour Builder,Gameplay question,PC,6.40,12.60,5.00
+S00286,Star Tactics,Crash,PC,3.40,36.40,3.90
+S00287,Deep Space,Gameplay question,PC,5.60,10.70,4.70
+S00288,Castle Forge,Payment query,Handheld,3.40,18.90,4.50
+S00289,Puzzle Grove,Payment query,PC,3.00,18.30,4.00
+S00290,Ocean Architect,Crash,Handheld,5.70,54.10,2.10
+S00291,Turbo Tracks,Crash,PC,9.50,44.00,2.80
+S00292,Cloud City,Payment query,Console,8.60,26.00,3.30
+S00293,Forest Trails,Account access,PC,8.50,14.50,5.00
+S00294,Marble Maze,Performance,Console,3.90,44.00,3.60
+S00295,Marble Maze,Crash,Handheld,7.90,62.20,2.20
+S00296,Garden Worlds,Performance,Console,3.80,30.00,4.30
+S00297,Harbour Builder,Crash,Console,1.20,36.10,3.20
+S00298,Cloud City,Payment query,Handheld,2.40,22.10,4.50
+S00299,Turbo Tracks,Crash,Console,8.00,44.90,2.40
+S00300,Deep Space,Account access,Console,6.20,16.00,5.00
+S00301,Marble Maze,Gameplay question,Handheld,3.50,5.90,5.00
+S00302,Puzzle Grove,Performance,Handheld,4.10,42.60,3.70
+S00303,Echo Quest,Performance,Handheld,9.70,37.20,3.30
+S00304,Star Tactics,Payment query,Console,3.10,18.90,4.60
+S00305,Pixel Rally,Payment query,Console,3.00,21.70,3.70
+S00306,Sunset Sprint,Payment query,PC,9.30,25.70,3.40
+S00307,Neon Circuit,Payment query,PC,0.50,13.80,4.80
+S00308,Star Tactics,Gameplay question,Handheld,7.20,14.00,4.40
+S00309,Skybound,Gameplay question,PC,6.40,11.60,5.00
+S00310,Marble Maze,Account access,Console,8.00,20.40,4.90
+S00311,Skybound,Performance,Console,0.90,33.40,4.00
+S00312,Harbour Builder,Performance,Handheld,5.80,29.20,3.10
+S00313,Moon Valley,Gameplay question,Handheld,4.30,14.80,4.70
+S00314,Block Expedition,Performance,Handheld,7.30,20.50,2.90
+S00315,Forest Trails,Gameplay question,Handheld,8.80,11.50,4.90
+S00316,Deep Space,Crash,Console,7.90,40.90,3.80
+S00317,Harbour Builder,Gameplay question,PC,8.10,12.90,4.60
+S00318,Sunset Sprint,Gameplay question,Handheld,3.30,10.90,5.00
+S00319,Cobalt Clash,Performance,PC,7.80,23.60,3.90
+S00320,Garden Worlds,Gameplay question,PC,1.70,9.10,4.00
+S00321,River Rescue,Account access,PC,4.20,9.10,5.00
+S00322,Sunset Sprint,Gameplay question,Handheld,8.50,11.40,5.00
+S00323,Forest Trails,Account access,Handheld,7.90,16.00,4.10
+S00324,Orbit Quest,Gameplay question,Handheld,8.40,11.10,4.20
+S00325,Ocean Architect,Payment query,Handheld,8.40,21.50,4.30
+S00326,Block Expedition,Account access,Handheld,8.70,15.40,4.20
+S00327,Marble Maze,Gameplay question,Handheld,8.90,11.70,4.70
+S00328,Crystal Run,Account access,Console,7.70,16.60,3.60
+S00329,Deep Space,Performance,Console,6.40,18.20,3.80
+S00330,Garden Worlds,Payment query,Handheld,4.30,9.90,4.40
+S00331,Sunset Sprint,Payment query,Console,6.40,18.50,3.30
+S00332,Rune Roads,Payment query,Handheld,3.50,13.40,4.20
+S00333,Forest Trails,Performance,Handheld,4.50,49.10,3.10
+S00334,River Rescue,Crash,PC,1.90,48.80,2.30
+S00335,Orbit Quest,Performance,Console,5.70,20.20,4.10
+S00336,Pixel Rally,Performance,PC,3.90,32.90,4.40
+S00337,Marble Maze,Crash,Handheld,9.00,47.20,2.80
+S00338,River Rescue,Payment query,PC,8.50,16.30,3.70
+S00339,Rune Roads,Payment query,Handheld,4.50,16.40,3.40
+S00340,Neon Circuit,Account access,PC,5.70,12.90,3.80
+S00341,Echo Quest,Performance,Console,1.40,39.00,4.10
+S00342,Echo Quest,Account access,Handheld,7.90,12.70,3.70
+S00343,Turbo Tracks,Crash,Console,6.40,59.90,4.00
+S00344,Ocean Architect,Payment query,Console,0.90,22.80,4.70
+S00345,Turbo Tracks,Account access,PC,7.40,13.20,4.80
+S00346,Castle Forge,Performance,Handheld,2.50,21.40,3.80
+S00347,Cobalt Clash,Gameplay question,Console,3.00,10.00,4.90
+S00348,River Rescue,Account access,Handheld,5.20,11.10,4.30
+S00349,Rune Roads,Performance,PC,6.50,25.60,3.10
+S00350,Orbit Quest,Gameplay question,Console,6.10,13.60,3.70
+S00351,Cloud City,Performance,Handheld,3.70,14.90,4.50
+S00352,Rune Roads,Crash,Console,5.70,48.90,3.00
+S00353,Crystal Run,Payment query,PC,5.50,22.40,4.10
+S00354,Pixel Rally,Crash,Console,7.00,47.50,2.60
+S00355,River Rescue,Gameplay question,Console,4.10,10.90,4.80
+S00356,Deep Space,Payment query,PC,1.10,20.40,3.20
+S00357,Marble Maze,Performance,Console,9.20,21.90,4.30
+S00358,Neon Circuit,Account access,PC,4.90,12.00,3.80
+S00359,Marble Maze,Performance,Handheld,6.00,42.10,4.10
+S00360,River Rescue,Gameplay question,Handheld,5.80,14.20,3.50
+S00361,Pixel Rally,Gameplay question,PC,1.20,10.40,4.20
+S00362,Iron Arena,Crash,Console,2.00,26.40,3.80
+S00363,Marble Maze,Account access,Console,2.20,13.30,4.30
+S00364,Turbo Tracks,Performance,Console,8.20,23.00,4.30
+S00365,Star Tactics,Gameplay question,Handheld,1.40,9.30,4.80
+S00366,Cloud City,Gameplay question,Handheld,4.10,10.00,4.80
+S00367,Moon Valley,Performance,Console,5.90,49.60,3.80
+S00368,Forest Trails,Crash,Handheld,3.90,19.90,3.90
+S00369,River Rescue,Payment query,Console,4.40,14.70,4.40
+S00370,Garden Worlds,Performance,Handheld,7.30,38.50,3.70
+S00371,Puzzle Grove,Payment query,PC,6.90,18.90,4.10
+S00372,Pixel Rally,Performance,Handheld,6.80,43.90,2.20
+S00373,Crystal Run,Crash,PC,7.40,64.50,3.40
+S00374,Castle Forge,Crash,Console,4.20,44.90,4.70
+S00375,River Rescue,Crash,Handheld,5.80,55.80,2.60
+S00376,Cloud City,Account access,Handheld,3.20,12.50,3.80
+S00377,Garden Worlds,Crash,Console,3.70,43.10,3.40
+S00378,Iron Arena,Account access,Handheld,9.60,12.80,4.00
+S00379,Turbo Tracks,Gameplay question,PC,5.30,14.30,4.00
+S00380,Cobalt Clash,Gameplay question,Console,8.50,10.90,4.30
+S00381,Marble Maze,Crash,Console,6.90,31.10,4.00
+S00382,Orbit Quest,Account access,Handheld,9.60,15.40,3.90
+S00383,Star Tactics,Crash,Console,8.20,43.60,3.70
+S00384,Rune Roads,Performance,Handheld,6.90,35.90,3.40
+S00385,Skybound,Gameplay question,Console,2.00,7.60,5.00
+S00386,Neon Circuit,Crash,PC,1.30,54.70,3.40
+S00387,Garden Worlds,Gameplay question,PC,8.40,15.20,4.60
+S00388,Sunset Sprint,Performance,Console,5.80,35.20,2.70
+S00389,Moon Valley,Account access,Handheld,5.70,11.90,4.90
+S00390,Forest Trails,Performance,Console,8.70,19.90,3.30
+S00391,Orbit Quest,Crash,Handheld,4.40,28.70,2.80
+S00392,Cloud City,Account access,PC,7.50,10.70,4.30
+S00393,Neon Circuit,Gameplay question,Console,7.30,13.90,4.30
+S00394,Puzzle Grove,Payment query,Handheld,2.20,21.60,3.50
+S00395,Pixel Rally,Crash,PC,6.40,36.10,3.20
+S00396,Turbo Tracks,Crash,Console,6.70,53.60,2.60
+S00397,Garden Worlds,Crash,Handheld,3.80,48.40,3.40
+S00398,Crystal Run,Gameplay question,Handheld,5.90,12.10,4.40
+S00399,Echo Quest,Performance,PC,2.50,32.80,2.70
+S00400,Forest Trails,Payment query,PC,1.40,13.20,4.00
+S00401,Deep Space,Payment query,Console,4.00,19.70,4.00
+S00402,Block Expedition,Performance,Console,4.70,33.60,4.30
+S00403,Star Tactics,Account access,PC,4.10,15.30,4.00
+S00404,Cobalt Clash,Crash,PC,1.20,45.40,3.80
+S00405,Echo Quest,Payment query,Console,9.20,27.90,3.50
+S00406,Forest Trails,Crash,Handheld,0.50,48.40,3.20
+S00407,Sunset Sprint,Account access,Console,2.30,12.30,3.80
+S00408,Castle Forge,Account access,PC,3.60,16.90,3.80
+S00409,Puzzle Grove,Performance,PC,7.40,33.70,4.10
+S00410,Garden Worlds,Account access,Console,1.20,9.80,5.00
+S00411,Star Tactics,Performance,PC,6.40,18.00,3.60
+S00412,Castle Forge,Account access,Console,4.40,10.60,4.60
+S00413,River Rescue,Account access,Handheld,6.40,13.70,4.70
+S00414,Garden Worlds,Gameplay question,Console,6.20,15.50,5.00
+S00415,Forest Trails,Account access,Console,6.40,15.50,3.20
+S00416,Crystal Run,Gameplay question,PC,5.70,14.10,3.80
+S00417,Turbo Tracks,Performance,PC,3.80,28.80,4.20
+S00418,Skybound,Payment query,Handheld,2.00,13.10,4.90
+S00419,Star Tactics,Payment query,Console,9.60,24.20,4.30
+S00420,Marble Maze,Payment query,PC,4.10,11.90,5.00
+S00421,Turbo Tracks,Crash,PC,4.30,47.00,2.80
+S00422,Garden Worlds,Account access,Handheld,7.80,16.40,4.40
+S00423,Harbour Builder,Performance,Handheld,8.50,23.40,3.40
+S00424,Pixel Rally,Performance,Console,4.10,50.60,2.60
+S00425,Ocean Architect,Performance,Console,7.20,31.90,4.30
+S00426,Deep Space,Account access,Console,8.40,12.10,4.80
+S00427,Iron Arena,Account access,Console,9.30,14.00,3.50
+S00428,Iron Arena,Payment query,PC,8.90,27.70,3.40
+S00429,Sunset Sprint,Payment query,Console,8.70,20.40,4.20
+S00430,Harbour Builder,Performance,PC,4.10,36.20,3.40
+S00431,Harbour Builder,Gameplay question,Handheld,2.20,10.30,4.10
+S00432,Marble Maze,Account access,Console,1.80,10.10,4.00
+S00433,Orbit Quest,Payment query,PC,3.00,20.40,2.70
+S00434,Pixel Rally,Crash,PC,5.20,54.60,2.80
+S00435,Cloud City,Performance,Console,3.10,25.50,3.90
+S00436,Crystal Run,Account access,Handheld,6.30,15.70,3.70
+S00437,Crystal Run,Payment query,Console,2.40,17.60,3.90
+S00438,Pixel Rally,Gameplay question,Handheld,1.20,6.60,5.00
+S00439,Castle Forge,Gameplay question,Console,5.30,7.70,4.10
+S00440,Puzzle Grove,Account access,Console,3.70,8.50,4.30
+S00441,Neon Circuit,Gameplay question,PC,8.60,15.40,3.40
+S00442,Rune Roads,Account access,Handheld,1.60,15.70,3.60
+S00443,Deep Space,Performance,Handheld,1.70,26.10,3.20
+S00444,Sunset Sprint,Account access,Handheld,5.90,9.10,4.80
+S00445,Moon Valley,Gameplay question,PC,3.60,9.10,5.00
+S00446,Star Tactics,Account access,Console,8.70,12.60,4.40
+S00447,Sunset Sprint,Performance,Handheld,3.50,38.90,3.20
+S00448,Turbo Tracks,Account access,PC,8.60,14.00,4.50
+S00449,Iron Arena,Payment query,PC,6.10,11.70,4.60
+S00450,Orbit Quest,Performance,Handheld,3.40,30.20,3.10
+S00451,Marble Maze,Account access,PC,1.60,11.20,3.90
+S00452,Skybound,Crash,PC,0.90,42.70,4.00
+S00453,Skybound,Gameplay question,Handheld,7.60,13.30,3.40
+S00454,Garden Worlds,Crash,PC,4.40,38.20,3.00
+S00455,Moon Valley,Account access,PC,9.20,19.60,4.70
+S00456,Cloud City,Gameplay question,Console,7.60,16.10,4.20
+S00457,Garden Worlds,Account access,Console,3.60,11.00,4.20
+S00458,Garden Worlds,Crash,Handheld,6.10,63.80,1.90
+S00459,Crystal Run,Gameplay question,Handheld,7.40,13.40,4.50
+S00460,Orbit Quest,Account access,PC,8.80,22.50,3.50
+S00461,Orbit Quest,Crash,Console,5.70,25.40,5.00
+S00462,Rune Roads,Gameplay question,PC,1.50,10.90,4.90
+S00463,Star Tactics,Payment query,Handheld,4.60,16.70,4.40
+S00464,Moon Valley,Payment query,PC,3.10,14.00,3.60
+S00465,Star Tactics,Crash,PC,1.30,47.00,3.40
+S00466,Deep Space,Crash,PC,4.50,45.80,2.30
+S00467,Pixel Rally,Gameplay question,Handheld,6.30,13.00,3.50
+S00468,Puzzle Grove,Crash,PC,3.70,19.70,4.80
+S00469,Marble Maze,Gameplay question,Handheld,4.00,9.90,4.40
+S00470,Pixel Rally,Payment query,Handheld,1.80,13.80,3.90
+S00471,Harbour Builder,Crash,PC,0.80,40.20,3.30
+S00472,Deep Space,Performance,Console,6.10,53.70,2.90
+S00473,Harbour Builder,Crash,Handheld,8.50,31.80,3.30
+S00474,Iron Arena,Payment query,Handheld,0.70,12.40,3.70
+S00475,Castle Forge,Payment query,Handheld,3.50,13.20,4.70
+S00476,Orbit Quest,Account access,Handheld,6.00,11.20,4.40
+S00477,Block Expedition,Account access,Console,2.10,9.70,4.30
+S00478,Puzzle Grove,Gameplay question,Console,0.80,8.70,4.20
+S00479,Puzzle Grove,Performance,Handheld,6.80,42.10,2.60
+S00480,Harbour Builder,Crash,Handheld,7.50,73.10,2.00
+S00481,Forest Trails,Performance,PC,1.20,14.00,4.90
+S00482,Deep Space,Payment query,Handheld,3.00,17.50,4.50
+S00483,Star Tactics,Gameplay question,Handheld,7.50,10.90,3.40
+S00484,Skybound,Gameplay question,Console,1.30,11.20,5.00
+S00485,Skybound,Crash,PC,1.90,32.20,3.30
+S00486,Crystal Run,Gameplay question,Console,2.40,8.80,4.70
+S00487,Orbit Quest,Crash,PC,4.90,48.60,2.80
+S00488,Harbour Builder,Payment query,PC,3.30,17.60,3.20
+S00489,Block Expedition,Payment query,PC,5.40,23.10,3.80
+S00490,Castle Forge,Account access,PC,6.10,13.00,4.20
+S00491,Marble Maze,Performance,Console,7.90,37.80,2.70
+S00492,Pixel Rally,Payment query,Console,8.00,20.00,3.30
+S00493,Iron Arena,Payment query,Handheld,6.60,22.10,4.20
+S00494,Forest Trails,Crash,Handheld,8.40,54.40,2.60
+S00495,Garden Worlds,Performance,Console,2.00,34.00,3.90
+S00496,Turbo Tracks,Payment query,Console,6.80,28.40,3.50
+S00497,Pixel Rally,Performance,Handheld,2.90,45.10,3.00
+S00498,Star Tactics,Account access,PC,5.20,15.30,4.20
+S00499,Moon Valley,Account access,Handheld,1.20,14.10,4.80
+S00500,Echo Quest,Gameplay question,PC,8.80,13.50,4.00
+S00501,Crystal Run,Performance,Console,10.00,49.10,3.30
+S00502,Castle Forge,Account access,Console,9.80,14.00,4.20
+S00503,Puzzle Grove,Performance,Handheld,9.90,21.10,4.70
+S00504,Forest Trails,Gameplay question,Console,9.70,15.30,5.00
+S00505,Rune Roads,Crash,Handheld,4.50,20.50,3.20
+S00506,Forest Trails,Account access,PC,9.80,18.80,3.30
+S00507,Turbo Tracks,Payment query,Console,6.90,26.50,4.40
+S00508,Star Tactics,Crash,Handheld,1.50,27.60,3.90
+S00509,Rune Roads,Payment query,Console,3.90,14.20,3.60
+S00510,Puzzle Grove,Account access,PC,8.40,19.10,4.00
+S00511,Turbo Tracks,Performance,PC,5.10,31.10,4.30
+S00512,Rune Roads,Account access,Console,2.00,15.80,4.40
+S00513,Orbit Quest,Gameplay question,Console,9.00,14.80,4.50
+S00514,Marble Maze,Performance,Handheld,2.50,45.70,3.00
+S00515,Deep Space,Payment query,PC,0.90,9.80,4.50
+S00516,Cobalt Clash,Performance,Console,5.00,32.60,4.00
+S00517,Echo Quest,Payment query,Console,8.80,25.20,5.00
+S00518,Castle Forge,Account access,PC,1.40,12.70,4.80
+S00519,Cloud City,Gameplay question,Console,6.80,12.40,4.30
+S00520,Sunset Sprint,Payment query,Console,4.90,25.50,4.40
+S00521,Garden Worlds,Gameplay question,Console,6.50,13.60,4.20
+S00522,Castle Forge,Payment query,Console,7.70,30.60,3.30
+S00523,Skybound,Performance,Console,1.40,33.20,4.10
+S00524,Sunset Sprint,Payment query,PC,5.30,29.30,4.20
+S00525,Ocean Architect,Payment query,PC,2.70,14.40,4.10
+S00526,Castle Forge,Crash,Console,3.20,44.00,3.10
+S00527,Sunset Sprint,Gameplay question,PC,4.30,13.50,4.40
+S00528,Rune Roads,Account access,Console,7.90,16.50,4.40
+S00529,Block Expedition,Gameplay question,PC,5.10,9.40,4.60
+S00530,Crystal Run,Gameplay question,Handheld,1.80,8.60,4.10
+S00531,Neon Circuit,Crash,Handheld,8.80,37.30,3.60
+S00532,Garden Worlds,Crash,Handheld,7.00,43.60,3.80
+S00533,Echo Quest,Account access,Handheld,5.90,10.80,4.30
+S00534,Sunset Sprint,Payment query,Console,0.90,16.70,4.30
+S00535,Turbo Tracks,Performance,PC,3.40,21.30,4.60
+S00536,Ocean Architect,Gameplay question,Handheld,4.30,10.90,4.20
+S00537,Neon Circuit,Account access,PC,5.90,14.60,4.40
+S00538,Turbo Tracks,Gameplay question,PC,5.80,11.10,3.10
+S00539,Deep Space,Crash,PC,9.00,65.10,2.80
+S00540,Forest Trails,Performance,Handheld,2.30,21.60,3.10
+S00541,Cloud City,Account access,Handheld,8.10,19.50,4.60
+S00542,Block Expedition,Crash,Handheld,2.60,59.10,2.00
+S00543,Star Tactics,Performance,PC,9.30,41.60,3.60
+S00544,Moon Valley,Payment query,PC,5.30,23.30,4.50
+S00545,River Rescue,Gameplay question,PC,3.00,8.50,5.00
+S00546,Block Expedition,Performance,Console,1.50,36.60,3.40
+S00547,Cobalt Clash,Gameplay question,PC,5.40,12.20,4.60
+S00548,Echo Quest,Crash,Console,9.60,55.70,2.90
+S00549,Neon Circuit,Account access,Handheld,9.20,17.90,4.50
+S00550,Neon Circuit,Gameplay question,Handheld,6.10,12.60,4.30
+S00551,Rune Roads,Crash,PC,10.00,46.40,2.70
+S00552,Puzzle Grove,Gameplay question,PC,9.30,12.70,4.00
+S00553,River Rescue,Account access,Handheld,2.30,11.80,4.20
+S00554,Deep Space,Account access,Handheld,6.90,15.30,5.00
+S00555,Deep Space,Gameplay question,PC,5.70,14.60,3.70
+S00556,Puzzle Grove,Performance,Console,1.30,22.80,3.90
+S00557,Turbo Tracks,Gameplay question,Handheld,8.80,14.80,4.40
+S00558,Star Tactics,Payment query,PC,6.50,23.20,3.60
+S00559,River Rescue,Performance,PC,8.30,33.30,2.90
+S00560,Orbit Quest,Gameplay question,PC,8.80,11.20,4.60
+S00561,Deep Space,Performance,PC,7.60,39.90,3.00
+S00562,Puzzle Grove,Crash,Handheld,4.00,39.70,4.10
+S00563,Harbour Builder,Crash,Handheld,3.10,58.50,1.90
+S00564,Harbour Builder,Gameplay question,Console,7.40,11.90,4.10
+S00565,Pixel Rally,Crash,Handheld,5.40,34.20,2.80
+S00566,Castle Forge,Account access,PC,5.30,17.70,3.90
+S00567,Pixel Rally,Payment query,PC,3.60,9.20,5.00
+S00568,River Rescue,Crash,Handheld,5.70,68.00,2.10
+S00569,Pixel Rally,Payment query,Handheld,2.60,14.90,4.50
+S00570,Puzzle Grove,Account access,PC,3.40,9.20,4.10
+S00571,Harbour Builder,Performance,PC,8.10,40.70,2.60
+S00572,Castle Forge,Account access,Console,2.00,6.40,3.50
+S00573,Ocean Architect,Crash,Console,1.50,37.20,3.80
+S00574,Moon Valley,Gameplay question,PC,6.10,11.60,4.40
+S00575,Crystal Run,Gameplay question,PC,0.90,6.60,3.80
+S00576,Turbo Tracks,Account access,Console,5.00,9.30,4.50
+S00577,Cobalt Clash,Gameplay question,Handheld,5.30,13.80,4.40
+S00578,Crystal Run,Crash,Console,3.90,30.90,4.00
+S00579,Turbo Tracks,Account access,Console,3.90,7.80,4.40
+S00580,Deep Space,Payment query,Handheld,2.30,16.40,4.90
+S00581,Forest Trails,Gameplay question,PC,3.80,9.20,4.40
+S00582,Deep Space,Gameplay question,Console,0.70,7.20,4.20
+S00583,Pixel Rally,Crash,Console,5.90,40.60,3.10
+S00584,Rune Roads,Crash,Handheld,7.20,37.50,3.50
+S00585,Turbo Tracks,Payment query,PC,0.50,6.10,4.80
+S00586,Rune Roads,Performance,Console,1.30,21.60,4.60
+S00587,Echo Quest,Gameplay question,PC,9.10,13.80,4.40
+S00588,Crystal Run,Gameplay question,PC,4.70,11.10,4.20
+S00589,Garden Worlds,Performance,Console,3.20,28.50,3.70
+S00590,River Rescue,Gameplay question,PC,1.10,3.90,5.00
+S00591,Castle Forge,Payment query,PC,9.00,17.30,3.50
+S00592,Ocean Architect,Crash,Console,1.10,55.00,3.40
+S00593,Deep Space,Account access,PC,2.30,7.90,3.90
+S00594,River Rescue,Crash,PC,2.40,35.80,2.90
+S00595,Puzzle Grove,Crash,Handheld,7.30,39.70,3.00
+S00596,Deep Space,Crash,PC,4.60,20.60,4.30
+S00597,Iron Arena,Account access,PC,7.20,12.10,4.20
+S00598,Neon Circuit,Payment query,Console,3.80,11.60,4.30
+S00599,Moon Valley,Payment query,Handheld,2.50,18.70,4.40
+S00600,Skybound,Account access,Console,8.10,16.20,3.90
+S00601,Ocean Architect,Account access,Console,6.10,17.20,4.00
+S00602,Harbour Builder,Account access,Console,1.90,10.80,4.80
+S00603,Crystal Run,Crash,Handheld,6.20,88.10,1.50
+S00604,Turbo Tracks,Gameplay question,PC,1.50,7.80,4.10
+S00605,Castle Forge,Payment query,PC,5.00,11.90,5.00
+S00606,Garden Worlds,Gameplay question,Console,0.80,11.80,4.90
+S00607,Garden Worlds,Gameplay question,PC,3.60,7.40,4.30
+S00608,Moon Valley,Gameplay question,Console,8.20,12.20,4.80
+S00609,Skybound,Account access,Console,9.30,16.50,4.10
+S00610,Iron Arena,Payment query,Console,0.80,7.80,4.00
+S00611,Echo Quest,Payment query,Console,5.30,22.70,4.50
+S00612,Pixel Rally,Gameplay question,Console,7.40,12.80,4.00
+S00613,Cloud City,Gameplay question,Handheld,1.50,10.90,5.00
+S00614,Iron Arena,Account access,PC,2.40,9.90,4.30
+S00615,Neon Circuit,Payment query,PC,6.90,25.50,4.90
+S00616,Orbit Quest,Crash,Handheld,6.50,65.40,3.00
+S00617,Star Tactics,Account access,Handheld,4.20,16.10,4.90
+S00618,Garden Worlds,Account access,PC,3.70,6.90,4.90
+S00619,Forest Trails,Performance,PC,2.50,36.00,4.00
+S00620,Crystal Run,Payment query,Console,7.30,29.00,3.40
+S00621,Iron Arena,Gameplay question,Handheld,3.70,11.40,3.80
+S00622,Forest Trails,Gameplay question,PC,4.60,12.20,4.20
+S00623,Puzzle Grove,Payment query,Handheld,2.80,21.10,3.70
+S00624,Echo Quest,Crash,PC,1.40,20.70,4.70
+S00625,Star Tactics,Gameplay question,Handheld,9.90,16.20,3.60
+S00626,Skybound,Performance,Console,0.90,12.10,4.40
+S00627,Marble Maze,Account access,Console,5.50,9.40,5.00
+S00628,River Rescue,Gameplay question,Handheld,2.80,9.60,3.50
+S00629,Rune Roads,Performance,Handheld,4.00,24.40,4.30
+S00630,Castle Forge,Account access,Console,3.80,11.90,4.60
+S00631,Iron Arena,Performance,PC,0.80,41.80,2.40
+S00632,Sunset Sprint,Payment query,Console,5.50,33.20,3.60
+S00633,Pixel Rally,Performance,PC,9.30,35.60,3.30
+S00634,Cloud City,Gameplay question,Console,4.60,18.20,4.40
+S00635,Echo Quest,Payment query,Console,2.30,17.20,4.00
+S00636,Iron Arena,Gameplay question,Handheld,2.70,7.00,4.80
+S00637,Star Tactics,Gameplay question,Handheld,7.10,17.00,4.60
+S00638,Turbo Tracks,Payment query,Console,8.90,14.50,4.90
+S00639,Turbo Tracks,Crash,Console,7.70,58.50,3.00
+S00640,Star Tactics,Account access,Console,4.20,12.30,4.60
+S00641,Rune Roads,Performance,PC,8.30,19.50,4.50
+S00642,Forest Trails,Crash,Console,9.40,29.20,3.90
+S00643,Cloud City,Account access,Handheld,1.10,11.90,4.60
+S00644,Deep Space,Account access,Console,8.90,15.80,3.60
+S00645,Ocean Architect,Gameplay question,Console,5.20,15.70,5.00
+S00646,Harbour Builder,Crash,Console,5.40,50.60,3.70
+S00647,Rune Roads,Gameplay question,Handheld,4.60,13.60,4.40
+S00648,River Rescue,Crash,Handheld,7.20,57.40,2.60
+S00649,Ocean Architect,Performance,PC,6.30,17.50,5.00
+S00650,Marble Maze,Crash,Handheld,2.90,28.00,3.30
+S00651,Garden Worlds,Account access,Console,7.10,13.70,4.00
+S00652,Echo Quest,Payment query,Console,1.50,11.70,5.00
+S00653,Marble Maze,Account access,Console,9.40,15.40,4.50
+S00654,Harbour Builder,Performance,PC,2.70,25.40,3.80
+S00655,Puzzle Grove,Gameplay question,Handheld,8.70,12.70,3.80
+S00656,Turbo Tracks,Payment query,PC,2.20,21.20,4.70
+S00657,Turbo Tracks,Payment query,Console,8.30,22.60,2.00
+S00658,Cloud City,Crash,Handheld,3.90,46.50,2.50
+S00659,Ocean Architect,Payment query,Handheld,4.40,24.50,2.30
+S00660,Castle Forge,Crash,PC,8.60,33.50,3.50
+S00661,Cobalt Clash,Gameplay question,Console,7.00,11.30,3.30
+S00662,Skybound,Gameplay question,PC,1.80,6.30,3.60
+S00663,Ocean Architect,Account access,Console,8.10,16.80,3.60
+S00664,Moon Valley,Payment query,Console,9.90,27.10,3.10
+S00665,Neon Circuit,Payment query,Console,9.00,17.50,4.00
+S00666,Star Tactics,Account access,Handheld,3.80,19.90,4.30
+S00667,Neon Circuit,Crash,Handheld,1.60,41.70,3.70
+S00668,Puzzle Grove,Account access,Console,1.20,8.10,4.60
+S00669,Orbit Quest,Payment query,Console,2.20,23.90,3.90
+S00670,Deep Space,Payment query,Console,5.40,23.60,2.90
+S00671,Cloud City,Gameplay question,Console,8.40,17.70,4.30
+S00672,Harbour Builder,Payment query,Handheld,3.10,16.00,3.30
+S00673,Forest Trails,Crash,Console,1.00,76.60,1.70
+S00674,Harbour Builder,Payment query,Console,3.90,20.50,4.50
+S00675,Sunset Sprint,Gameplay question,PC,8.20,13.60,4.00
+S00676,Star Tactics,Account access,Console,5.00,8.20,3.70
+S00677,Castle Forge,Performance,PC,3.00,14.20,4.80
+S00678,Orbit Quest,Performance,Console,1.40,21.60,4.50
+S00679,Turbo Tracks,Account access,PC,4.90,19.10,4.80
+S00680,Garden Worlds,Gameplay question,Console,7.40,12.00,3.50
+S00681,Star Tactics,Performance,Handheld,5.50,26.80,3.90
+S00682,Echo Quest,Performance,Console,5.20,21.90,4.10
+S00683,Skybound,Gameplay question,Console,6.70,14.30,3.70
+S00684,Pixel Rally,Crash,Console,8.10,80.80,2.00
+S00685,Skybound,Account access,Console,9.10,19.20,4.90
+S00686,Moon Valley,Performance,PC,8.30,41.50,4.10
+S00687,Marble Maze,Account access,Handheld,4.30,15.40,4.70
+S00688,Block Expedition,Gameplay question,Console,6.00,9.40,3.60
+S00689,Orbit Quest,Payment query,PC,8.30,24.20,4.30
+S00690,Orbit Quest,Crash,PC,1.50,42.30,2.40
+S00691,Harbour Builder,Payment query,PC,7.00,15.90,4.30
+S00692,River Rescue,Account access,Handheld,4.50,18.10,4.80
+S00693,River Rescue,Payment query,Handheld,2.40,14.50,4.70
+S00694,Iron Arena,Account access,PC,3.90,13.30,4.00
+S00695,Rune Roads,Performance,Handheld,5.80,49.50,2.90
+S00696,Block Expedition,Performance,Console,4.00,52.50,4.40
+S00697,Star Tactics,Account access,PC,7.30,17.50,4.90
+S00698,Neon Circuit,Performance,Console,1.10,31.90,3.30
+S00699,Skybound,Gameplay question,Console,1.20,6.70,4.80
+S00700,Garden Worlds,Performance,Handheld,2.30,31.90,5.00
+S00701,Block Expedition,Payment query,PC,7.70,25.80,4.30
+S00702,Ocean Architect,Payment query,Handheld,4.70,16.40,5.00
+S00703,Forest Trails,Gameplay question,PC,4.50,12.60,5.00
+S00704,Sunset Sprint,Performance,Console,1.00,30.10,3.90
+S00705,Harbour Builder,Payment query,PC,6.40,21.80,4.60
+S00706,Iron Arena,Crash,Console,6.60,50.10,3.10
+S00707,Crystal Run,Performance,Handheld,6.40,23.50,3.90
+S00708,Marble Maze,Payment query,PC,3.10,17.50,3.70
+S00709,Sunset Sprint,Crash,Handheld,4.90,39.30,2.90
+S00710,Crystal Run,Account access,Console,9.50,15.40,3.90
+S00711,Puzzle Grove,Gameplay question,PC,3.10,6.10,5.00
+S00712,Rune Roads,Gameplay question,PC,4.70,10.70,5.00
+S00713,Puzzle Grove,Gameplay question,Console,8.60,12.80,4.60
+S00714,Turbo Tracks,Crash,PC,6.40,35.40,3.90
+S00715,Marble Maze,Performance,Console,0.90,12.10,4.10
+S00716,Deep Space,Gameplay question,Console,6.70,11.60,4.40
+S00717,Rune Roads,Performance,PC,9.40,22.80,3.50
+S00718,Harbour Builder,Gameplay question,PC,9.80,15.20,4.10
+S00719,Turbo Tracks,Crash,PC,0.90,16.90,4.50
+S00720,Skybound,Account access,Console,5.80,9.60,4.70
+S00721,Puzzle Grove,Gameplay question,Console,8.30,15.10,5.00
+S00722,Crystal Run,Account access,PC,4.30,10.10,5.00
+S00723,Puzzle Grove,Account access,PC,7.70,19.80,4.00
+S00724,River Rescue,Performance,Console,5.60,16.80,4.50
+S00725,Echo Quest,Crash,Handheld,5.80,62.90,3.20
+S00726,Forest Trails,Account access,Console,8.60,12.00,4.80
+S00727,Garden Worlds,Gameplay question,PC,8.00,17.10,3.50
+S00728,Cloud City,Account access,Handheld,8.90,18.60,3.10
+S00729,Harbour Builder,Performance,Handheld,6.70,32.10,3.10
+S00730,Deep Space,Account access,Console,4.00,7.20,5.00
+S00731,Rune Roads,Gameplay question,PC,8.90,14.70,3.70
+S00732,Block Expedition,Account access,PC,6.80,14.60,4.20
+S00733,Garden Worlds,Payment query,Console,4.10,17.70,3.70
+S00734,Star Tactics,Payment query,Console,8.80,22.00,4.60
+S00735,Iron Arena,Performance,Handheld,2.60,44.80,3.30
+S00736,Moon Valley,Crash,Console,2.90,71.00,2.20
+S00737,Deep Space,Performance,Handheld,1.40,21.40,4.40
+S00738,Star Tactics,Gameplay question,Console,6.80,11.60,4.50
+S00739,Deep Space,Crash,Console,9.80,69.10,2.40
+S00740,Neon Circuit,Performance,Handheld,1.10,44.20,3.50
+S00741,Iron Arena,Payment query,PC,7.40,25.40,3.90
+S00742,Pixel Rally,Performance,Handheld,7.70,44.90,2.70
+S00743,Cloud City,Crash,Handheld,5.40,52.50,3.30
+S00744,Turbo Tracks,Payment query,Console,2.30,28.00,3.30
+S00745,Puzzle Grove,Gameplay question,PC,9.80,16.00,4.50
+S00746,Moon Valley,Account access,PC,5.40,18.30,4.20
+S00747,Skybound,Crash,Handheld,6.90,52.90,3.40
+S00748,Crystal Run,Gameplay question,PC,3.00,9.40,4.00
+S00749,Sunset Sprint,Account access,Handheld,3.80,10.50,3.20
+S00750,Neon Circuit,Gameplay question,Handheld,7.70,15.60,3.50
+S00751,Harbour Builder,Account access,PC,7.90,11.10,4.00
+S00752,Ocean Architect,Performance,Console,4.50,30.50,4.50
+S00753,Cobalt Clash,Performance,PC,7.40,60.70,2.90
+S00754,Ocean Architect,Account access,PC,0.80,10.30,4.40
+S00755,Iron Arena,Crash,Handheld,3.30,25.50,4.80
+S00756,Puzzle Grove,Account access,PC,7.30,21.90,3.20
+S00757,Moon Valley,Crash,Console,6.20,35.80,4.10
+S00758,Crystal Run,Crash,Console,4.10,37.10,3.20
+S00759,Crystal Run,Account access,PC,6.10,19.00,4.40
+S00760,Harbour Builder,Performance,Console,0.60,11.80,4.20
+S00761,Harbour Builder,Payment query,Handheld,5.30,17.60,4.70
+S00762,Forest Trails,Crash,PC,5.80,33.90,2.90
+S00763,Cloud City,Gameplay question,Console,6.10,10.20,5.00
+S00764,Puzzle Grove,Gameplay question,Handheld,2.10,7.40,3.50
+S00765,Castle Forge,Crash,Console,5.20,53.80,3.00
+S00766,Ocean Architect,Gameplay question,PC,6.30,8.70,5.00
+S00767,Castle Forge,Performance,PC,8.30,41.10,3.60
+S00768,Skybound,Account access,PC,7.00,14.10,3.90
+S00769,Harbour Builder,Payment query,PC,7.80,22.90,4.70
+S00770,Garden Worlds,Crash,Handheld,7.00,45.90,3.50
+S00771,Sunset Sprint,Gameplay question,PC,4.60,10.90,3.20
+S00772,Echo Quest,Account access,Console,6.40,12.10,4.10
+S00773,Puzzle Grove,Account access,PC,2.00,12.80,4.30
+S00774,Turbo Tracks,Payment query,Console,0.90,16.20,3.30
+S00775,Neon Circuit,Crash,Console,1.90,31.20,3.10
+S00776,Skybound,Gameplay question,PC,4.80,8.80,4.10
+S00777,Echo Quest,Account access,Handheld,8.40,16.80,4.10
+S00778,Orbit Quest,Crash,PC,2.30,19.40,4.50
+S00779,Skybound,Gameplay question,PC,4.80,13.50,4.10
+S00780,Deep Space,Gameplay question,Console,3.10,9.70,4.10
+S00781,Castle Forge,Gameplay question,Handheld,8.10,16.20,3.60
+S00782,Forest Trails,Account access,Console,8.60,18.90,4.40
+S00783,Star Tactics,Payment query,Console,3.90,18.80,4.30
+S00784,Cobalt Clash,Payment query,Handheld,9.20,22.80,5.00
+S00785,Puzzle Grove,Payment query,Console,5.60,13.80,4.20
+S00786,Ocean Architect,Payment query,PC,4.80,17.20,3.90
+S00787,Deep Space,Account access,Console,7.20,15.70,3.70
+S00788,Marble Maze,Payment query,PC,2.50,17.90,4.70
+S00789,Cobalt Clash,Crash,Console,0.50,34.10,3.90
+S00790,Echo Quest,Performance,PC,7.30,27.10,3.40
+S00791,Pixel Rally,Account access,Console,4.70,10.30,3.80
+S00792,Star Tactics,Account access,Console,3.80,13.10,4.60
+S00793,Sunset Sprint,Gameplay question,Console,3.50,7.40,5.00
+S00794,Iron Arena,Gameplay question,PC,9.90,16.30,5.00
+S00795,Echo Quest,Account access,PC,4.00,10.20,4.50
+S00796,Block Expedition,Performance,Handheld,5.50,43.10,3.50
+S00797,Pixel Rally,Gameplay question,PC,9.10,13.60,4.00
+S00798,Skybound,Payment query,Console,6.90,12.50,3.60
+S00799,Harbour Builder,Gameplay question,Console,2.20,9.10,5.00
+S00800,Moon Valley,Gameplay question,PC,2.80,5.90,4.60
+S00801,Star Tactics,Gameplay question,PC,9.50,11.90,4.40
+S00802,Puzzle Grove,Performance,PC,7.80,19.00,4.80
+S00803,Marble Maze,Account access,Handheld,2.50,11.80,4.10
+S00804,Orbit Quest,Crash,Handheld,9.70,56.00,2.70
+S00805,Castle Forge,Account access,Handheld,9.60,12.90,3.00
+S00806,Orbit Quest,Gameplay question,PC,8.70,12.80,4.80
+S00807,Marble Maze,Crash,Console,7.80,83.30,1.20
+S00808,Echo Quest,Account access,Console,2.00,7.30,4.60
+S00809,Forest Trails,Gameplay question,Handheld,4.20,7.80,4.60
+S00810,Deep Space,Account access,Console,9.30,13.00,3.90
+S00811,Forest Trails,Gameplay question,Console,3.00,8.80,5.00
+S00812,Deep Space,Payment query,Console,3.50,15.40,3.80
+S00813,Pixel Rally,Account access,PC,4.10,14.60,5.00
+S00814,Moon Valley,Account access,Console,5.00,14.50,3.40
+S00815,Skybound,Gameplay question,Handheld,4.80,9.70,3.80
+S00816,Iron Arena,Gameplay question,PC,9.90,19.50,4.60
+S00817,Turbo Tracks,Account access,PC,3.80,13.10,4.20
+S00818,Crystal Run,Crash,Console,5.70,55.60,3.10
+S00819,Crystal Run,Crash,Console,6.10,46.10,3.80
+S00820,Crystal Run,Crash,Handheld,9.60,54.50,2.70
+S00821,Rune Roads,Account access,Console,9.00,19.00,3.30
+S00822,Crystal Run,Payment query,Handheld,4.60,28.70,4.60
+S00823,Sunset Sprint,Performance,Handheld,5.70,16.90,4.50
+S00824,Moon Valley,Account access,PC,1.70,5.60,4.00
+S00825,Pixel Rally,Account access,Handheld,6.10,16.10,4.40
+S00826,Cloud City,Crash,Handheld,2.60,35.00,5.00
+S00827,Moon Valley,Crash,Handheld,7.70,44.90,2.10
+S00828,Sunset Sprint,Performance,Handheld,2.00,36.30,3.20
+S00829,Cobalt Clash,Performance,PC,4.70,22.10,4.00
+S00830,Puzzle Grove,Crash,Console,1.90,34.90,3.10
+S00831,Iron Arena,Gameplay question,Console,9.50,14.10,4.10
+S00832,Pixel Rally,Gameplay question,Handheld,2.50,12.70,4.20
+S00833,Cloud City,Crash,Handheld,5.00,32.70,3.40
+S00834,Deep Space,Account access,Console,2.40,11.10,5.00
+S00835,Harbour Builder,Payment query,PC,1.30,11.90,4.70
+S00836,Skybound,Performance,PC,6.20,35.70,3.40
+S00837,Harbour Builder,Gameplay question,Handheld,8.00,14.80,4.20
+S00838,Pixel Rally,Account access,Handheld,9.20,13.50,4.10
+S00839,Cobalt Clash,Performance,Handheld,2.80,21.40,4.90
+S00840,Skybound,Crash,Console,4.70,44.90,3.60
+S00841,Cloud City,Account access,Console,3.90,15.80,4.20
+S00842,Crystal Run,Gameplay question,Handheld,4.40,7.40,4.00
+S00843,Pixel Rally,Performance,PC,2.40,30.40,3.50
+S00844,Star Tactics,Payment query,PC,4.30,10.80,4.50
+S00845,Turbo Tracks,Gameplay question,PC,3.40,12.80,4.70
+S00846,Skybound,Payment query,PC,4.60,20.80,4.40
+S00847,River Rescue,Payment query,PC,3.40,17.50,5.00
+S00848,Castle Forge,Payment query,Handheld,0.60,10.50,5.00
+S00849,Block Expedition,Account access,Handheld,6.60,15.60,4.30
+S00850,Forest Trails,Crash,Handheld,5.30,58.80,3.30
+S00851,Pixel Rally,Account access,Console,5.60,9.90,4.20
+S00852,Iron Arena,Crash,Console,1.70,57.50,3.60
+S00853,Block Expedition,Gameplay question,Handheld,2.80,5.80,4.40
+S00854,River Rescue,Payment query,PC,5.40,11.00,5.00
+S00855,Turbo Tracks,Payment query,PC,3.70,20.70,3.90
+S00856,Iron Arena,Gameplay question,PC,4.60,12.10,4.70
+S00857,Ocean Architect,Payment query,Handheld,8.00,21.40,4.30
+S00858,Skybound,Crash,Console,7.40,50.20,2.50
+S00859,Block Expedition,Payment query,Handheld,3.90,22.40,4.50
+S00860,Garden Worlds,Performance,PC,6.50,31.40,3.10
+S00861,Pixel Rally,Crash,Handheld,7.00,100.30,1.30
+S00862,Rune Roads,Crash,PC,5.90,52.60,2.50
+S00863,Sunset Sprint,Payment query,Handheld,9.10,18.90,4.60
+S00864,Puzzle Grove,Account access,Console,6.30,12.20,3.90
+S00865,Neon Circuit,Payment query,Console,2.20,15.20,4.30
+S00866,Forest Trails,Gameplay question,Console,7.20,10.70,3.30
+S00867,Forest Trails,Payment query,Handheld,8.60,14.20,3.40
+S00868,Turbo Tracks,Payment query,Console,8.00,24.20,5.00
+S00869,Cobalt Clash,Account access,Console,8.20,17.20,4.10
+S00870,Marble Maze,Performance,PC,8.70,23.30,3.70
+S00871,Skybound,Gameplay question,Console,4.00,10.60,3.60
+S00872,Marble Maze,Performance,PC,6.90,38.70,3.70
+S00873,Forest Trails,Performance,PC,4.00,25.20,4.10
+S00874,Deep Space,Payment query,PC,5.60,11.20,4.00
+S00875,Deep Space,Crash,PC,0.70,42.60,2.40
+S00876,Forest Trails,Account access,Handheld,9.90,21.90,3.80
+S00877,Skybound,Crash,Handheld,8.10,69.80,2.10
+S00878,Garden Worlds,Account access,Console,1.10,8.10,4.90
+S00879,Cobalt Clash,Performance,Console,4.70,30.20,3.10
+S00880,Pixel Rally,Gameplay question,Console,2.30,13.00,4.20
+S00881,River Rescue,Gameplay question,Console,6.60,10.50,4.30
+S00882,Neon Circuit,Crash,Handheld,8.80,42.60,3.50
+S00883,Echo Quest,Performance,Console,6.80,44.10,3.10
+S00884,Star Tactics,Account access,Console,1.00,10.70,3.80
+S00885,Crystal Run,Performance,PC,1.40,36.30,4.70
+S00886,Pixel Rally,Payment query,Console,5.50,15.70,4.80
+S00887,Sunset Sprint,Gameplay question,Handheld,3.60,9.60,5.00
+S00888,Cloud City,Payment query,Console,3.60,29.40,4.00
+S00889,Iron Arena,Gameplay question,PC,8.20,14.50,4.10
+S00890,Skybound,Payment query,PC,2.10,15.50,4.30
+S00891,Marble Maze,Account access,PC,7.50,16.80,4.70
+S00892,Rune Roads,Payment query,Handheld,7.50,25.70,4.40
+S00893,Block Expedition,Crash,Handheld,10.00,44.90,2.50
+S00894,Garden Worlds,Payment query,Handheld,9.40,21.50,4.30
+S00895,Garden Worlds,Crash,PC,3.20,31.30,4.00
+S00896,Pixel Rally,Performance,Handheld,4.90,21.20,3.80
+S00897,Castle Forge,Crash,Handheld,4.60,35.70,4.50
+S00898,Harbour Builder,Performance,Console,4.20,28.80,4.30
+S00899,Marble Maze,Crash,PC,2.60,38.10,4.50
+S00900,Garden Worlds,Gameplay question,PC,5.00,12.50,4.50
+S00901,Marble Maze,Payment query,Handheld,0.70,15.70,4.10
+S00902,Crystal Run,Crash,PC,1.40,53.20,3.00
+S00903,Star Tactics,Account access,Handheld,5.90,13.20,4.20
+S00904,Crystal Run,Account access,Handheld,9.00,18.90,4.10
+S00905,Pixel Rally,Payment query,Handheld,7.90,15.70,4.50
+S00906,Marble Maze,Payment query,Console,9.90,21.60,3.70
+S00907,Puzzle Grove,Payment query,PC,4.40,20.90,4.40
+S00908,Orbit Quest,Gameplay question,Handheld,7.20,15.80,4.40
+S00909,Iron Arena,Gameplay question,Handheld,8.90,11.30,3.90
+S00910,Star Tactics,Payment query,PC,7.70,25.20,4.10
+S00911,Castle Forge,Crash,Handheld,8.00,24.00,3.70
+S00912,Ocean Architect,Performance,Handheld,6.60,22.60,3.90
+S00913,Echo Quest,Payment query,Handheld,0.90,15.70,3.80
+S00914,Puzzle Grove,Performance,Console,7.30,61.00,3.60
+S00915,Moon Valley,Crash,Console,7.00,42.70,3.50
+S00916,Harbour Builder,Payment query,PC,9.40,33.30,3.10
+S00917,Block Expedition,Account access,Console,5.30,12.10,5.00
+S00918,Cloud City,Account access,Console,1.90,5.30,4.50
+S00919,Crystal Run,Crash,Handheld,6.80,39.60,3.00
+S00920,Marble Maze,Payment query,PC,2.00,17.80,4.20
+S00921,Deep Space,Crash,PC,4.50,28.20,4.10
+S00922,Skybound,Account access,Console,7.90,14.50,3.60
+S00923,Iron Arena,Gameplay question,Handheld,6.70,12.10,3.50
+S00924,Rune Roads,Performance,Console,9.00,27.40,3.90
+S00925,Harbour Builder,Performance,Handheld,7.50,33.00,4.00
+S00926,Skybound,Payment query,Console,5.50,11.10,5.00
+S00927,Ocean Architect,Payment query,PC,5.20,25.80,4.50
+S00928,Deep Space,Payment query,Console,7.10,30.00,3.00
+S00929,Star Tactics,Gameplay question,Console,3.80,8.60,4.70
+S00930,Star Tactics,Account access,PC,9.70,16.30,4.40
+S00931,Pixel Rally,Payment query,Handheld,8.10,19.90,3.60
+S00932,Crystal Run,Crash,PC,4.80,46.80,3.30
+S00933,River Rescue,Gameplay question,PC,4.80,14.00,4.80
+S00934,Echo Quest,Performance,PC,7.80,42.70,3.40
+S00935,Neon Circuit,Crash,PC,9.00,41.20,3.10
+S00936,Iron Arena,Account access,Console,5.80,11.70,4.60
+S00937,Neon Circuit,Gameplay question,Console,5.00,10.40,3.50
+S00938,Forest Trails,Account access,Console,5.00,13.70,5.00
+S00939,Sunset Sprint,Account access,Handheld,6.40,10.80,4.10
+S00940,Orbit Quest,Gameplay question,Console,6.70,12.60,4.40
+S00941,Puzzle Grove,Gameplay question,PC,3.60,6.60,4.40
+S00942,River Rescue,Performance,Console,9.50,44.20,4.00
+S00943,Marble Maze,Account access,Console,8.40,21.40,3.50
+S00944,Garden Worlds,Gameplay question,Console,3.10,10.40,4.80
+S00945,Orbit Quest,Crash,PC,6.70,32.70,4.10
+S00946,Pixel Rally,Crash,Handheld,6.70,51.70,3.40
+S00947,Turbo Tracks,Gameplay question,Handheld,4.70,16.20,4.20
+S00948,Neon Circuit,Gameplay question,PC,1.30,10.70,4.60
+S00949,Castle Forge,Crash,Console,6.20,53.70,2.30
+S00950,Puzzle Grove,Gameplay question,Console,5.90,9.40,3.70
+S00951,Orbit Quest,Performance,Handheld,9.10,47.70,3.80
+S00952,Ocean Architect,Payment query,Console,3.10,24.90,3.90
+S00953,Sunset Sprint,Gameplay question,PC,7.50,14.10,4.40
+S00954,River Rescue,Payment query,Handheld,10.00,29.80,3.50
+S00955,Harbour Builder,Crash,PC,1.90,64.40,2.20
+S00956,Block Expedition,Gameplay question,Console,4.50,12.00,4.30
+S00957,Moon Valley,Performance,Console,3.20,38.40,3.40
+S00958,Star Tactics,Payment query,Handheld,6.50,27.90,3.30
+S00959,Marble Maze,Performance,Handheld,7.60,38.10,3.60
+S00960,Turbo Tracks,Gameplay question,Handheld,6.10,13.00,5.00
+S00961,Neon Circuit,Performance,Handheld,5.10,52.20,3.20
+S00962,Echo Quest,Account access,Console,4.20,13.20,4.20
+S00963,Cloud City,Gameplay question,PC,7.70,10.10,4.20
+S00964,Iron Arena,Gameplay question,PC,5.50,13.70,3.50
+S00965,Pixel Rally,Account access,PC,6.90,17.20,3.90
+S00966,Moon Valley,Payment query,PC,10.00,28.90,3.70
+S00967,Rune Roads,Performance,Handheld,8.60,30.00,4.10
+S00968,Turbo Tracks,Performance,PC,1.20,32.50,3.10
+S00969,Sunset Sprint,Account access,Handheld,7.90,15.80,3.10
+S00970,Pixel Rally,Performance,Handheld,9.80,37.10,3.80
+S00971,Block Expedition,Gameplay question,Console,7.30,13.60,3.40
+S00972,River Rescue,Payment query,PC,0.70,7.00,4.80
+S00973,Castle Forge,Performance,Handheld,6.40,23.90,3.60
+S00974,Rune Roads,Account access,Console,6.00,12.60,4.00
+S00975,Pixel Rally,Gameplay question,PC,7.40,16.60,3.50
+S00976,Rune Roads,Performance,Console,3.60,40.70,3.30
+S00977,Echo Quest,Performance,Handheld,4.60,15.80,4.30
+S00978,Pixel Rally,Performance,Handheld,7.70,24.10,2.90
+S00979,Skybound,Gameplay question,Handheld,9.20,12.90,4.70
+S00980,Rune Roads,Crash,PC,1.30,28.70,3.00
+S00981,Crystal Run,Account access,Handheld,4.10,12.30,4.30
+S00982,Crystal Run,Payment query,Console,6.10,20.40,4.50
+S00983,Skybound,Payment query,PC,9.60,31.70,3.70
+S00984,Moon Valley,Payment query,Handheld,1.00,12.50,3.70
+S00985,Rune Roads,Account access,Handheld,3.40,16.30,4.40
+S00986,Turbo Tracks,Gameplay question,PC,8.60,18.30,4.70
+S00987,Forest Trails,Crash,PC,7.80,30.90,3.10
+S00988,Turbo Tracks,Performance,Handheld,0.60,30.20,3.90
+S00989,Rune Roads,Gameplay question,Handheld,4.60,12.10,4.00
+S00990,Block Expedition,Account access,Console,6.40,13.90,3.80
+S00991,Puzzle Grove,Account access,Console,7.50,14.60,4.60
+S00992,Star Tactics,Crash,Handheld,8.90,73.90,3.00
+S00993,Puzzle Grove,Payment query,Console,2.20,22.10,4.30
+S00994,Forest Trails,Performance,Handheld,0.90,27.70,3.90
+S00995,Garden Worlds,Gameplay question,Console,5.50,9.20,4.60
+S00996,Marble Maze,Crash,Console,2.80,40.00,2.30
+S00997,Castle Forge,Performance,Handheld,6.40,46.10,3.00
+S00998,Iron Arena,Gameplay question,Console,7.30,10.70,4.30
+S00999,Cloud City,Crash,Console,8.50,34.60,3.80
+S01000,Puzzle Grove,Account access,Console,7.80,11.00,4.60
+S01001,Forest Trails,Payment query,Console,1.30,22.60,4.10
+S01002,Block Expedition,Crash,Console,2.10,35.90,4.10
+S01003,Marble Maze,Payment query,Console,5.50,19.70,3.80
+S01004,Echo Quest,Performance,Handheld,2.90,37.90,2.60
+S01005,Rune Roads,Performance,PC,3.70,40.60,3.60
+S01006,Crystal Run,Payment query,PC,8.80,31.00,3.50
+S01007,Crystal Run,Gameplay question,Console,8.50,11.90,3.80
+S01008,Marble Maze,Account access,PC,7.40,16.00,4.80
+S01009,Cloud City,Crash,PC,1.40,55.40,3.10
+S01010,Neon Circuit,Performance,PC,8.30,43.70,3.50
+S01011,Harbour Builder,Gameplay question,Handheld,2.00,8.50,4.30
+S01012,Block Expedition,Gameplay question,Console,4.20,9.20,5.00
+S01013,Sunset Sprint,Performance,PC,5.80,29.20,3.90
+S01014,Crystal Run,Account access,Console,5.70,8.90,4.80
+S01015,Iron Arena,Gameplay question,Console,1.80,6.90,4.20
+S01016,Ocean Architect,Gameplay question,Console,5.50,7.90,4.40
+S01017,Crystal Run,Gameplay question,Console,0.70,9.10,3.60
+S01018,Cloud City,Performance,Console,3.00,33.50,4.00
+S01019,Orbit Quest,Performance,PC,3.50,27.60,3.70
+S01020,Echo Quest,Gameplay question,PC,1.90,9.90,4.70
+S01021,Iron Arena,Payment query,PC,5.70,32.00,4.00
+S01022,Neon Circuit,Crash,PC,6.70,61.70,2.50
+S01023,Sunset Sprint,Performance,Console,6.10,46.70,3.40
+S01024,River Rescue,Crash,Handheld,2.70,84.80,2.10
+S01025,Iron Arena,Payment query,PC,2.70,21.20,4.00
+S01026,Castle Forge,Account access,PC,5.50,9.00,5.00
+S01027,Rune Roads,Account access,PC,2.10,10.20,4.70
+S01028,Pixel Rally,Gameplay question,Handheld,7.80,11.20,4.90
+S01029,Echo Quest,Payment query,Handheld,3.60,21.90,3.90
+S01030,Ocean Architect,Payment query,Handheld,2.70,15.40,4.00
+S01031,Skybound,Crash,Handheld,4.90,20.90,4.20
+S01032,Skybound,Performance,PC,5.10,27.60,3.90
+S01033,Neon Circuit,Crash,Handheld,6.60,34.00,3.70
+S01034,Harbour Builder,Crash,PC,2.30,21.80,3.30
+S01035,Iron Arena,Gameplay question,PC,2.00,7.90,5.00
+S01036,Neon Circuit,Crash,PC,9.90,33.00,3.70
+S01037,River Rescue,Crash,Console,9.30,46.70,4.20
+S01038,Skybound,Crash,Console,9.40,67.60,2.60
+S01039,Neon Circuit,Account access,Console,1.60,5.60,4.80
+S01040,Skybound,Payment query,PC,1.00,6.60,5.00
+S01041,Cobalt Clash,Account access,Handheld,2.30,10.60,4.00
+S01042,Star Tactics,Crash,Handheld,9.70,25.70,4.10
+S01043,Rune Roads,Payment query,Handheld,7.00,18.10,4.40
+S01044,Harbour Builder,Payment query,Handheld,5.80,24.90,3.60
+S01045,Crystal Run,Payment query,PC,5.60,25.90,3.90
+S01046,Neon Circuit,Gameplay question,PC,5.90,18.20,4.50
+S01047,Moon Valley,Account access,Console,9.50,21.20,3.60
+S01048,Block Expedition,Performance,Handheld,9.40,62.30,2.80
+S01049,Orbit Quest,Gameplay question,PC,5.50,11.60,4.70
+S01050,Garden Worlds,Crash,Handheld,1.80,48.60,4.20
+S01051,Block Expedition,Performance,Handheld,3.00,27.00,3.10
+S01052,Pixel Rally,Account access,Console,1.20,11.20,3.60
+S01053,Crystal Run,Performance,Console,8.70,36.40,3.50
+S01054,Garden Worlds,Gameplay question,Console,4.70,9.80,4.30
+S01055,Harbour Builder,Gameplay question,Console,3.60,11.00,3.90
+S01056,Sunset Sprint,Performance,Handheld,1.00,33.10,3.70
+S01057,Harbour Builder,Crash,Console,4.60,63.80,2.50
+S01058,Puzzle Grove,Account access,PC,3.70,10.20,4.70
+S01059,Moon Valley,Crash,Handheld,2.20,43.60,4.10
+S01060,Star Tactics,Gameplay question,PC,1.60,7.30,3.90
+S01061,Iron Arena,Crash,Console,8.30,61.70,2.60
+S01062,Iron Arena,Gameplay question,Console,0.90,5.40,5.00
+S01063,Forest Trails,Payment query,Console,9.20,14.80,3.90
+S01064,Moon Valley,Performance,Handheld,1.30,37.60,2.80
+S01065,Rune Roads,Performance,Handheld,0.50,11.70,4.60
+S01066,Puzzle Grove,Crash,Console,6.60,45.20,3.70
+S01067,Block Expedition,Account access,Console,7.00,16.90,4.50
+S01068,Garden Worlds,Performance,Console,4.40,29.20,4.20
+S01069,Crystal Run,Performance,Handheld,8.00,60.10,2.80
+S01070,Forest Trails,Performance,Handheld,0.60,20.30,3.90
+S01071,Marble Maze,Account access,Console,9.90,19.10,5.00
+S01072,Crystal Run,Payment query,PC,6.70,19.40,3.90
+S01073,Harbour Builder,Payment query,Console,9.60,26.60,4.70
+S01074,Forest Trails,Payment query,PC,5.40,18.00,5.00
+S01075,Castle Forge,Payment query,Console,5.60,16.30,4.70
+S01076,River Rescue,Performance,Handheld,8.20,25.30,3.80
+S01077,Harbour Builder,Gameplay question,PC,1.70,9.60,4.50
+S01078,Puzzle Grove,Performance,Console,6.80,49.60,3.30
+S01079,Iron Arena,Crash,PC,3.50,60.60,2.50
+S01080,Pixel Rally,Payment query,PC,2.80,14.90,4.40
+S01081,Crystal Run,Performance,Handheld,3.10,34.20,3.00
+S01082,Pixel Rally,Payment query,Console,8.00,27.70,3.30
+S01083,Turbo Tracks,Performance,PC,1.70,34.80,3.40
+S01084,Ocean Architect,Payment query,PC,4.70,10.30,5.00
+S01085,Orbit Quest,Crash,PC,6.90,34.80,3.60
+S01086,Rune Roads,Gameplay question,Handheld,9.40,16.80,3.50
+S01087,Forest Trails,Performance,PC,2.20,39.70,3.90
+S01088,Puzzle Grove,Crash,Console,5.70,61.60,3.70
+S01089,Marble Maze,Payment query,Console,3.00,11.10,4.20
+S01090,Marble Maze,Performance,PC,6.20,42.40,3.70
+S01091,Crystal Run,Account access,Console,8.70,14.30,4.60
+S01092,Orbit Quest,Performance,Handheld,0.90,30.60,4.80
+S01093,Neon Circuit,Crash,Handheld,6.40,30.10,4.10
+S01094,Crystal Run,Crash,PC,0.70,46.00,2.50
+S01095,Turbo Tracks,Payment query,Handheld,9.50,20.90,4.70
+S01096,Ocean Architect,Payment query,Handheld,10.00,30.50,3.20
+S01097,Star Tactics,Account access,Console,2.20,12.10,4.20
+S01098,Puzzle Grove,Account access,Handheld,2.60,13.20,3.80
+S01099,Echo Quest,Crash,Handheld,0.80,38.10,3.30
+S01100,Marble Maze,Account access,Console,4.20,18.70,3.20
+S01101,Rune Roads,Crash,Console,5.50,97.10,2.40
+S01102,Crystal Run,Crash,Console,1.10,28.80,4.70
+S01103,Orbit Quest,Payment query,Handheld,8.10,22.70,3.70
+S01104,Castle Forge,Payment query,Handheld,5.00,16.80,5.00
+S01105,Sunset Sprint,Account access,Console,9.10,16.30,4.00
+S01106,Crystal Run,Crash,Handheld,7.80,56.20,3.00
+S01107,Cobalt Clash,Crash,PC,6.20,64.10,2.90
+S01108,Skybound,Gameplay question,PC,8.10,12.80,4.20
+S01109,Star Tactics,Crash,Console,2.30,31.10,2.60
+S01110,Garden Worlds,Crash,Handheld,8.20,49.10,3.70
+S01111,Pixel Rally,Performance,Handheld,9.70,22.90,3.60
+S01112,Block Expedition,Crash,Handheld,0.60,26.20,4.40
+S01113,Moon Valley,Account access,PC,2.10,8.00,5.00
+S01114,Star Tactics,Crash,Handheld,9.20,25.20,3.50
+S01115,Pixel Rally,Payment query,Console,3.20,16.80,4.30
+S01116,Turbo Tracks,Account access,Handheld,8.20,16.40,2.60
+S01117,Pixel Rally,Performance,Handheld,4.20,33.50,3.80
+S01118,Iron Arena,Performance,Console,3.10,43.70,3.00
+S01119,Orbit Quest,Gameplay question,PC,0.90,8.00,3.70
+S01120,Star Tactics,Gameplay question,PC,1.80,5.10,4.20
+S01121,Castle Forge,Payment query,PC,0.60,13.20,4.20
+S01122,River Rescue,Account access,PC,8.70,20.10,4.40
+S01123,Rune Roads,Account access,Console,8.40,14.10,3.80
+S01124,Deep Space,Account access,Handheld,0.70,10.80,4.90
+S01125,Garden Worlds,Account access,PC,4.20,15.50,5.00
+S01126,Cobalt Clash,Crash,Console,2.20,18.20,4.20
+S01127,Block Expedition,Crash,PC,6.50,49.90,3.60
+S01128,Pixel Rally,Gameplay question,Console,6.60,11.50,4.00
+S01129,Star Tactics,Performance,Console,4.10,15.30,4.00
+S01130,Harbour Builder,Account access,PC,7.30,20.90,3.20
+S01131,Neon Circuit,Account access,Console,1.90,16.00,4.90
+S01132,Castle Forge,Crash,Handheld,2.10,40.10,4.10
+S01133,Iron Arena,Account access,Handheld,9.70,20.10,4.20
+S01134,Block Expedition,Performance,PC,9.10,36.70,5.00
+S01135,Block Expedition,Crash,Handheld,6.60,38.20,4.10
+S01136,Crystal Run,Account access,Console,6.10,16.00,5.00
+S01137,Orbit Quest,Performance,Handheld,8.70,47.80,2.30
+S01138,Star Tactics,Account access,Handheld,4.40,13.70,5.00
+S01139,Garden Worlds,Crash,PC,8.00,41.10,3.70
+S01140,Cloud City,Crash,Console,4.70,45.80,2.30
+S01141,Harbour Builder,Crash,Console,4.80,41.50,4.60
+S01142,Turbo Tracks,Payment query,PC,6.50,24.10,2.70
+S01143,Moon Valley,Gameplay question,Console,8.30,12.80,4.20
+S01144,Sunset Sprint,Gameplay question,Console,8.90,15.60,4.60
+S01145,Deep Space,Performance,PC,7.20,30.00,3.90
+S01146,Neon Circuit,Account access,Handheld,3.60,10.00,3.20
+S01147,Pixel Rally,Performance,Console,3.10,39.20,3.90
+S01148,Block Expedition,Account access,Handheld,8.10,11.30,4.80
+S01149,River Rescue,Account access,PC,7.10,19.00,4.20
+S01150,Orbit Quest,Gameplay question,Console,7.20,10.20,4.20
+S01151,Crystal Run,Performance,Console,3.60,27.10,3.20
+S01152,Echo Quest,Account access,PC,1.20,9.10,3.60
+S01153,Cloud City,Payment query,PC,2.40,13.90,3.40
+S01154,Deep Space,Performance,PC,0.80,29.10,3.40
+S01155,Puzzle Grove,Account access,Console,4.30,8.70,4.50
+S01156,Turbo Tracks,Gameplay question,PC,4.20,7.30,4.90
+S01157,Echo Quest,Account access,Console,8.80,18.50,4.80
+S01158,Orbit Quest,Gameplay question,Console,2.20,13.10,4.50
+S01159,Forest Trails,Performance,Console,4.10,29.60,3.90
+S01160,Forest Trails,Performance,PC,4.30,29.00,4.00
+S01161,Turbo Tracks,Crash,Handheld,3.20,27.90,4.10
+S01162,Orbit Quest,Crash,Console,3.80,41.10,3.30
+S01163,Castle Forge,Performance,Console,8.30,19.50,4.20
+S01164,Skybound,Gameplay question,Handheld,6.20,13.20,3.80
+S01165,River Rescue,Crash,PC,6.30,47.20,3.00
+S01166,Moon Valley,Crash,Console,5.80,77.90,2.00
+S01167,Turbo Tracks,Payment query,Console,1.00,10.00,5.00
+S01168,Turbo Tracks,Account access,Handheld,5.40,12.30,3.90
+S01169,Marble Maze,Gameplay question,Handheld,5.70,12.10,3.90
+S01170,Star Tactics,Performance,Console,2.90,41.00,3.80
+S01171,Ocean Architect,Crash,Console,7.80,39.90,3.00
+S01172,Skybound,Payment query,Console,0.90,18.90,4.50
+S01173,Echo Quest,Payment query,Handheld,8.60,22.10,5.00
+S01174,Cobalt Clash,Payment query,Console,8.90,24.20,5.00
+S01175,Deep Space,Performance,PC,5.30,31.40,3.30
+S01176,Star Tactics,Payment query,Console,9.70,19.70,3.00
+S01177,Puzzle Grove,Payment query,Console,1.40,19.00,2.50
+S01178,Pixel Rally,Gameplay question,Console,6.50,14.50,5.00
+S01179,Marble Maze,Performance,PC,8.90,53.00,2.60
+S01180,Star Tactics,Gameplay question,PC,4.70,10.30,5.00
+S01181,Skybound,Account access,Console,7.50,16.80,4.20
+S01182,Cloud City,Account access,Console,4.50,10.20,3.60
+S01183,Deep Space,Gameplay question,Console,2.80,11.60,4.70
+S01184,Rune Roads,Gameplay question,PC,3.70,7.60,4.10
+S01185,Skybound,Account access,Console,5.40,8.60,4.70
+S01186,Echo Quest,Account access,Console,6.00,11.80,4.30
+S01187,Harbour Builder,Crash,Console,9.30,50.60,2.20
+S01188,Marble Maze,Payment query,Console,7.30,16.40,4.80
+S01189,Harbour Builder,Gameplay question,Handheld,9.90,20.10,4.60
+S01190,Block Expedition,Payment query,Handheld,6.30,17.40,4.60
+S01191,Cloud City,Performance,Handheld,2.00,36.80,3.60
+S01192,Echo Quest,Crash,Console,6.70,41.30,2.20
+S01193,Cobalt Clash,Account access,Console,2.80,10.90,4.60
+S01194,Garden Worlds,Payment query,Handheld,5.70,17.30,5.00
+S01195,Moon Valley,Account access,Handheld,2.20,12.80,3.70
+S01196,Orbit Quest,Performance,PC,0.80,30.20,3.70
+S01197,Marble Maze,Gameplay question,Console,7.50,14.30,5.00
+S01198,Cobalt Clash,Performance,Console,2.80,23.70,3.70
+S01199,Crystal Run,Crash,Console,7.20,39.10,3.40
+S01200,River Rescue,Crash,Handheld,9.00,26.70,2.80
+S01201,Star Tactics,Performance,PC,1.70,30.20,3.70
+S01202,Skybound,Crash,Console,8.40,32.40,4.40
+S01203,Garden Worlds,Gameplay question,PC,5.60,11.50,5.00
+S01204,Rune Roads,Crash,PC,6.20,50.20,3.20
+S01205,Marble Maze,Account access,Console,7.80,17.70,3.90
+S01206,Garden Worlds,Crash,Console,5.60,25.20,4.20
+S01207,Forest Trails,Performance,Handheld,6.50,20.20,4.10
+S01208,Skybound,Account access,Handheld,6.60,19.10,3.30
+S01209,Turbo Tracks,Account access,Handheld,9.30,14.30,4.90
+S01210,Cobalt Clash,Account access,PC,1.00,6.60,5.00
+S01211,Sunset Sprint,Payment query,Handheld,5.50,16.70,4.80
+S01212,Harbour Builder,Payment query,PC,6.80,13.20,4.10
+S01213,Neon Circuit,Crash,Console,5.70,45.20,3.20
+S01214,Star Tactics,Performance,Handheld,4.50,35.10,3.90
+S01215,Cobalt Clash,Gameplay question,PC,5.60,16.60,5.00
+S01216,Garden Worlds,Gameplay question,Handheld,9.20,16.00,4.20
+S01217,River Rescue,Crash,Handheld,8.60,80.80,1.00
+S01218,Echo Quest,Payment query,Console,7.30,29.60,4.20
+S01219,Crystal Run,Account access,Handheld,9.10,19.70,3.20
+S01220,Star Tactics,Account access,Handheld,5.30,10.60,4.80
+S01221,Cloud City,Account access,Console,3.40,10.00,4.70
+S01222,Ocean Architect,Performance,PC,4.20,42.10,2.80
+S01223,Forest Trails,Performance,Handheld,9.70,21.00,3.80
+S01224,Star Tactics,Performance,Console,2.30,39.30,3.40
+S01225,Cloud City,Performance,Handheld,5.60,30.10,3.00
+S01226,Garden Worlds,Performance,Handheld,2.10,26.20,4.20
+S01227,Castle Forge,Account access,PC,1.30,4.50,3.40
+S01228,Skybound,Account access,Console,1.40,4.60,3.90
+S01229,Cloud City,Account access,Handheld,6.30,11.00,4.30
+S01230,Star Tactics,Account access,Console,9.00,21.30,3.10
+S01231,Sunset Sprint,Performance,Handheld,1.90,17.90,4.20
+S01232,Star Tactics,Performance,Handheld,5.70,16.90,4.50
+S01233,Star Tactics,Payment query,Console,6.40,19.10,3.80
+S01234,Cobalt Clash,Crash,Console,8.10,60.40,2.10
+S01235,Echo Quest,Gameplay question,Handheld,2.50,9.80,5.00
+S01236,River Rescue,Crash,PC,9.80,58.40,3.00
+S01237,Puzzle Grove,Account access,Handheld,1.90,10.80,4.70
+S01238,Iron Arena,Crash,Handheld,2.00,20.50,4.60
+S01239,Forest Trails,Performance,Handheld,9.60,55.50,3.70
+S01240,Star Tactics,Performance,PC,7.80,39.20,3.40
+S01241,Moon Valley,Payment query,Handheld,0.90,21.40,4.00
+S01242,Castle Forge,Account access,PC,4.10,7.30,4.10
+S01243,Rune Roads,Account access,Handheld,8.40,16.30,5.00
+S01244,Neon Circuit,Performance,PC,3.70,42.60,2.40
+S01245,Block Expedition,Crash,Console,6.90,44.50,3.40
+S01246,Rune Roads,Gameplay question,PC,3.20,9.70,4.90
+S01247,Skybound,Performance,Console,2.20,34.30,3.30
+S01248,Rune Roads,Gameplay question,Console,8.80,15.70,3.80
+S01249,Crystal Run,Crash,Handheld,5.40,39.70,2.90
+S01250,Deep Space,Gameplay question,PC,2.80,8.70,5.00
+S01251,Puzzle Grove,Gameplay question,PC,8.30,13.60,3.90
+S01252,Moon Valley,Crash,Handheld,1.70,38.90,2.70
+S01253,Cobalt Clash,Payment query,Handheld,0.70,13.40,4.50
+S01254,Moon Valley,Payment query,Console,9.00,22.40,4.60
+S01255,Puzzle Grove,Payment query,Console,5.70,15.20,4.10
+S01256,Forest Trails,Performance,Console,9.90,47.00,3.30
+S01257,Moon Valley,Payment query,Console,8.10,21.10,4.80
+S01258,Crystal Run,Gameplay question,Handheld,9.90,15.20,4.20
+S01259,Ocean Architect,Account access,Handheld,7.40,19.20,3.80
+S01260,Crystal Run,Crash,Console,4.10,38.40,4.00
+S01261,Crystal Run,Performance,PC,6.10,35.90,3.80
+S01262,Crystal Run,Account access,Console,4.70,13.80,4.50
+S01263,Crystal Run,Performance,Console,6.30,38.00,3.00
+S01264,Echo Quest,Account access,Handheld,8.70,18.50,5.00
+S01265,Sunset Sprint,Performance,PC,9.20,20.40,4.50
+S01266,River Rescue,Account access,Console,6.20,15.10,4.50
+S01267,Harbour Builder,Performance,PC,4.90,21.80,3.90
+S01268,Crystal Run,Crash,PC,8.30,24.30,3.70
+S01269,Marble Maze,Gameplay question,Console,7.30,13.30,4.70
+S01270,Castle Forge,Crash,Handheld,2.30,44.80,2.80
+S01271,Sunset Sprint,Crash,Console,6.90,65.40,1.50
+S01272,Neon Circuit,Gameplay question,PC,8.10,15.00,3.90
+S01273,River Rescue,Crash,Console,2.80,36.50,3.70
+S01274,Echo Quest,Crash,PC,5.40,42.00,3.60
+S01275,Pixel Rally,Account access,Handheld,2.90,11.80,5.00
+S01276,Neon Circuit,Payment query,PC,4.30,15.80,5.00
+S01277,Marble Maze,Crash,Handheld,8.40,77.80,1.40
+S01278,Moon Valley,Performance,Handheld,6.60,23.30,3.90
+S01279,Neon Circuit,Gameplay question,Console,2.90,11.30,4.20
+S01280,River Rescue,Performance,PC,5.20,24.30,4.10
+S01281,Rune Roads,Performance,Console,7.60,30.50,4.10
+S01282,Moon Valley,Crash,PC,0.90,39.60,2.20
+S01283,Iron Arena,Crash,Handheld,9.90,73.60,3.20
+S01284,Forest Trails,Gameplay question,Handheld,0.70,10.50,4.50
+S01285,Cobalt Clash,Account access,Console,3.60,10.70,3.90
+S01286,Cloud City,Crash,PC,3.80,79.80,2.90
+S01287,Orbit Quest,Payment query,Handheld,8.20,26.00,3.60
+S01288,Harbour Builder,Performance,Console,2.30,35.20,3.70
+S01289,Ocean Architect,Performance,Console,7.10,38.90,1.90
+S01290,Ocean Architect,Performance,Handheld,2.60,26.10,2.60
+S01291,Skybound,Crash,Handheld,4.90,53.60,3.00
+S01292,Skybound,Gameplay question,Console,1.60,8.90,4.30
+S01293,Puzzle Grove,Account access,Handheld,1.40,7.10,4.60
+S01294,Crystal Run,Account access,Handheld,5.80,11.20,4.00
+S01295,Deep Space,Crash,Console,3.30,44.40,3.30
+S01296,River Rescue,Gameplay question,Console,8.90,14.30,4.80
+S01297,Cloud City,Crash,PC,4.00,53.70,2.20
+S01298,Skybound,Crash,PC,5.10,48.80,3.90
+S01299,Cobalt Clash,Gameplay question,PC,6.20,10.30,4.30
+S01300,Garden Worlds,Account access,Handheld,3.70,8.20,5.00
+S01301,Forest Trails,Performance,PC,8.60,35.30,3.90
+S01302,Star Tactics,Crash,Console,3.00,69.30,2.30
+S01303,Cloud City,Payment query,PC,8.70,17.20,4.60
+S01304,Garden Worlds,Crash,Handheld,6.70,32.60,4.30
+S01305,Garden Worlds,Performance,PC,4.70,23.60,4.90
+S01306,Pixel Rally,Crash,Console,1.20,26.20,4.40
+S01307,Harbour Builder,Account access,Console,1.10,12.60,4.80
+S01308,Forest Trails,Gameplay question,Handheld,5.40,13.30,4.40
+S01309,Sunset Sprint,Gameplay question,Console,1.50,10.20,4.00
+S01310,Neon Circuit,Payment query,Handheld,6.40,27.80,3.90
+S01311,Garden Worlds,Performance,Handheld,7.50,57.30,2.10
+S01312,Deep Space,Performance,Handheld,7.00,45.90,3.10
+S01313,Orbit Quest,Payment query,Handheld,2.10,12.60,5.00
+S01314,Deep Space,Crash,Handheld,6.70,30.10,3.60
+S01315,Garden Worlds,Gameplay question,Console,1.70,5.00,3.70
+S01316,Orbit Quest,Crash,PC,8.10,46.10,2.90
+S01317,Garden Worlds,Account access,Handheld,5.10,14.20,4.00
+S01318,Iron Arena,Payment query,PC,1.10,14.60,3.60
+S01319,Puzzle Grove,Payment query,Console,5.60,21.40,3.80
+S01320,Skybound,Gameplay question,PC,5.80,13.80,5.00
+S01321,Deep Space,Crash,PC,5.10,33.10,4.20
+S01322,Moon Valley,Gameplay question,Console,7.60,11.50,4.50
+S01323,Sunset Sprint,Account access,Console,8.60,20.60,4.00
+S01324,Pixel Rally,Crash,PC,1.30,45.90,3.00
+S01325,Rune Roads,Performance,PC,5.70,23.10,4.60
+S01326,Echo Quest,Gameplay question,PC,2.50,11.70,3.60
+S01327,Ocean Architect,Crash,PC,6.70,38.20,4.30
+S01328,Cloud City,Performance,PC,9.10,27.20,3.30
+S01329,Iron Arena,Crash,Console,5.80,78.10,2.60
+S01330,Skybound,Payment query,Console,5.40,23.50,4.00
+S01331,Moon Valley,Account access,Console,6.90,20.40,3.50
+S01332,Cobalt Clash,Gameplay question,Console,7.50,14.10,3.70
+S01333,Forest Trails,Gameplay question,Handheld,4.40,7.40,3.80
+S01334,Harbour Builder,Payment query,Handheld,5.70,22.50,3.80
+S01335,Harbour Builder,Account access,PC,2.50,14.50,4.70
+S01336,Forest Trails,Payment query,Console,9.70,25.00,2.70
+S01337,Pixel Rally,Gameplay question,Console,8.30,15.80,3.30
+S01338,Rune Roads,Gameplay question,Console,7.50,9.90,3.80
+S01339,Iron Arena,Crash,PC,6.60,41.00,2.50
+S01340,Echo Quest,Performance,Console,2.80,23.40,4.50
+S01341,Moon Valley,Gameplay question,PC,0.70,3.10,4.00
+S01342,Marble Maze,Gameplay question,Handheld,7.30,15.60,3.90
+S01343,Garden Worlds,Crash,Console,0.50,30.90,3.20
+S01344,Rune Roads,Performance,Console,6.10,17.30,4.00
+S01345,Puzzle Grove,Gameplay question,Handheld,0.60,3.40,5.00
+S01346,Garden Worlds,Payment query,PC,2.80,8.40,4.30
+S01347,Turbo Tracks,Performance,Handheld,10.00,49.10,3.20
+S01348,Garden Worlds,Crash,Handheld,4.70,49.40,3.60
+S01349,Orbit Quest,Payment query,Handheld,4.40,10.00,4.80
+S01350,Cloud City,Performance,Handheld,1.50,29.10,3.60
+S01351,Garden Worlds,Performance,PC,5.50,30.40,3.00
+S01352,Neon Circuit,Account access,PC,5.20,15.60,4.00
+S01353,Rune Roads,Performance,Console,2.70,22.90,4.20
+S01354,River Rescue,Crash,Handheld,2.00,48.50,3.10
+S01355,Crystal Run,Account access,Handheld,4.20,8.30,4.60
+S01356,Deep Space,Performance,PC,8.40,38.70,3.20
+S01357,Rune Roads,Account access,Console,7.50,19.80,4.80
+S01358,Block Expedition,Crash,Handheld,3.30,53.70,3.30
+S01359,Crystal Run,Gameplay question,Console,4.10,12.90,4.40
+S01360,Cloud City,Performance,Console,6.30,22.10,3.70
+S01361,Puzzle Grove,Payment query,PC,9.10,14.70,4.40
+S01362,Castle Forge,Payment query,PC,6.80,25.20,3.90
+S01363,Turbo Tracks,Crash,Console,8.60,27.50,3.20
+S01364,Ocean Architect,Crash,PC,0.90,69.40,1.80
+S01365,Orbit Quest,Crash,PC,6.50,43.70,2.80
+S01366,Rune Roads,Gameplay question,Handheld,5.60,8.10,3.90
+S01367,Block Expedition,Crash,PC,8.60,53.00,2.90
+S01368,Ocean Architect,Account access,Console,4.20,8.50,4.50
+S01369,Moon Valley,Crash,Console,5.40,49.60,3.40
+S01370,Block Expedition,Gameplay question,Handheld,5.20,10.50,5.00
+S01371,Cobalt Clash,Crash,Console,3.70,66.20,2.30
+S01372,Star Tactics,Gameplay question,PC,3.20,11.40,4.00
+S01373,River Rescue,Account access,PC,3.80,8.60,4.70
+S01374,Ocean Architect,Performance,Handheld,5.40,37.40,3.80
+S01375,Turbo Tracks,Performance,Handheld,3.00,36.50,3.40
+S01376,Echo Quest,Payment query,Handheld,3.30,8.90,4.50
+S01377,Forest Trails,Payment query,PC,2.00,23.10,3.60
+S01378,Orbit Quest,Payment query,Handheld,3.30,19.20,3.80
+S01379,Garden Worlds,Payment query,Handheld,4.00,18.30,5.00
+S01380,Echo Quest,Account access,PC,2.50,5.70,4.20
+S01381,Crystal Run,Performance,Handheld,6.30,39.00,2.50
+S01382,Skybound,Payment query,Handheld,6.30,18.30,3.60
+S01383,Castle Forge,Account access,Console,4.50,11.90,4.10
+S01384,Deep Space,Payment query,Handheld,1.70,21.30,3.60
+S01385,Moon Valley,Crash,PC,1.90,52.30,2.90
+S01386,Garden Worlds,Performance,PC,7.00,50.60,2.80
+S01387,Crystal Run,Payment query,PC,3.80,18.30,3.50
+S01388,Rune Roads,Gameplay question,Console,0.80,6.60,5.00
+S01389,Block Expedition,Account access,PC,6.30,10.00,4.60
+S01390,Orbit Quest,Account access,Console,7.50,16.30,3.50
+S01391,Orbit Quest,Payment query,Handheld,8.20,15.20,3.30
+S01392,Turbo Tracks,Performance,PC,1.80,23.10,2.90
+S01393,Rune Roads,Crash,PC,7.10,28.00,3.40
+S01394,Harbour Builder,Account access,PC,1.80,10.70,5.00
+S01395,Castle Forge,Account access,PC,9.50,17.50,4.30
+S01396,Forest Trails,Account access,PC,1.80,5.80,4.00
+S01397,Star Tactics,Gameplay question,Console,1.10,7.70,5.00
+S01398,Crystal Run,Payment query,Handheld,3.80,15.20,3.50
+S01399,Block Expedition,Performance,Handheld,5.40,44.80,4.20
+S01400,Neon Circuit,Crash,Console,3.70,86.30,1.80
+S01401,Neon Circuit,Crash,Console,9.80,48.00,3.50
+S01402,Ocean Architect,Account access,Handheld,3.60,6.80,5.00
+S01403,Marble Maze,Crash,PC,1.00,58.50,2.50
+S01404,Deep Space,Account access,Console,5.70,17.80,3.30
+S01405,Forest Trails,Crash,PC,7.60,33.90,3.70
+S01406,Orbit Quest,Payment query,PC,7.60,25.00,3.30
+S01407,Orbit Quest,Performance,PC,1.40,41.30,3.30
+S01408,Garden Worlds,Crash,Console,2.30,40.40,3.40
+S01409,Block Expedition,Account access,Handheld,7.00,12.20,5.00
+S01410,Harbour Builder,Account access,Console,6.00,13.70,4.70
+S01411,Star Tactics,Payment query,PC,6.80,12.40,5.00
+S01412,Puzzle Grove,Performance,PC,7.40,32.00,3.10
+S01413,Deep Space,Crash,PC,3.30,52.60,2.90
+S01414,Iron Arena,Performance,Console,0.50,46.60,3.50
+S01415,Pixel Rally,Gameplay question,Handheld,1.80,7.60,4.20
+S01416,Harbour Builder,Gameplay question,Handheld,4.50,17.90,3.60
+S01417,Garden Worlds,Gameplay question,Console,1.10,10.00,4.80
+S01418,Block Expedition,Account access,PC,9.60,20.10,3.80
+S01419,Harbour Builder,Account access,PC,1.60,6.00,4.40
+S01420,Iron Arena,Gameplay question,Handheld,3.20,10.90,4.80
+S01421,Cobalt Clash,Payment query,Handheld,7.00,20.70,4.70
+S01422,Echo Quest,Payment query,Handheld,6.10,18.70,4.50
+S01423,Echo Quest,Performance,Handheld,5.70,25.00,4.40
+S01424,Iron Arena,Crash,Console,1.80,34.30,3.80
+S01425,Harbour Builder,Gameplay question,Console,2.00,4.90,4.60
+S01426,Cobalt Clash,Account access,Handheld,6.40,18.00,3.90
+S01427,Puzzle Grove,Payment query,PC,3.90,9.50,5.00
+S01428,Rune Roads,Crash,PC,4.20,46.90,2.20
+S01429,Castle Forge,Gameplay question,PC,5.20,7.60,4.50
+S01430,Turbo Tracks,Payment query,Handheld,7.50,22.00,4.10
+S01431,Ocean Architect,Crash,PC,3.00,27.20,4.30
+S01432,Turbo Tracks,Gameplay question,Handheld,2.20,10.20,4.60
+S01433,Cobalt Clash,Performance,Console,9.30,31.90,3.70
+S01434,Harbour Builder,Account access,PC,7.70,14.80,3.70
+S01435,Castle Forge,Account access,Console,8.30,15.80,4.90
+S01436,Pixel Rally,Performance,PC,8.30,46.10,2.20
+S01437,Star Tactics,Performance,PC,0.70,34.00,4.10
+S01438,Marble Maze,Account access,PC,7.60,15.40,4.70
+S01439,Cobalt Clash,Account access,PC,7.30,16.90,4.20
+S01440,Forest Trails,Gameplay question,Console,0.80,11.20,5.00
+S01441,Deep Space,Crash,PC,3.70,61.80,2.90
+S01442,Moon Valley,Performance,Handheld,3.80,35.50,3.80
+S01443,Harbour Builder,Account access,Handheld,7.70,10.90,4.70
+S01444,Iron Arena,Performance,Handheld,2.70,20.30,3.90
+S01445,Puzzle Grove,Crash,PC,0.70,16.70,4.50
+S01446,Star Tactics,Crash,Handheld,9.90,37.20,3.40
+S01447,Turbo Tracks,Crash,PC,4.40,56.40,3.10
+S01448,Block Expedition,Account access,PC,3.90,12.30,3.70
+S01449,Cloud City,Performance,PC,7.90,30.50,3.60
+S01450,Pixel Rally,Performance,Handheld,3.80,25.80,3.50
+S01451,Echo Quest,Account access,Console,9.60,19.30,4.50
+S01452,Puzzle Grove,Performance,Handheld,7.80,47.50,3.30
+S01453,Cloud City,Payment query,Console,7.70,18.10,3.70
+S01454,Cloud City,Performance,Console,6.40,39.60,3.10
+S01455,Sunset Sprint,Account access,Console,0.70,5.60,4.80
+S01456,Skybound,Gameplay question,Handheld,7.10,17.30,4.10
+S01457,Sunset Sprint,Account access,Handheld,6.30,9.50,4.00
+S01458,Marble Maze,Crash,PC,8.30,39.90,3.50
+S01459,Puzzle Grove,Payment query,Console,7.70,17.20,3.90
+S01460,Star Tactics,Account access,PC,8.90,25.40,3.90
+S01461,Iron Arena,Performance,Handheld,6.40,50.80,2.00
+S01462,Star Tactics,Gameplay question,Handheld,2.40,5.10,4.30
+S01463,Pixel Rally,Performance,Console,2.30,20.80,4.40
+S01464,Turbo Tracks,Performance,PC,4.50,51.90,3.30
+S01465,Puzzle Grove,Crash,PC,6.90,45.10,3.20
+S01466,Sunset Sprint,Performance,PC,7.10,43.30,3.50
+S01467,Rune Roads,Payment query,Handheld,1.30,18.30,4.20
+S01468,Pixel Rally,Gameplay question,Handheld,4.70,12.10,3.70
+S01469,Ocean Architect,Performance,PC,8.00,29.10,4.00
+S01470,Turbo Tracks,Gameplay question,Handheld,1.00,6.00,4.40
+S01471,Rune Roads,Performance,PC,6.10,18.20,4.30
+S01472,Garden Worlds,Account access,Console,8.80,12.00,4.50
+S01473,Turbo Tracks,Crash,PC,1.90,17.90,4.10
+S01474,Cloud City,Gameplay question,PC,2.00,6.70,4.40
+S01475,Marble Maze,Account access,Handheld,8.90,16.10,4.50
+S01476,Puzzle Grove,Account access,Console,4.40,11.90,4.90
+S01477,Castle Forge,Account access,PC,0.60,3.80,4.90
+S01478,Pixel Rally,Gameplay question,Console,5.60,11.00,4.90
+S01479,Star Tactics,Payment query,PC,4.20,17.90,3.80
+S01480,Garden Worlds,Payment query,Console,0.60,6.20,4.40
+S01481,River Rescue,Account access,PC,8.20,15.80,4.10
+S01482,Forest Trails,Payment query,Console,0.60,22.50,3.60
+S01483,Echo Quest,Gameplay question,Console,8.40,10.80,4.70
+S01484,Orbit Quest,Crash,Console,4.20,58.10,3.30
+S01485,Iron Arena,Crash,Handheld,7.70,53.40,3.20
+S01486,River Rescue,Account access,PC,5.20,12.00,4.00
+S01487,Puzzle Grove,Gameplay question,Handheld,9.20,17.00,3.30
+S01488,Rune Roads,Performance,Handheld,5.90,24.20,4.50
+S01489,Echo Quest,Payment query,Console,2.90,14.50,4.30
+S01490,Rune Roads,Crash,Handheld,1.90,17.90,4.20
+S01491,Cobalt Clash,Performance,Console,2.60,23.40,2.80
+S01492,Iron Arena,Performance,PC,9.40,29.00,4.20
+S01493,Echo Quest,Performance,Console,6.10,32.20,4.40
+S01494,Sunset Sprint,Payment query,Console,4.50,11.90,3.70
+S01495,Deep Space,Crash,Handheld,3.80,27.60,3.50
+S01496,Cloud City,Account access,Handheld,8.30,16.50,4.40
+S01497,Iron Arena,Payment query,Handheld,9.20,20.30,3.70
+S01498,Deep Space,Payment query,Console,7.40,19.40,4.20
+S01499,Sunset Sprint,Gameplay question,Console,8.50,12.50,4.20
+S01500,Echo Quest,Crash,Console,3.90,30.20,4.30
+S01501,Rune Roads,Performance,Handheld,4.40,39.30,3.50
+S01502,Rune Roads,Performance,Handheld,3.90,40.00,3.00
+S01503,Puzzle Grove,Crash,PC,2.60,27.80,3.90
+S01504,Moon Valley,Account access,PC,6.90,19.20,4.60
+S01505,Pixel Rally,Payment query,Handheld,9.10,14.70,3.80
+S01506,Castle Forge,Payment query,Console,2.20,27.80,3.20
+S01507,Star Tactics,Crash,Console,9.60,45.60,4.10
+S01508,Garden Worlds,Crash,Console,6.60,58.50,2.00
+S01509,Puzzle Grove,Gameplay question,PC,0.80,3.20,3.90
+S01510,Sunset Sprint,Payment query,PC,1.90,22.90,4.00
+S01511,Garden Worlds,Account access,PC,9.90,14.70,4.00
+S01512,Neon Circuit,Gameplay question,Console,4.20,9.40,5.00
+S01513,Turbo Tracks,Payment query,Handheld,5.90,11.50,4.20
+S01514,Neon Circuit,Account access,Handheld,6.00,19.00,5.00
+S01515,Deep Space,Gameplay question,Handheld,3.40,11.10,4.30
+S01516,Iron Arena,Account access,Handheld,0.90,9.20,3.90
+S01517,Puzzle Grove,Payment query,PC,1.30,13.30,4.80
+S01518,Harbour Builder,Gameplay question,Console,7.80,10.20,4.50
+S01519,Deep Space,Payment query,PC,6.60,31.00,2.60
+S01520,Ocean Architect,Account access,Handheld,6.20,9.60,4.90
+S01521,Pixel Rally,Account access,Console,6.20,15.10,3.80
+S01522,Neon Circuit,Crash,PC,1.20,29.50,4.80
+S01523,River Rescue,Gameplay question,Console,9.60,19.20,3.90
+S01524,Skybound,Payment query,PC,3.80,13.50,4.30
+S01525,Star Tactics,Gameplay question,PC,7.20,9.60,4.10
+S01526,Ocean Architect,Gameplay question,Console,9.20,12.20,5.00
+S01527,Crystal Run,Gameplay question,Handheld,5.30,13.90,4.10
+S01528,Star Tactics,Performance,PC,2.20,15.70,3.90
+S01529,Garden Worlds,Performance,Console,1.70,26.30,3.50
+S01530,Moon Valley,Crash,PC,0.90,59.60,3.60
+S01531,Deep Space,Payment query,PC,5.90,17.70,4.00
+S01532,Block Expedition,Crash,Console,2.20,62.00,2.00
+S01533,Echo Quest,Gameplay question,PC,9.00,18.50,4.40
+S01534,River Rescue,Performance,PC,8.80,31.00,3.30
+S01535,Garden Worlds,Gameplay question,Handheld,2.80,10.20,4.50
+S01536,Forest Trails,Gameplay question,Handheld,5.20,11.50,4.80
+S01537,Skybound,Crash,Handheld,0.70,49.50,2.40
+S01538,Moon Valley,Gameplay question,PC,2.40,8.60,3.60
+S01539,Neon Circuit,Crash,Handheld,7.80,52.40,3.00
+S01540,Turbo Tracks,Account access,Console,4.10,16.40,4.10
+S01541,Deep Space,Account access,Handheld,0.90,12.90,4.50
+S01542,Castle Forge,Crash,PC,4.70,55.80,3.00
+S01543,Rune Roads,Performance,Handheld,8.40,36.10,3.80
+S01544,Block Expedition,Payment query,Console,3.80,9.40,4.10
+S01545,Castle Forge,Account access,Console,9.20,16.00,4.40
+S01546,Iron Arena,Performance,PC,9.40,40.60,3.40
+S01547,Orbit Quest,Gameplay question,Handheld,1.40,6.70,5.00
+S01548,Pixel Rally,Performance,Handheld,7.60,32.60,3.20
+S01549,Ocean Architect,Gameplay question,PC,4.50,8.00,4.70
+S01550,Marble Maze,Gameplay question,PC,1.60,6.80,5.00
+S01551,Echo Quest,Payment query,Handheld,2.80,20.40,4.30
+S01552,Neon Circuit,Account access,Console,8.10,11.30,3.80
+S01553,Echo Quest,Account access,Handheld,5.10,14.10,4.50
+S01554,Moon Valley,Gameplay question,PC,4.80,7.20,4.80
+S01555,Star Tactics,Performance,Console,2.80,50.30,4.50
+S01556,Cobalt Clash,Account access,Handheld,9.20,18.90,4.40
+S01557,Harbour Builder,Payment query,Console,2.80,22.40,4.30
+S01558,Orbit Quest,Gameplay question,Console,5.40,9.40,4.50
+S01559,River Rescue,Account access,Console,2.70,12.40,5.00
+S01560,Turbo Tracks,Account access,PC,9.50,20.40,4.40
+S01561,Turbo Tracks,Crash,PC,5.50,21.50,4.50
+S01562,Cloud City,Payment query,Handheld,4.00,13.50,4.70
+S01563,Skybound,Account access,PC,9.40,18.40,4.20
+S01564,Rune Roads,Performance,Handheld,5.00,16.20,4.00
+S01565,Turbo Tracks,Crash,PC,4.00,54.90,3.10
+S01566,Star Tactics,Crash,PC,4.00,46.60,3.00
+S01567,Cloud City,Gameplay question,Console,7.70,17.50,3.00
+S01568,Garden Worlds,Payment query,PC,9.30,14.90,4.00
+S01569,Block Expedition,Account access,PC,4.90,18.20,4.80
+S01570,Ocean Architect,Crash,Console,1.60,41.50,5.00
+S01571,Castle Forge,Account access,PC,5.10,18.40,3.90
+S01572,Garden Worlds,Gameplay question,Handheld,8.10,14.90,4.10
+S01573,Castle Forge,Gameplay question,Handheld,3.10,8.90,3.70
+S01574,Ocean Architect,Account access,Console,7.90,16.00,4.00
+S01575,River Rescue,Gameplay question,Handheld,7.80,12.70,4.80
+S01576,Cobalt Clash,Crash,Console,0.50,26.60,3.80
+S01577,Moon Valley,Performance,Handheld,5.80,31.60,3.70
+S01578,Iron Arena,Gameplay question,PC,7.50,13.50,4.50
+S01579,River Rescue,Payment query,PC,7.00,22.40,5.00
+S01580,Cobalt Clash,Payment query,Console,4.10,29.80,4.00
+S01581,Ocean Architect,Crash,Handheld,6.00,54.60,1.30
+S01582,Crystal Run,Crash,Handheld,3.70,59.20,2.00
+S01583,Marble Maze,Crash,Handheld,2.00,33.80,3.80
+S01584,Echo Quest,Account access,PC,1.30,6.00,5.00
+S01585,Sunset Sprint,Account access,PC,6.10,11.00,4.10
+S01586,Puzzle Grove,Payment query,Handheld,2.40,24.00,4.40
+S01587,Crystal Run,Payment query,Handheld,3.10,10.30,5.00
+S01588,Deep Space,Payment query,Handheld,2.10,13.50,3.90
+S01589,Moon Valley,Crash,PC,7.60,41.60,2.30
+S01590,Castle Forge,Gameplay question,Handheld,7.30,13.30,4.70
+S01591,Marble Maze,Account access,PC,1.40,4.60,4.60
+S01592,Iron Arena,Crash,Handheld,2.10,61.10,2.40
+S01593,Cloud City,Performance,PC,7.80,21.20,3.90
+S01594,Echo Quest,Gameplay question,Console,5.60,12.20,4.00
+S01595,Sunset Sprint,Payment query,PC,7.20,27.70,4.20
+S01596,Star Tactics,Account access,Handheld,0.90,11.80,4.60
+S01597,Marble Maze,Performance,Handheld,0.60,11.80,4.60
+S01598,Block Expedition,Account access,Handheld,5.70,14.10,4.20
+S01599,Moon Valley,Crash,Console,3.00,43.90,3.60
+S01600,Sunset Sprint,Performance,Handheld,6.70,32.10,5.00
+S01601,Deep Space,Gameplay question,Handheld,1.40,8.80,3.80
+S01602,Neon Circuit,Account access,Console,4.20,10.40,4.10
+S01603,Deep Space,Payment query,PC,6.10,16.60,4.10
+S01604,Deep Space,Gameplay question,PC,9.70,15.60,4.00
+S01605,Forest Trails,Payment query,Handheld,4.30,18.60,4.40
+S01606,Orbit Quest,Crash,Handheld,6.30,79.50,1.70
+S01607,Cloud City,Gameplay question,PC,7.90,14.40,4.30
+S01608,Puzzle Grove,Gameplay question,Console,3.00,8.30,5.00
+S01609,Puzzle Grove,Crash,Handheld,9.50,40.70,3.50
+S01610,Crystal Run,Performance,Handheld,3.20,30.60,3.90
+S01611,Ocean Architect,Account access,Handheld,2.30,11.50,4.50
+S01612,Garden Worlds,Performance,PC,4.30,30.20,4.20
+S01613,Marble Maze,Performance,Handheld,3.90,30.10,4.20
+S01614,Iron Arena,Payment query,PC,1.30,18.60,4.10
+S01615,River Rescue,Account access,PC,7.50,11.40,3.50
+S01616,Moon Valley,Account access,Console,9.60,14.10,4.10
+S01617,Skybound,Performance,PC,7.60,36.00,3.70
+S01618,Sunset Sprint,Account access,Console,6.10,11.30,4.00
+S01619,Skybound,Payment query,PC,4.30,11.40,4.10
+S01620,Garden Worlds,Account access,Handheld,6.70,14.70,3.60
+S01621,Crystal Run,Performance,Handheld,2.00,23.30,3.60
+S01622,Castle Forge,Account access,Handheld,6.50,13.70,4.90
+S01623,Puzzle Grove,Account access,Handheld,8.50,18.00,3.80
+S01624,Block Expedition,Account access,Console,2.10,13.40,4.20
+S01625,Orbit Quest,Payment query,PC,8.90,21.80,4.30
+S01626,Turbo Tracks,Account access,PC,6.30,17.60,3.70
+S01627,Echo Quest,Performance,PC,3.10,47.80,3.80
+S01628,Orbit Quest,Account access,PC,2.80,7.50,3.40
+S01629,Rune Roads,Account access,Handheld,2.10,10.40,4.60
+S01630,Castle Forge,Account access,Handheld,2.40,10.30,4.60
+S01631,Garden Worlds,Account access,PC,9.10,14.50,4.10
+S01632,Block Expedition,Gameplay question,PC,5.90,8.30,4.80
+S01633,Cloud City,Performance,Console,2.00,35.60,3.30
+S01634,River Rescue,Account access,PC,5.60,16.40,5.00
+S01635,Cobalt Clash,Crash,Console,1.90,34.70,3.80
+S01636,Pixel Rally,Account access,PC,9.30,14.20,4.20
+S01637,Cloud City,Account access,PC,5.30,13.10,3.90
+S01638,Skybound,Account access,PC,0.80,13.20,4.90
+S01639,Crystal Run,Performance,PC,3.80,23.00,4.20
+S01640,Star Tactics,Account access,Console,3.90,12.40,5.00
+S01641,Garden Worlds,Account access,Console,1.80,10.20,4.50
+S01642,Rune Roads,Payment query,PC,5.40,34.20,3.80
+S01643,Ocean Architect,Crash,Console,8.40,32.80,3.00
+S01644,Marble Maze,Crash,Console,8.40,29.50,4.10
+S01645,Rune Roads,Account access,Handheld,4.70,15.30,2.80
+S01646,Forest Trails,Gameplay question,PC,5.70,10.50,4.90
+S01647,Harbour Builder,Performance,Console,1.00,36.10,3.40
+S01648,Orbit Quest,Account access,PC,7.60,10.80,4.90
+S01649,Block Expedition,Account access,Handheld,6.90,14.90,4.10
+S01650,Forest Trails,Crash,PC,2.10,41.40,3.50
+S01651,Echo Quest,Crash,PC,5.70,60.90,1.30
+S01652,Garden Worlds,Gameplay question,Console,2.80,7.60,5.00
+S01653,River Rescue,Crash,Handheld,2.90,48.70,1.90
+S01654,Cobalt Clash,Gameplay question,Console,2.80,12.30,4.20
+S01655,Pixel Rally,Crash,Console,9.20,55.60,2.80
+S01656,Ocean Architect,Account access,Console,7.20,16.80,4.40
+S01657,Castle Forge,Gameplay question,PC,6.40,9.20,5.00
+S01658,Cobalt Clash,Account access,PC,2.80,8.30,5.00
+S01659,Ocean Architect,Performance,Console,2.70,41.30,4.40
+S01660,Puzzle Grove,Performance,PC,3.60,17.10,4.10
+S01661,Skybound,Performance,PC,5.60,16.80,3.70
+S01662,Sunset Sprint,Performance,PC,6.70,35.70,4.00
+S01663,Deep Space,Payment query,Console,2.30,20.20,5.00
+S01664,Echo Quest,Payment query,PC,6.50,23.70,3.80
+S01665,Puzzle Grove,Gameplay question,Console,9.40,17.90,3.60
+S01666,Forest Trails,Performance,Console,6.40,32.20,3.20
+S01667,Iron Arena,Crash,Handheld,5.90,53.00,2.50
+S01668,Cobalt Clash,Performance,PC,6.50,48.90,4.00
+S01669,Rune Roads,Gameplay question,Console,6.10,9.50,4.20
+S01670,Echo Quest,Performance,Handheld,9.30,33.80,3.10
+S01671,Pixel Rally,Gameplay question,Handheld,9.40,17.00,3.60
+S01672,Harbour Builder,Gameplay question,PC,6.60,12.90,3.70
+S01673,Star Tactics,Gameplay question,Handheld,8.70,15.00,4.80
+S01674,Forest Trails,Crash,PC,8.00,39.70,2.60
+S01675,Turbo Tracks,Gameplay question,Console,9.80,14.00,4.10
+S01676,Harbour Builder,Gameplay question,PC,0.60,6.60,4.30
+S01677,Skybound,Payment query,PC,2.40,14.20,3.50
+S01678,Forest Trails,Crash,Console,1.20,32.40,3.30
+S01679,Garden Worlds,Payment query,Console,5.80,19.60,3.90
+S01680,Forest Trails,Account access,Handheld,7.70,18.60,4.40
+S01681,Star Tactics,Performance,Console,9.00,21.10,4.30
+S01682,Skybound,Gameplay question,Handheld,7.40,16.00,4.20
+S01683,Neon Circuit,Account access,Console,9.00,12.20,4.00
+S01684,Cobalt Clash,Performance,Console,4.20,43.20,2.40
+S01685,Forest Trails,Gameplay question,PC,7.10,12.60,4.70
+S01686,Cloud City,Performance,PC,7.40,21.50,3.90
+S01687,Pixel Rally,Gameplay question,Handheld,6.40,11.50,5.00
+S01688,Cobalt Clash,Crash,PC,9.80,25.80,3.60
+S01689,Cobalt Clash,Crash,Console,3.10,76.20,2.00
+S01690,Ocean Architect,Performance,Console,3.00,32.40,3.40
+S01691,Deep Space,Account access,Console,10.00,17.70,4.50
+S01692,Orbit Quest,Crash,Handheld,9.30,70.70,2.20
+S01693,Crystal Run,Account access,Handheld,6.90,15.90,3.80
+S01694,Rune Roads,Performance,Handheld,7.90,47.00,3.40
+S01695,Marble Maze,Crash,Console,6.50,49.20,2.50
+S01696,Turbo Tracks,Payment query,Console,4.80,27.10,3.70
+S01697,Turbo Tracks,Account access,PC,4.50,11.70,4.10
+S01698,River Rescue,Gameplay question,PC,3.10,9.10,4.90
+S01699,Puzzle Grove,Performance,PC,1.80,36.20,4.20
+S01700,Forest Trails,Payment query,Handheld,8.00,36.00,3.40
+S01701,Cloud City,Gameplay question,Console,0.70,3.10,4.40
+S01702,Castle Forge,Crash,Console,3.00,66.20,2.00
+S01703,Star Tactics,Gameplay question,Console,7.00,11.20,4.60
+S01704,Moon Valley,Crash,Console,2.30,36.00,3.90
+S01705,Star Tactics,Account access,PC,9.20,15.20,4.40
+S01706,Marble Maze,Payment query,PC,2.20,7.80,4.50
+S01707,Sunset Sprint,Account access,PC,9.20,15.80,5.00
+S01708,Ocean Architect,Payment query,PC,2.70,12.80,4.50
+S01709,Garden Worlds,Account access,Handheld,5.20,12.50,2.50
+S01710,Rune Roads,Crash,PC,1.30,40.60,2.60
+S01711,Rune Roads,Gameplay question,Handheld,9.40,15.80,4.30
+S01712,Block Expedition,Payment query,Console,2.40,12.70,3.80
+S01713,Forest Trails,Account access,PC,10.00,23.70,4.20
+S01714,Forest Trails,Payment query,PC,6.10,18.20,4.00
+S01715,Orbit Quest,Performance,Console,0.80,21.00,4.50
+S01716,Garden Worlds,Account access,Handheld,3.00,19.20,4.40
+S01717,Forest Trails,Gameplay question,Handheld,6.80,9.70,4.80
+S01718,Puzzle Grove,Crash,Handheld,5.10,21.10,4.10
+S01719,Harbour Builder,Payment query,Console,4.70,20.00,3.20
+S01720,Deep Space,Gameplay question,Console,6.90,13.00,4.20
+S01721,Pixel Rally,Account access,Console,8.60,17.90,5.00
+S01722,Marble Maze,Gameplay question,PC,4.50,11.00,4.30
+S01723,Deep Space,Gameplay question,Handheld,6.20,15.50,4.30
+S01724,Rune Roads,Gameplay question,PC,3.30,9.50,4.10
+S01725,Iron Arena,Payment query,Console,9.90,25.60,3.90
+S01726,Neon Circuit,Account access,Console,8.30,12.70,5.00
+S01727,Cobalt Clash,Account access,PC,1.00,4.20,4.30
+S01728,Neon Circuit,Payment query,Handheld,6.80,18.20,4.10
+S01729,Echo Quest,Gameplay question,Handheld,9.90,12.30,4.60
+S01730,Block Expedition,Payment query,Console,1.30,17.20,4.10
+S01731,Echo Quest,Performance,PC,5.90,44.00,3.00
+S01732,Pixel Rally,Account access,PC,1.90,12.20,4.70
+S01733,Deep Space,Gameplay question,Console,9.80,14.70,4.30
+S01734,Crystal Run,Payment query,PC,2.80,8.40,4.70
+S01735,Rune Roads,Crash,Console,9.60,30.10,2.90
+S01736,Turbo Tracks,Account access,PC,8.70,15.20,4.10
+S01737,Castle Forge,Performance,PC,8.10,44.60,3.40
+S01738,Turbo Tracks,Payment query,Console,7.80,17.30,4.30
+S01739,Echo Quest,Gameplay question,Handheld,6.60,12.50,4.60
+S01740,Pixel Rally,Gameplay question,Handheld,4.40,8.00,4.50
+S01741,Deep Space,Gameplay question,Console,3.90,14.60,4.50
+S01742,Cloud City,Crash,Handheld,3.10,26.00,4.60
+S01743,Skybound,Performance,Console,9.80,51.70,2.10
+S01744,Cloud City,Performance,Handheld,6.80,18.00,4.20
+S01745,Block Expedition,Account access,Handheld,4.10,11.60,5.00
+S01746,Marble Maze,Crash,PC,2.50,52.60,2.00
+S01747,Garden Worlds,Payment query,PC,4.50,17.70,5.00
+S01748,Crystal Run,Payment query,Console,9.80,15.40,4.80
+S01749,Puzzle Grove,Crash,Handheld,5.90,41.70,4.50
+S01750,Block Expedition,Gameplay question,Handheld,3.10,12.30,4.60
+S01751,Cobalt Clash,Crash,Console,0.70,16.70,4.30
+S01752,Cloud City,Account access,PC,3.30,11.40,4.80
+S01753,Ocean Architect,Crash,Handheld,3.60,70.20,2.00
+S01754,Star Tactics,Performance,Console,7.00,55.30,2.70
+S01755,Iron Arena,Payment query,Console,3.50,24.70,3.10
+S01756,Echo Quest,Crash,Handheld,1.30,37.50,3.10
+S01757,River Rescue,Payment query,PC,7.00,20.30,4.20
+S01758,Neon Circuit,Gameplay question,PC,9.90,12.30,4.60
+S01759,Neon Circuit,Performance,Handheld,8.90,50.40,2.60
+S01760,Block Expedition,Account access,Console,0.50,9.50,4.00
+S01761,Deep Space,Performance,Handheld,6.30,17.50,4.10
+S01762,Neon Circuit,Gameplay question,PC,1.60,4.00,5.00
+S01763,Sunset Sprint,Performance,Console,7.00,26.20,5.00
+S01764,Moon Valley,Gameplay question,PC,4.80,15.10,4.30
+S01765,Block Expedition,Payment query,Console,2.20,12.60,5.00
+S01766,Garden Worlds,Gameplay question,Handheld,3.90,9.00,4.40
+S01767,Harbour Builder,Performance,PC,9.00,30.00,3.90
+S01768,Turbo Tracks,Account access,Handheld,3.20,10.20,4.70
+S01769,Deep Space,Gameplay question,Console,7.50,15.00,4.40
+S01770,Star Tactics,Account access,Handheld,8.80,14.20,3.40
+S01771,Turbo Tracks,Payment query,Handheld,2.10,20.00,3.80
+S01772,Echo Quest,Account access,Handheld,6.10,15.00,5.00
+S01773,Castle Forge,Gameplay question,PC,3.60,8.20,3.70
+S01774,Deep Space,Account access,PC,5.40,12.30,4.50
+S01775,Puzzle Grove,Payment query,PC,9.00,24.70,3.80
+S01776,Sunset Sprint,Account access,Handheld,6.10,17.50,4.10
+S01777,Ocean Architect,Gameplay question,Console,5.20,13.90,3.80
+S01778,Deep Space,Payment query,Console,5.40,19.70,4.00
+S01779,Sunset Sprint,Performance,PC,6.90,39.10,4.00
+S01780,Puzzle Grove,Payment query,Console,5.20,15.10,4.80
+S01781,Iron Arena,Crash,Handheld,9.00,31.50,4.00
+S01782,Cloud City,Performance,PC,1.20,36.10,4.10
+S01783,Neon Circuit,Payment query,Console,9.80,16.10,5.00
+S01784,Garden Worlds,Payment query,Console,2.30,14.60,5.00
+S01785,Forest Trails,Crash,Handheld,9.90,40.50,2.60
+S01786,Orbit Quest,Performance,PC,2.70,30.00,4.00
+S01787,Skybound,Gameplay question,Console,4.20,9.20,3.50
+S01788,Forest Trails,Account access,Handheld,5.60,11.00,5.00
+S01789,Iron Arena,Payment query,Console,5.50,12.20,4.70
+S01790,Crystal Run,Account access,Handheld,4.60,7.80,4.90
+S01791,Block Expedition,Performance,Console,7.60,49.50,3.20
+S01792,River Rescue,Payment query,Console,9.80,21.40,3.80
+S01793,Puzzle Grove,Performance,Handheld,6.70,19.10,4.50
+S01794,Ocean Architect,Crash,Console,10.00,31.50,3.10
+S01795,Harbour Builder,Crash,PC,3.10,50.50,2.10
+S01796,Garden Worlds,Account access,Handheld,4.40,14.70,3.70
+S01797,Iron Arena,Gameplay question,Console,1.90,12.40,4.50
+S01798,Echo Quest,Payment query,Console,7.30,25.10,3.20
+S01799,Puzzle Grove,Performance,Console,7.20,64.30,2.70
+S01800,Marble Maze,Account access,Console,3.20,17.70,4.30
+S01801,Sunset Sprint,Payment query,Console,6.80,22.00,5.00
+S01802,Neon Circuit,Crash,PC,2.20,61.50,2.00
+S01803,Orbit Quest,Account access,PC,4.70,15.50,5.00
+S01804,Puzzle Grove,Gameplay question,Handheld,2.30,8.50,4.90
+S01805,Garden Worlds,Gameplay question,PC,2.00,10.10,4.50
+S01806,River Rescue,Payment query,Console,6.40,24.80,4.30
+S01807,Cloud City,Crash,Handheld,0.70,29.50,3.30
+S01808,River Rescue,Performance,Handheld,2.90,16.30,3.80
+S01809,Neon Circuit,Performance,Console,9.90,55.60,3.20
+S01810,Cloud City,Account access,PC,7.80,15.40,3.50
+S01811,Pixel Rally,Crash,PC,0.60,42.30,3.50
+S01812,Cloud City,Performance,Handheld,5.00,37.30,3.80
+S01813,Cobalt Clash,Gameplay question,PC,2.20,8.00,5.00
+S01814,Crystal Run,Performance,Handheld,1.60,17.20,5.00
+S01815,Orbit Quest,Gameplay question,PC,2.40,13.10,3.60
+S01816,River Rescue,Gameplay question,Console,9.30,16.80,4.30
+S01817,Rune Roads,Payment query,Console,3.10,14.10,5.00
+S01818,Neon Circuit,Gameplay question,Console,7.00,10.50,4.50
+S01819,River Rescue,Account access,Console,5.10,10.60,4.50
+S01820,Echo Quest,Account access,Handheld,8.90,15.10,4.10
+S01821,Rune Roads,Gameplay question,Console,9.20,12.90,3.60
+S01822,Cobalt Clash,Performance,PC,7.80,46.60,2.20
+S01823,Garden Worlds,Account access,PC,6.10,12.20,4.50
+S01824,Deep Space,Performance,Console,4.10,29.70,3.00
+S01825,Crystal Run,Crash,Console,0.50,37.10,4.60
+S01826,Cobalt Clash,Gameplay question,Console,7.60,14.00,4.60
+S01827,Star Tactics,Performance,Handheld,1.00,31.80,3.70
+S01828,Deep Space,Gameplay question,PC,2.30,4.70,3.60
+S01829,Castle Forge,Performance,Console,9.80,21.60,4.00
+S01830,Cloud City,Performance,Console,5.10,22.50,4.30
+S01831,Cloud City,Performance,Console,5.30,22.60,3.80
+S01832,Star Tactics,Performance,Handheld,7.60,18.80,4.40
+S01833,Orbit Quest,Performance,PC,4.10,36.80,4.00
+S01834,Pixel Rally,Gameplay question,Console,8.30,17.70,4.30
+S01835,Garden Worlds,Gameplay question,Handheld,8.50,16.00,3.40
+S01836,Deep Space,Gameplay question,Handheld,3.70,10.60,4.40
+S01837,Turbo Tracks,Crash,Console,4.30,35.30,3.40
+S01838,Turbo Tracks,Account access,Handheld,3.30,9.70,4.90
+S01839,Cobalt Clash,Gameplay question,Console,8.50,14.50,4.50
+S01840,Deep Space,Account access,Console,1.50,11.10,3.90
+S01841,Marble Maze,Payment query,Console,2.20,7.80,3.80
+S01842,Cobalt Clash,Account access,Console,4.60,14.60,5.00
+S01843,Crystal Run,Account access,PC,4.60,7.90,5.00
+S01844,Harbour Builder,Gameplay question,Console,6.30,17.00,4.00
+S01845,Pixel Rally,Payment query,PC,7.30,30.10,4.00
+S01846,Turbo Tracks,Performance,PC,2.50,24.50,4.30
+S01847,Block Expedition,Gameplay question,PC,2.80,8.60,5.00
+S01848,Forest Trails,Crash,PC,0.50,37.50,3.60
+S01849,Skybound,Performance,Handheld,9.80,40.60,3.60
+S01850,Deep Space,Payment query,Console,1.00,15.40,3.70
+S01851,Puzzle Grove,Performance,PC,2.90,35.80,3.30
+S01852,Harbour Builder,Account access,PC,2.40,13.10,4.30
+S01853,Turbo Tracks,Performance,Console,0.80,33.20,3.00
+S01854,Neon Circuit,Payment query,Handheld,3.20,22.40,3.80
+S01855,Cobalt Clash,Account access,PC,8.20,15.80,3.60
+S01856,Harbour Builder,Account access,Console,3.20,12.90,4.50
+S01857,Ocean Architect,Performance,Console,7.60,47.00,3.80
+S01858,Moon Valley,Payment query,Console,4.40,10.60,4.40
+S01859,Crystal Run,Payment query,Console,9.50,29.90,4.30
+S01860,Orbit Quest,Gameplay question,PC,8.40,15.20,4.10
+S01861,Deep Space,Account access,Console,3.20,11.40,5.00
+S01862,Forest Trails,Crash,PC,1.20,52.70,2.90
+S01863,Forest Trails,Performance,Console,7.90,52.60,3.10
+S01864,Cloud City,Crash,PC,6.50,32.90,3.80
+S01865,Harbour Builder,Account access,Handheld,6.40,10.10,3.80
+S01866,Harbour Builder,Gameplay question,Console,4.50,9.90,3.90
+S01867,Castle Forge,Performance,Handheld,4.60,23.80,3.90
+S01868,Cloud City,Payment query,Console,2.50,23.10,4.50
+S01869,Sunset Sprint,Account access,Console,7.80,18.20,4.40
+S01870,Echo Quest,Payment query,PC,0.90,22.10,3.90
+S01871,Pixel Rally,Payment query,PC,6.60,21.70,4.10
+S01872,Puzzle Grove,Gameplay question,PC,2.90,6.40,5.00
+S01873,Rune Roads,Payment query,PC,2.10,12.20,4.40
+S01874,Block Expedition,Crash,Console,4.50,47.30,3.50
+S01875,Puzzle Grove,Gameplay question,PC,0.80,7.30,4.40
+S01876,Castle Forge,Account access,Console,9.10,18.20,3.90
+S01877,Marble Maze,Performance,Console,4.80,38.50,4.00
+S01878,Marble Maze,Crash,PC,8.50,30.50,4.20
+S01879,Harbour Builder,Payment query,Handheld,3.40,17.30,3.80
+S01880,Skybound,Performance,PC,7.10,18.90,4.50
+S01881,Orbit Quest,Performance,Console,0.80,33.90,4.80
+S01882,Forest Trails,Payment query,Handheld,1.50,20.40,5.00
+S01883,Harbour Builder,Crash,Console,8.50,24.50,3.80
+S01884,Ocean Architect,Crash,Handheld,8.10,53.60,3.40
+S01885,Deep Space,Performance,PC,7.10,33.40,4.60
+S01886,Pixel Rally,Account access,Handheld,6.10,12.10,4.00
+S01887,Cloud City,Performance,Console,9.50,39.40,4.00
+S01888,Moon Valley,Account access,PC,3.30,9.00,4.90
+S01889,Ocean Architect,Gameplay question,Handheld,9.20,12.70,4.20
+S01890,Rune Roads,Crash,Console,5.00,21.00,3.20
+S01891,Pixel Rally,Performance,Console,2.30,40.70,4.00
+S01892,Turbo Tracks,Crash,PC,4.30,46.20,3.70
+S01893,Moon Valley,Account access,PC,4.10,12.50,4.20
+S01894,Crystal Run,Crash,PC,3.20,22.60,4.50
+S01895,Castle Forge,Account access,Handheld,5.30,10.00,4.70
+S01896,Rune Roads,Gameplay question,Handheld,1.10,5.80,4.70
+S01897,Rune Roads,Performance,Handheld,0.90,31.30,3.80
+S01898,Block Expedition,Gameplay question,Handheld,4.80,10.90,4.80
+S01899,Skybound,Gameplay question,Console,0.70,8.20,3.90
+S01900,Cloud City,Account access,Console,4.20,14.40,3.90
+S01901,Marble Maze,Performance,Handheld,1.20,15.60,3.30
+S01902,Star Tactics,Performance,Console,6.10,73.10,2.70
+S01903,Garden Worlds,Performance,PC,5.20,25.80,3.60
+S01904,Sunset Sprint,Gameplay question,Handheld,8.60,14.50,4.80
+S01905,Deep Space,Performance,PC,4.40,29.80,3.50
+S01906,Marble Maze,Performance,Console,4.00,43.40,3.90
+S01907,Cloud City,Performance,PC,5.20,32.60,3.20
+S01908,Skybound,Account access,Console,7.10,17.10,4.10
+S01909,Crystal Run,Account access,PC,2.90,10.80,3.90
+S01910,Rune Roads,Payment query,Console,2.60,14.90,4.40
+S01911,Cobalt Clash,Performance,Handheld,3.70,45.10,3.70
+S01912,River Rescue,Account access,Console,7.40,10.60,4.20
+S01913,Orbit Quest,Crash,PC,0.90,74.00,2.30
+S01914,Pixel Rally,Account access,Console,3.20,8.50,4.40
+S01915,Skybound,Crash,PC,6.30,39.10,3.50
+S01916,Echo Quest,Crash,Handheld,3.90,22.60,5.00
+S01917,Pixel Rally,Payment query,Handheld,9.60,15.20,4.10
+S01918,Moon Valley,Payment query,Handheld,8.80,18.50,3.40
+S01919,Marble Maze,Account access,Console,9.50,20.10,4.40
+S01920,Cloud City,Payment query,Handheld,6.50,18.60,3.70
+S01921,Block Expedition,Performance,PC,4.70,44.90,2.90
+S01922,Pixel Rally,Account access,Handheld,8.90,14.10,3.90
+S01923,Echo Quest,Account access,PC,6.00,13.20,3.90
+S01924,Cloud City,Crash,Handheld,1.10,46.50,3.90
+S01925,Pixel Rally,Performance,Console,6.10,24.80,5.00
+S01926,Harbour Builder,Performance,Handheld,8.50,35.10,2.00
+S01927,Iron Arena,Account access,Handheld,2.40,9.50,4.50
+S01928,Harbour Builder,Payment query,Console,3.10,16.50,3.70
+S01929,Deep Space,Performance,Console,1.70,28.00,3.70
+S01930,Neon Circuit,Gameplay question,PC,6.90,11.70,3.60
+S01931,Pixel Rally,Payment query,Console,7.30,12.90,3.50
+S01932,Iron Arena,Performance,Console,0.90,23.60,3.20
+S01933,Marble Maze,Crash,Handheld,2.00,49.90,3.40
+S01934,Ocean Architect,Performance,PC,7.50,41.10,2.90
+S01935,River Rescue,Account access,Handheld,0.90,5.80,3.90
+S01936,Pixel Rally,Account access,PC,5.40,14.60,4.70
+S01937,Neon Circuit,Payment query,Console,9.90,22.80,3.70
+S01938,Crystal Run,Account access,Handheld,2.40,11.60,4.60
+S01939,Neon Circuit,Payment query,Console,5.60,21.00,3.80
+S01940,Star Tactics,Performance,Handheld,8.80,30.60,3.20
+S01941,Star Tactics,Crash,Console,7.00,45.30,3.40
+S01942,Moon Valley,Performance,Handheld,7.20,32.90,4.20
+S01943,Garden Worlds,Gameplay question,PC,0.90,6.80,4.80
+S01944,Ocean Architect,Payment query,PC,8.80,19.40,4.40
+S01945,Orbit Quest,Account access,PC,1.00,8.80,3.50
+S01946,Iron Arena,Crash,Handheld,4.30,30.70,3.50
+S01947,Echo Quest,Account access,Handheld,1.50,8.40,4.30
+S01948,Turbo Tracks,Payment query,PC,2.30,9.10,4.60
+S01949,River Rescue,Performance,Handheld,2.10,36.20,3.60
+S01950,Castle Forge,Payment query,Handheld,5.70,21.70,3.90
+S01951,Ocean Architect,Crash,PC,6.60,29.90,4.00
+S01952,Star Tactics,Account access,Handheld,4.80,13.60,5.00
+S01953,Skybound,Crash,Console,9.90,57.50,2.40
+S01954,Pixel Rally,Crash,Console,6.30,38.90,2.90
+S01955,Iron Arena,Gameplay question,PC,5.70,14.00,4.90
+S01956,Moon Valley,Account access,PC,0.50,10.30,3.60
+S01957,Skybound,Gameplay question,Handheld,6.20,14.10,4.30
+S01958,Iron Arena,Payment query,Handheld,2.90,19.40,4.30
+S01959,Iron Arena,Crash,Handheld,9.20,56.30,3.20
+S01960,Garden Worlds,Crash,Handheld,6.00,65.40,2.70
+S01961,Garden Worlds,Crash,Console,2.40,57.90,2.10
+S01962,Echo Quest,Payment query,Handheld,8.60,23.30,2.80
+S01963,Marble Maze,Crash,PC,5.70,39.10,3.20
+S01964,Garden Worlds,Gameplay question,PC,7.20,12.80,4.30
+S01965,Harbour Builder,Gameplay question,PC,1.70,8.50,5.00
+S01966,Cobalt Clash,Gameplay question,Handheld,8.30,15.90,3.80
+S01967,Pixel Rally,Account access,PC,0.60,9.50,5.00
+S01968,Crystal Run,Gameplay question,Handheld,9.00,11.80,4.40
+S01969,Castle Forge,Performance,Console,3.10,32.40,4.10
+S01970,Iron Arena,Account access,Handheld,5.00,14.20,4.70
+S01971,Block Expedition,Performance,Console,6.40,36.50,3.40
+S01972,Pixel Rally,Payment query,Handheld,9.40,20.70,4.80
+S01973,Forest Trails,Account access,Handheld,8.60,17.40,4.90
+S01974,Marble Maze,Payment query,Console,3.30,20.30,4.00
+S01975,Puzzle Grove,Crash,Handheld,7.20,26.60,3.30
+S01976,Sunset Sprint,Gameplay question,Handheld,7.30,10.40,4.20
+S01977,Moon Valley,Payment query,Handheld,3.40,17.40,4.00
+S01978,Garden Worlds,Gameplay question,PC,2.80,7.20,4.50
+S01979,Iron Arena,Performance,PC,1.40,40.50,2.80
+S01980,Echo Quest,Account access,PC,4.70,8.30,4.40
+S01981,Pixel Rally,Account access,Handheld,7.20,17.00,4.00
+S01982,Moon Valley,Crash,PC,9.90,83.50,2.80
+S01983,Skybound,Crash,Handheld,9.90,50.90,3.70
+S01984,Ocean Architect,Performance,PC,2.00,27.30,4.90
+S01985,Moon Valley,Performance,PC,8.40,42.90,1.90
+S01986,Forest Trails,Performance,Console,3.20,14.40,3.80
+S01987,Sunset Sprint,Account access,Handheld,9.80,22.30,3.90
+S01988,Forest Trails,Crash,Console,1.50,58.10,2.70
+S01989,Rune Roads,Payment query,Console,0.60,18.10,3.50
+S01990,River Rescue,Performance,PC,0.60,28.00,3.90
+S01991,Forest Trails,Crash,PC,5.10,48.50,1.90
+S01992,Cobalt Clash,Performance,Console,1.00,19.90,4.10
+S01993,Orbit Quest,Payment query,PC,5.30,18.20,4.40
+S01994,Moon Valley,Performance,Console,6.20,19.90,3.40
+S01995,Echo Quest,Account access,Console,8.90,23.10,4.10
+S01996,Deep Space,Payment query,PC,4.30,14.50,3.60
+S01997,Marble Maze,Gameplay question,Handheld,5.80,9.80,4.20
+S01998,Cobalt Clash,Performance,Handheld,7.20,21.30,3.90
+S01999,Block Expedition,Gameplay question,PC,2.20,5.50,5.00
+S02000,Forest Trails,Payment query,Console,4.60,12.90,4.70
+S02001,Forest Trails,Crash,Console,4.00,51.30,2.40
+S02002,Skybound,Performance,Handheld,9.40,30.40,3.40
+S02003,Iron Arena,Account access,PC,9.00,13.80,4.90
+S02004,Puzzle Grove,Account access,Handheld,1.60,14.50,4.70
+S02005,Turbo Tracks,Crash,Handheld,7.50,38.60,4.40
+S02006,Marble Maze,Gameplay question,PC,4.40,12.00,5.00
+S02007,Block Expedition,Gameplay question,PC,8.40,14.50,5.00
+S02008,Puzzle Grove,Crash,Handheld,9.50,70.00,3.60
+S02009,Castle Forge,Performance,PC,5.10,31.90,4.40
+S02010,Cloud City,Gameplay question,PC,1.20,7.10,4.40
+S02011,Cloud City,Performance,Console,6.80,30.50,3.80
+S02012,Harbour Builder,Account access,Console,8.00,17.20,5.00
+S02013,Crystal Run,Payment query,PC,6.40,23.40,4.10
+S02014,Castle Forge,Account access,PC,3.10,7.60,4.20
+S02015,Deep Space,Account access,PC,8.20,15.60,4.50
+S02016,Crystal Run,Account access,PC,8.70,17.70,4.60
+S02017,Skybound,Performance,Console,2.30,31.30,4.00
+S02018,Orbit Quest,Gameplay question,Handheld,4.20,7.50,3.50
+S02019,Moon Valley,Gameplay question,Handheld,7.80,13.20,4.60
+S02020,Marble Maze,Payment query,PC,3.50,12.50,4.20
+S02021,Neon Circuit,Account access,Handheld,1.10,6.10,4.30
+S02022,Ocean Architect,Performance,PC,8.40,37.60,2.50
+S02023,Block Expedition,Gameplay question,Handheld,0.60,6.80,5.00
+S02024,Turbo Tracks,Performance,Handheld,2.30,39.40,3.20
+S02025,Pixel Rally,Payment query,Handheld,5.70,19.10,4.00
+S02026,Turbo Tracks,Gameplay question,Handheld,0.60,3.40,5.00
+S02027,Sunset Sprint,Payment query,Console,2.60,21.10,4.80
+S02028,Marble Maze,Account access,Console,7.00,15.60,5.00
+S02029,Neon Circuit,Gameplay question,PC,7.10,11.50,4.10
+S02030,Moon Valley,Performance,PC,5.60,28.20,3.50
+S02031,Crystal Run,Gameplay question,PC,7.90,10.30,4.40
+S02032,Turbo Tracks,Performance,Handheld,9.20,42.40,3.90
+S02033,Block Expedition,Payment query,Console,0.80,17.40,3.40
+S02034,Marble Maze,Payment query,Handheld,7.90,30.30,2.60
+S02035,Castle Forge,Payment query,Console,6.20,17.00,3.40
+S02036,Ocean Architect,Performance,PC,8.10,19.30,4.00
+S02037,River Rescue,Performance,PC,1.10,24.80,4.60
+S02038,Turbo Tracks,Payment query,Handheld,5.00,27.50,3.30
+S02039,Rune Roads,Performance,PC,6.50,33.60,3.40
+S02040,Rune Roads,Gameplay question,Console,6.10,8.50,4.00
+S02041,Block Expedition,Performance,Console,1.10,37.00,4.10
+S02042,River Rescue,Crash,Console,4.80,40.00,3.60
+S02043,Turbo Tracks,Payment query,Console,7.70,22.90,4.20
+S02044,Star Tactics,Performance,Handheld,0.90,19.90,3.40
+S02045,Castle Forge,Performance,Handheld,5.40,26.70,3.70
+S02046,Skybound,Performance,Console,8.50,20.00,4.90
+S02047,Ocean Architect,Gameplay question,PC,0.60,8.90,4.70
+S02048,Garden Worlds,Payment query,Console,2.80,15.60,3.60
+S02049,Marble Maze,Performance,PC,5.40,37.50,3.30
+S02050,Sunset Sprint,Gameplay question,Console,1.90,6.70,5.00
+S02051,Ocean Architect,Crash,PC,9.60,46.20,3.60
+S02052,Ocean Architect,Crash,PC,5.00,47.70,3.20
+S02053,Crystal Run,Payment query,PC,1.50,13.60,4.70
+S02054,Cobalt Clash,Crash,Handheld,7.70,32.40,3.30
+S02055,Neon Circuit,Crash,PC,5.70,28.00,4.00
+S02056,Crystal Run,Payment query,Handheld,5.00,23.70,4.00
+S02057,Garden Worlds,Payment query,PC,7.20,21.40,3.00
+S02058,Ocean Architect,Performance,Handheld,5.30,38.20,3.10
+S02059,Sunset Sprint,Crash,PC,4.10,57.20,3.60
+S02060,Moon Valley,Performance,Console,4.40,31.40,3.30
+S02061,Skybound,Gameplay question,Console,3.70,6.50,4.80
+S02062,Star Tactics,Account access,Console,0.60,10.00,4.60
+S02063,Deep Space,Crash,Console,6.80,54.10,2.50
+S02064,Ocean Architect,Performance,Handheld,3.00,26.60,3.80
+S02065,Castle Forge,Account access,Console,9.50,16.10,4.60
+S02066,Iron Arena,Crash,Handheld,2.60,33.10,4.00
+S02067,Puzzle Grove,Payment query,Console,2.40,9.50,4.30
+S02068,Forest Trails,Crash,PC,4.30,70.80,2.90
+S02069,Forest Trails,Account access,PC,2.20,15.30,4.40
+S02070,Deep Space,Gameplay question,PC,1.50,3.90,4.30
+S02071,Block Expedition,Account access,Handheld,8.70,20.30,4.20
+S02072,Orbit Quest,Account access,Console,7.60,15.80,4.60
+S02073,Ocean Architect,Performance,PC,0.50,36.90,3.20
+S02074,Star Tactics,Account access,PC,5.30,10.20,4.80
+S02075,Orbit Quest,Account access,Console,5.10,16.60,4.00
+S02076,Pixel Rally,Crash,Handheld,4.80,59.60,2.80
+S02077,Crystal Run,Crash,Handheld,2.60,32.40,3.40
+S02078,Crystal Run,Crash,Handheld,9.70,42.00,2.70
+S02079,Puzzle Grove,Account access,Console,6.10,18.30,4.70
+S02080,Harbour Builder,Account access,Console,7.00,10.20,4.50
+S02081,Pixel Rally,Account access,Handheld,2.20,11.80,4.90
+S02082,Sunset Sprint,Payment query,Handheld,0.80,11.10,5.00
+S02083,Crystal Run,Performance,PC,7.20,36.60,4.00
+S02084,Rune Roads,Performance,Console,2.90,32.30,3.40
+S02085,Crystal Run,Payment query,Console,3.90,18.10,4.80
+S02086,Orbit Quest,Payment query,Console,9.70,16.60,4.50
+S02087,Iron Arena,Account access,Console,8.80,23.60,4.20
+S02088,Forest Trails,Gameplay question,Console,7.50,13.90,4.40
+S02089,Pixel Rally,Crash,PC,4.50,43.50,2.60
+S02090,Rune Roads,Payment query,Handheld,4.20,19.80,4.90
+S02091,Marble Maze,Payment query,PC,2.80,25.00,4.00
+S02092,Block Expedition,Account access,Console,9.70,17.20,4.60
+S02093,Skybound,Account access,PC,9.50,18.80,4.30
+S02094,Sunset Sprint,Account access,PC,2.60,5.80,4.30
+S02095,Pixel Rally,Gameplay question,PC,5.10,10.20,4.20
+S02096,Cobalt Clash,Payment query,Console,2.20,20.30,3.90
+S02097,Star Tactics,Account access,Console,8.70,19.40,4.60
+S02098,Deep Space,Gameplay question,Console,8.60,14.60,4.30
+S02099,Ocean Architect,Crash,Console,6.10,35.50,3.00
+S02100,Moon Valley,Gameplay question,Console,6.70,13.10,5.00
+S02101,Forest Trails,Gameplay question,Console,4.60,7.00,5.00
+S02102,Pixel Rally,Crash,PC,2.60,55.20,2.30
+S02103,Marble Maze,Payment query,PC,2.00,14.20,4.40
+S02104,Skybound,Performance,PC,4.10,54.80,3.50
+S02105,Garden Worlds,Account access,Console,4.00,13.60,3.80
+S02106,Rune Roads,Performance,Console,4.00,42.50,3.60
+S02107,Marble Maze,Payment query,Console,9.00,14.60,4.20
+S02108,Crystal Run,Account access,PC,8.80,17.20,4.80
+S02109,Cloud City,Crash,PC,1.20,49.30,3.60
+S02110,Star Tactics,Account access,PC,6.10,17.60,3.00
+S02111,Rune Roads,Account access,Console,5.30,13.40,3.60
+S02112,Skybound,Crash,PC,9.10,65.10,2.60
+S02113,River Rescue,Performance,Console,2.90,28.50,4.00
+S02114,Deep Space,Performance,Handheld,7.40,23.10,4.60
+S02115,Cloud City,Payment query,Handheld,7.60,20.90,3.80
+S02116,River Rescue,Performance,PC,8.30,40.20,4.00
+S02117,Echo Quest,Performance,PC,6.60,45.20,2.50
+S02118,Echo Quest,Payment query,PC,7.40,19.80,3.60
+S02119,Orbit Quest,Payment query,Console,7.30,14.80,3.60
+S02120,Cloud City,Account access,PC,5.30,9.80,4.30
+S02121,Forest Trails,Performance,Handheld,4.70,39.70,3.80
+S02122,Iron Arena,Account access,PC,8.90,12.70,4.50
+S02123,Garden Worlds,Performance,Console,6.90,39.20,4.20
+S02124,Ocean Architect,Crash,Handheld,2.70,51.00,2.70
+S02125,Forest Trails,Gameplay question,PC,8.40,17.50,4.70
+S02126,Crystal Run,Crash,Handheld,1.40,61.20,2.60
+S02127,Crystal Run,Crash,Handheld,0.80,39.90,3.60
+S02128,Iron Arena,Crash,PC,7.50,41.70,3.70
+S02129,Cobalt Clash,Account access,PC,7.10,19.10,4.50
+S02130,Orbit Quest,Account access,Console,7.60,20.30,3.60
+S02131,Garden Worlds,Gameplay question,Handheld,1.40,5.40,4.50
+S02132,Pixel Rally,Gameplay question,Console,6.50,9.40,4.00
+S02133,Orbit Quest,Performance,PC,9.50,22.40,4.60
+S02134,Block Expedition,Crash,PC,2.20,59.70,2.90
+S02135,Moon Valley,Account access,Console,7.30,10.50,4.30
+S02136,Pixel Rally,Gameplay question,Console,9.90,18.10,3.80
+S02137,Neon Circuit,Gameplay question,PC,3.40,11.80,4.40
+S02138,Pixel Rally,Account access,Console,2.70,11.20,4.80
+S02139,Forest Trails,Crash,Handheld,7.80,50.50,2.70
+S02140,Cloud City,Performance,PC,8.30,37.50,3.30
+S02141,Forest Trails,Performance,PC,2.60,37.20,3.70
+S02142,Garden Worlds,Crash,PC,9.20,47.90,2.80
+S02143,Cobalt Clash,Performance,PC,8.20,29.90,4.10
+S02144,Orbit Quest,Account access,PC,6.50,10.50,4.90
+S02145,Ocean Architect,Account access,PC,7.00,15.40,4.50
+S02146,Orbit Quest,Gameplay question,Handheld,4.00,11.20,4.20
+S02147,Pixel Rally,Performance,Handheld,6.70,36.80,2.70
+S02148,Turbo Tracks,Account access,Handheld,3.10,15.20,4.80
+S02149,Cloud City,Crash,PC,7.20,54.30,2.30
+S02150,Marble Maze,Payment query,Handheld,7.60,21.20,3.40
+S02151,Star Tactics,Gameplay question,PC,4.70,14.40,4.30
+S02152,Pixel Rally,Crash,Console,6.60,57.60,2.50
+S02153,Deep Space,Payment query,Handheld,7.40,27.60,4.00
+S02154,Cloud City,Performance,Handheld,9.40,43.30,3.70
+S02155,Castle Forge,Crash,Console,3.70,41.80,4.00
+S02156,Orbit Quest,Crash,Handheld,7.30,62.40,2.70
+S02157,Block Expedition,Account access,Console,6.30,17.90,3.50
+S02158,Turbo Tracks,Account access,PC,7.50,14.60,4.40
+S02159,Orbit Quest,Account access,PC,7.30,12.90,5.00
+S02160,Star Tactics,Account access,PC,8.90,14.20,4.10
+S02161,Marble Maze,Gameplay question,Console,8.90,18.00,4.80
+S02162,Iron Arena,Payment query,PC,8.60,23.20,4.30
+S02163,Sunset Sprint,Account access,Console,6.40,14.60,4.30
+S02164,Castle Forge,Crash,Handheld,5.90,51.90,3.10
+S02165,Iron Arena,Performance,PC,6.50,17.70,3.40
+S02166,Forest Trails,Account access,Console,8.60,18.10,3.40
+S02167,Skybound,Payment query,Console,9.60,17.40,4.10
+S02168,Garden Worlds,Payment query,Console,9.80,15.40,3.60
+S02169,Star Tactics,Crash,Handheld,8.30,58.00,3.00
+S02170,Rune Roads,Account access,Console,1.60,14.60,4.00
+S02171,Forest Trails,Account access,Console,4.40,7.60,3.90
+S02172,Harbour Builder,Payment query,Handheld,3.70,12.50,4.80
+S02173,Ocean Architect,Gameplay question,Handheld,5.90,12.30,4.40
+S02174,Deep Space,Payment query,PC,1.20,16.70,3.90
+S02175,Block Expedition,Gameplay question,PC,5.30,11.60,4.70
+S02176,Ocean Architect,Payment query,Handheld,2.80,11.60,4.60
+S02177,Rune Roads,Gameplay question,Console,10.00,13.90,5.00
+S02178,Pixel Rally,Account access,Console,8.40,15.80,5.00
+S02179,Forest Trails,Performance,Handheld,7.20,47.60,2.30
+S02180,Rune Roads,Payment query,Handheld,4.10,21.00,3.10
+S02181,Crystal Run,Gameplay question,Console,6.90,9.50,4.80
+S02182,Forest Trails,Crash,PC,6.50,38.90,2.90
+S02183,Iron Arena,Account access,Handheld,2.60,5.80,3.60
+S02184,Moon Valley,Performance,Handheld,4.40,51.50,3.30
+S02185,Forest Trails,Account access,Console,5.30,12.40,4.20
+S02186,Cobalt Clash,Gameplay question,Handheld,1.30,7.80,4.90
+S02187,Neon Circuit,Performance,PC,9.20,52.30,3.30
+S02188,Cloud City,Account access,Console,7.70,13.40,4.00
+S02189,Neon Circuit,Performance,Console,9.50,30.50,3.10
+S02190,Moon Valley,Gameplay question,Handheld,9.50,16.10,3.90
+S02191,Neon Circuit,Payment query,Handheld,9.40,24.60,4.60
+S02192,Neon Circuit,Gameplay question,Handheld,6.90,9.30,5.00
+S02193,Turbo Tracks,Crash,PC,0.60,45.00,3.20
+S02194,Forest Trails,Crash,PC,4.40,66.50,2.70
+S02195,Star Tactics,Payment query,Handheld,2.50,8.10,4.20
+S02196,Cloud City,Crash,Console,8.60,30.60,3.50
+S02197,Rune Roads,Gameplay question,PC,3.30,15.40,5.00
+S02198,Harbour Builder,Crash,PC,10.00,57.60,2.60
+S02199,Rune Roads,Account access,Handheld,6.50,14.50,4.30
+S02200,Ocean Architect,Gameplay question,Handheld,1.50,8.20,5.00
+S02201,Neon Circuit,Payment query,Handheld,2.70,13.70,5.00
+S02202,Block Expedition,Payment query,Console,5.60,23.60,3.30
+S02203,Forest Trails,Performance,Handheld,5.10,37.60,4.00
+S02204,Echo Quest,Crash,Handheld,1.40,67.70,2.30
+S02205,Deep Space,Crash,PC,9.80,45.90,2.90
+S02206,Orbit Quest,Gameplay question,Handheld,7.40,9.80,4.70
+S02207,Garden Worlds,Performance,Handheld,1.50,32.60,3.80
+S02208,Neon Circuit,Performance,Handheld,7.00,41.70,3.70
+S02209,Echo Quest,Performance,Handheld,9.20,42.10,3.50
+S02210,Iron Arena,Crash,Handheld,3.70,36.00,4.00
+S02211,Iron Arena,Performance,Handheld,7.00,53.10,3.90
+S02212,Ocean Architect,Gameplay question,Handheld,5.70,12.30,4.80
+S02213,Forest Trails,Gameplay question,Handheld,0.50,7.80,3.90
+S02214,Iron Arena,Account access,Console,1.80,10.50,4.10
+S02215,Marble Maze,Payment query,Console,1.00,21.00,4.50
+S02216,Garden Worlds,Crash,PC,9.40,37.30,3.90
+S02217,Turbo Tracks,Crash,PC,8.00,39.30,3.50
+S02218,Rune Roads,Crash,Handheld,2.60,26.50,4.40
+S02219,Garden Worlds,Performance,PC,7.20,20.40,4.30
+S02220,Crystal Run,Account access,Console,3.60,14.30,4.60
+S02221,Star Tactics,Performance,PC,1.80,30.90,3.50
+S02222,Pixel Rally,Performance,Handheld,0.90,12.60,4.80
+S02223,Cloud City,Account access,Handheld,6.50,16.40,3.70
+S02224,Iron Arena,Crash,Handheld,9.50,44.30,2.80
+S02225,Sunset Sprint,Payment query,PC,9.60,27.90,3.50
+S02226,Garden Worlds,Account access,Console,2.90,14.50,3.90
+S02227,Harbour Builder,Payment query,Handheld,3.40,9.00,3.90
+S02228,Forest Trails,Account access,PC,2.80,14.70,3.70
+S02229,Rune Roads,Account access,PC,5.70,13.60,4.00
+S02230,Turbo Tracks,Performance,Handheld,9.80,21.10,4.60
+S02231,Echo Quest,Performance,Console,5.40,57.70,3.50
+S02232,Sunset Sprint,Performance,Handheld,2.10,18.90,4.00
+S02233,Marble Maze,Performance,PC,1.10,33.30,4.50
+S02234,Block Expedition,Crash,Console,5.40,25.00,5.00
+S02235,Block Expedition,Crash,PC,6.40,65.10,2.00
+S02236,Rune Roads,Performance,PC,1.00,19.30,5.00
+S02237,Turbo Tracks,Account access,PC,1.50,9.40,4.60
+S02238,Moon Valley,Account access,PC,9.90,15.30,5.00
+S02239,Sunset Sprint,Account access,Console,8.40,13.10,4.70
+S02240,Crystal Run,Crash,Console,6.70,24.90,4.10
+S02241,Moon Valley,Account access,PC,3.80,12.70,3.80
+S02242,Orbit Quest,Account access,PC,0.80,6.50,4.10
+S02243,Turbo Tracks,Performance,PC,9.70,41.60,3.80
+S02244,Skybound,Payment query,Console,1.50,15.20,3.70
+S02245,Turbo Tracks,Crash,Handheld,0.90,58.20,2.20
+S02246,Forest Trails,Gameplay question,Handheld,2.30,10.70,5.00
+S02247,Skybound,Crash,Console,3.30,70.00,2.90
+S02248,Castle Forge,Crash,PC,9.90,68.10,2.80
+S02249,Cloud City,Performance,PC,4.00,42.70,3.50
+S02250,Iron Arena,Crash,Console,6.30,37.60,4.50
+S02251,Star Tactics,Crash,Handheld,4.50,54.60,2.90
+S02252,Marble Maze,Gameplay question,Handheld,0.80,12.00,5.00
+S02253,Sunset Sprint,Performance,Console,7.60,24.80,3.60
+S02254,Rune Roads,Account access,Handheld,6.80,19.80,4.90
+S02255,Forest Trails,Performance,Console,6.60,33.00,4.40
+S02256,Rune Roads,Account access,Console,8.60,17.00,3.10
+S02257,River Rescue,Crash,Console,5.00,29.60,4.70
+S02258,Forest Trails,Crash,PC,3.90,22.50,3.90
+S02259,Puzzle Grove,Account access,Handheld,2.60,7.50,5.00
+S02260,Sunset Sprint,Account access,Console,9.00,19.10,3.50
+S02261,Castle Forge,Crash,Handheld,0.50,62.10,2.50
+S02262,Moon Valley,Crash,Console,6.80,33.40,3.70
+S02263,Castle Forge,Crash,Handheld,8.60,60.70,2.60
+S02264,Turbo Tracks,Crash,Console,6.50,45.40,2.60
+S02265,Puzzle Grove,Crash,Console,6.20,39.70,3.20
+S02266,Pixel Rally,Performance,Console,6.90,28.70,4.00
+S02267,Skybound,Performance,Console,9.00,41.80,3.30
+S02268,Rune Roads,Crash,PC,9.10,49.30,2.20
+S02269,Iron Arena,Crash,PC,8.40,44.50,2.60
+S02270,Turbo Tracks,Payment query,PC,1.80,13.80,4.40
+S02271,Castle Forge,Performance,Handheld,2.20,15.60,4.20
+S02272,Block Expedition,Account access,Console,8.80,16.20,3.70
+S02273,Harbour Builder,Account access,PC,4.40,11.30,2.90
+S02274,Star Tactics,Account access,Handheld,7.60,13.70,4.20
+S02275,Block Expedition,Performance,Console,2.00,13.50,3.20
+S02276,Cobalt Clash,Crash,Handheld,2.90,66.80,2.90
+S02277,Ocean Architect,Crash,PC,8.50,33.00,2.80
+S02278,River Rescue,Account access,Console,0.50,5.30,4.80
+S02279,Skybound,Crash,Console,6.80,57.50,2.70
+S02280,River Rescue,Gameplay question,PC,4.70,10.40,4.30
+S02281,Skybound,Account access,Console,8.50,19.60,4.30
+S02282,Forest Trails,Account access,Console,6.60,12.50,3.80
+S02283,Sunset Sprint,Account access,Handheld,2.10,11.40,4.00
+S02284,Cloud City,Crash,Console,6.40,64.30,2.40
+S02285,Star Tactics,Payment query,Console,8.80,16.60,4.10
+S02286,Turbo Tracks,Gameplay question,Handheld,4.90,11.70,4.00
+S02287,Iron Arena,Crash,Console,1.40,73.70,2.70
+S02288,River Rescue,Crash,Console,4.20,48.80,2.90
+S02289,Ocean Architect,Gameplay question,PC,9.20,20.60,5.00
+S02290,Marble Maze,Payment query,PC,5.20,13.00,4.30
+S02291,Moon Valley,Gameplay question,Console,8.70,14.00,3.50
+S02292,Crystal Run,Crash,PC,7.30,45.60,2.90
+S02293,Rune Roads,Account access,Console,4.20,15.70,4.50
+S02294,Block Expedition,Payment query,PC,3.80,24.30,4.50
+S02295,Castle Forge,Crash,Handheld,1.00,47.30,2.00
+S02296,Cloud City,Crash,PC,7.60,74.70,2.10
+S02297,Block Expedition,Gameplay question,Console,1.80,9.70,3.50
+S02298,Block Expedition,Payment query,Handheld,0.90,26.10,3.30
+S02299,Cobalt Clash,Crash,Handheld,3.60,65.40,3.10
+S02300,Neon Circuit,Payment query,Console,5.90,15.60,4.40
+S02301,Cloud City,Performance,PC,2.90,14.10,5.00
+S02302,Marble Maze,Performance,PC,1.70,35.80,3.20
+S02303,Castle Forge,Account access,Handheld,3.90,13.90,5.00
+S02304,Iron Arena,Account access,Handheld,2.70,11.50,4.90
+S02305,Turbo Tracks,Performance,Handheld,9.50,40.00,3.20
+S02306,Castle Forge,Performance,Console,3.40,27.90,4.10
+S02307,Puzzle Grove,Crash,Handheld,8.80,44.50,3.40
+S02308,Rune Roads,Crash,Handheld,8.70,40.30,2.80
+S02309,Block Expedition,Payment query,Console,5.60,22.70,4.10
+S02310,Crystal Run,Performance,Console,9.40,23.40,3.90
+S02311,Harbour Builder,Gameplay question,Console,1.30,3.70,5.00
+S02312,Ocean Architect,Crash,Console,2.70,63.20,2.50
+S02313,Rune Roads,Account access,Console,8.40,14.60,4.20
+S02314,Crystal Run,Account access,Console,1.10,13.20,4.00
+S02315,Orbit Quest,Payment query,Handheld,5.80,25.00,3.00
+S02316,Deep Space,Crash,PC,1.80,60.90,2.70
+S02317,Castle Forge,Payment query,Console,8.40,23.70,4.00
+S02318,Ocean Architect,Gameplay question,PC,8.20,13.30,4.00
+S02319,Sunset Sprint,Crash,Handheld,0.50,28.50,4.10
+S02320,Rune Roads,Performance,Console,9.80,31.10,3.50
+S02321,Skybound,Payment query,Handheld,7.10,20.10,4.00
+S02322,Deep Space,Performance,Handheld,2.10,20.50,4.10
+S02323,Iron Arena,Payment query,Console,7.60,32.70,3.60
+S02324,Cloud City,Account access,Handheld,2.80,12.80,3.80
+S02325,Marble Maze,Crash,Console,4.30,42.50,2.40
+S02326,Castle Forge,Gameplay question,PC,1.10,7.10,4.20
+S02327,Forest Trails,Gameplay question,Console,5.20,10.40,5.00
+S02328,Star Tactics,Gameplay question,Console,4.30,13.30,4.30
+S02329,Skybound,Gameplay question,Handheld,7.50,16.90,5.00
+S02330,Rune Roads,Performance,Console,1.70,24.60,3.90
+S02331,Echo Quest,Account access,PC,3.60,8.50,3.90
+S02332,Iron Arena,Account access,Console,5.70,13.90,2.90
+S02333,Moon Valley,Gameplay question,Console,2.00,5.50,5.00
+S02334,Harbour Builder,Gameplay question,Console,8.90,15.50,5.00
+S02335,Echo Quest,Crash,Console,4.50,68.70,2.30
+S02336,Cobalt Clash,Gameplay question,Console,6.70,9.10,4.80
+S02337,Marble Maze,Account access,Console,1.90,10.60,5.00
+S02338,Sunset Sprint,Crash,Handheld,1.20,37.70,3.70
+S02339,Sunset Sprint,Performance,Console,6.70,39.80,3.70
+S02340,Forest Trails,Account access,Handheld,2.60,8.90,5.00
+S02341,Deep Space,Gameplay question,PC,2.10,5.00,4.00
+S02342,Neon Circuit,Account access,PC,6.90,17.30,3.00
+S02343,Neon Circuit,Crash,PC,3.70,54.50,3.00
+S02344,Pixel Rally,Crash,Console,9.20,80.40,1.70
+S02345,Star Tactics,Crash,Handheld,3.10,58.40,2.60
+S02346,Garden Worlds,Gameplay question,Console,6.60,11.50,4.80
+S02347,Skybound,Payment query,PC,7.00,26.10,4.30
+S02348,Castle Forge,Performance,Handheld,5.50,41.10,4.10
+S02349,Sunset Sprint,Performance,Handheld,5.80,31.10,4.00
+S02350,Neon Circuit,Crash,Handheld,6.80,42.80,3.30
+S02351,Moon Valley,Gameplay question,PC,7.20,12.30,4.00
+S02352,Skybound,Account access,Handheld,8.00,18.60,3.40
+S02353,Orbit Quest,Crash,PC,2.60,43.60,3.50
+S02354,Echo Quest,Gameplay question,Console,9.40,15.90,4.40
+S02355,Cloud City,Account access,Handheld,3.40,8.80,4.40
+S02356,Block Expedition,Gameplay question,Handheld,3.80,12.00,4.30
+S02357,Orbit Quest,Performance,Console,5.20,17.60,4.30
+S02358,Skybound,Performance,Handheld,7.70,32.40,4.40
+S02359,Castle Forge,Account access,PC,6.90,11.70,4.20
+S02360,Castle Forge,Payment query,Handheld,8.50,37.60,3.40
+S02361,Sunset Sprint,Account access,Handheld,8.10,21.80,4.00
+S02362,Puzzle Grove,Gameplay question,Handheld,7.20,10.70,4.30
+S02363,Orbit Quest,Account access,PC,9.10,13.60,4.70
+S02364,Star Tactics,Crash,PC,9.10,65.30,2.30
+S02365,Ocean Architect,Gameplay question,Handheld,0.60,3.00,4.70
+S02366,Rune Roads,Gameplay question,Handheld,8.40,15.40,2.90
+S02367,Orbit Quest,Payment query,Handheld,5.80,21.20,3.60
+S02368,Echo Quest,Payment query,Console,2.30,19.30,4.30
+S02369,Puzzle Grove,Gameplay question,Console,8.10,12.50,3.40
+S02370,Crystal Run,Account access,Console,10.00,18.10,4.30
+S02371,Block Expedition,Account access,Console,9.20,12.40,4.90
+S02372,Rune Roads,Crash,Handheld,7.30,56.60,3.10
+S02373,Forest Trails,Crash,PC,4.30,43.10,3.00
+S02374,River Rescue,Account access,Console,2.60,7.00,4.30
+S02375,Garden Worlds,Crash,Console,4.40,33.90,3.20
+S02376,Moon Valley,Crash,PC,5.60,42.10,3.80
+S02377,Crystal Run,Account access,Console,7.70,19.20,3.50
+S02378,Forest Trails,Performance,Handheld,2.30,26.20,3.40
+S02379,Echo Quest,Performance,Console,9.60,31.00,3.10
+S02380,Skybound,Performance,Handheld,5.20,55.10,2.80
+S02381,Skybound,Gameplay question,Handheld,6.50,12.70,5.00
+S02382,Iron Arena,Account access,Handheld,6.80,16.90,4.00
+S02383,Neon Circuit,Crash,Console,7.70,41.40,3.70
+S02384,Harbour Builder,Gameplay question,Handheld,6.20,12.20,4.70
+S02385,Block Expedition,Payment query,Handheld,6.20,23.40,5.00
+S02386,Neon Circuit,Crash,Console,5.20,52.20,3.30
+S02387,Castle Forge,Payment query,Handheld,3.70,19.00,4.60
+S02388,Sunset Sprint,Gameplay question,Console,8.20,15.10,4.10
+S02389,Iron Arena,Account access,PC,1.50,15.20,4.80
+S02390,Deep Space,Crash,Handheld,2.60,33.80,3.50
+S02391,Orbit Quest,Account access,Handheld,3.10,10.20,4.90
+S02392,Neon Circuit,Account access,Handheld,7.50,19.00,4.60
+S02393,Crystal Run,Payment query,Console,1.00,19.20,4.20
+S02394,Forest Trails,Gameplay question,PC,9.20,19.20,4.20
+S02395,River Rescue,Account access,Handheld,2.50,6.50,5.00
+S02396,Star Tactics,Crash,Handheld,1.10,36.00,4.20
+S02397,Star Tactics,Payment query,PC,2.60,18.40,3.50
+S02398,Moon Valley,Performance,Console,10.00,24.40,4.80
+S02399,Crystal Run,Performance,Console,7.80,33.80,4.60
+S02400,Echo Quest,Performance,PC,8.40,40.30,3.30
